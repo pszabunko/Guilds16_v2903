@@ -1,0 +1,1001 @@
+NR	FILENR	ID	SYMBOL	USE	TRACE	RU	PL
+24210	963	125851	VLK_3116_SANCHO	C_NPC.NAME	C_NPC.NAME	Санчес	Ńŕí÷ĺń
+24211	963	125855	STRF_3117_FASKO	C_NPC.NAME	C_NPC.NAME	Фаско	Ôŕńęî
+24212	963	125860	VLK_3118_HARLAN	C_NPC.NAME	C_NPC.NAME	Харлан	Őŕđëŕí
+24213	963	125868	STRF_3119_RONALD	C_NPC.NAME	C_NPC.NAME	Роланд	Đîëŕíä
+24214	963	125873	NONE_3124_SEK	C_NPC.NAME	C_NPC.NAME	Сэк	Ńýę
+24215	963	125884	NONE_3122_ROCKY	C_NPC.NAME	C_NPC.NAME	Рокки	Đîęęč
+24222	976	126248	ZOMBIE_OM10	C_NPC.NAME	C_NPC.NAME	Страж-фанатик защитник	Obrońca fanatyk
+24223	976	126251	ZOMBIE_OM11	C_NPC.NAME	C_NPC.NAME	Страж-фанатик защитник	Obrońca fanatyk
+24224	976	126254	ZOMBIE_OM12	C_NPC.NAME	C_NPC.NAME	Страж-фанатик защитник	Obrońca fanatyk
+24285	1024	127934	KDF_641_DEMRION	C_NPC.NAME	C_NPC.NAME	Демрион	Äĺěđčîí
+24286	1024	127939	KDF_642_DEMRION_ASTRALPROJEKTION	C_NPC.NAME	C_NPC.NAME	Демрион	Äĺěđčîí
+24287	1024	127944	KDF_643_SANATRAS	C_NPC.NAME	C_NPC.NAME	Санатрас	Ńŕíŕňđŕń
+24288	1024	127950	KDF_644_TUBUR	C_NPC.NAME	C_NPC.NAME	Тубур	Ňóáóđ
+24289	1024	127982	KDF_645_ESOTARIS	C_NPC.NAME	C_NPC.NAME	Эо’Тарис	Ýî’Ňŕđčń
+24290	1024	128019	KDF_646_KRAITOS	C_NPC.NAME	C_NPC.NAME	Крайтос	Ęđŕéňîń
+24291	1024	128033	KDF_647_NYRAN	C_NPC.NAME	C_NPC.NAME	Ниран	Íčđŕí
+24292	1024	128066	KDF_648_REMORAZ	C_NPC.NAME	C_NPC.NAME	Ремораз	Đĺěîđŕç
+24293	1024	128078	KDF_649_WORAS	C_NPC.NAME	C_NPC.NAME	Ворас	Âîđŕń
+24294	1024	128085	KDF_650_KEL	C_NPC.NAME	C_NPC.NAME	Кел	Ęĺë
+24295	1024	128104	KDF_651_KEL	C_NPC.NAME	C_NPC.NAME	Кел	Ęĺë
+24296	1024	128115	KDF_652_MIRAS	C_NPC.NAME	C_NPC.NAME	Мирас	Ěčđŕń
+24313	1040	128656	KDW_7014_TAMIRAS	C_NPC.NAME	C_NPC.NAME	Тамирас	Ňŕěčđŕń
+24314	1040	128661	KDW_7015_LEVADIAN	C_NPC.NAME	C_NPC.NAME	Левадиан	Ëĺâŕäčŕí
+24315	1040	128666	KDW_7016_MERDRON	C_NPC.NAME	C_NPC.NAME	Мэрдрон	Ěýđäđîí
+24408	1193	130346	BDT_997_DOEN	C_NPC.NAME	C_NPC.NAME	Доэн	Äîýí
+24409	1193	130354	BDT_998_HALVAR	C_NPC.NAME	C_NPC.NAME	Халвар	Őŕëâŕđ
+24410	1193	130363	GRD_146_ERWIN	C_NPC.NAME	C_NPC.NAME	Эрвин	Ýđâčí
+24411	1193	130389	GRD_147_CLARENCE	C_NPC.NAME	C_NPC.NAME	Кларенс	Ęëŕđĺíń
+24412	1193	130417	GRD_148_ORTO	C_NPC.NAME	C_NPC.NAME	Орто	Orto
+24413	1193	130448	NONE_149_POSZUKIWACZ	C_NPC.NAME	C_NPC.NAME	Исследователь	Čńńëĺäîâŕňĺëü
+24414	1193	130461	NONE_150_FALCUS	C_NPC.NAME	C_NPC.NAME	Фалькус	Ôŕëüęóń
+24415	1194	130470	OUT_6179_BAROMIR	C_NPC.NAME	C_NPC.NAME	Баромир	Áŕđîěčđ
+24416	1194	130475	OUT_6180_ALBUS	C_NPC.NAME	C_NPC.NAME	Альбус	Ŕëüáóń
+24417	1194	130486	OUT_6181_QUENTIN	C_NPC.NAME	C_NPC.NAME	Квентин	Ęâĺíňčí
+24418	1194	130493	OUT_6182_RAIK	C_NPC.NAME	C_NPC.NAME	Райк	Đŕéę
+24419	1194	130502	OUT_6183_EMELYA	C_NPC.NAME	C_NPC.NAME	Емельян	Ĺěĺëü˙í
+24420	1194	130511	NONE_6184_ACHILLES	C_NPC.NAME	C_NPC.NAME	Ахилл	Ŕőčëë
+24421	1195	130516	NONE_7005_VIGO	C_NPC.NAME	C_NPC.NAME	Виго	Âčăî
+24422	1195	130521	NONE_7017_ARTARIA	C_NPC.NAME	C_NPC.NAME	Артария	Ŕđňŕđč˙
+24434	1212	130693	NOV_615_NOVIZE	C_NPC.NAME	C_NPC.NAME	Рэм	Đýě
+24455	1240	130924	PAL_1870_MELHIOR	C_NPC.NAME	C_NPC.NAME	Мельхиор	Melchior
+24485	1347	132144	PAL_6050_KENDRIK	C_NPC.NAME	C_NPC.NAME	Кендрик	Ęĺíäđčę
+24486	1355	132178	PAL_6058_RITTER	C_NPC.NAME	C_NPC.NAME	Инструктор	Číńňđóęňîđ
+24487	1362	132213	RTN_EXITWILLAGE_6065	C_NPC.NAME	C_NPC.NAME	Герард	Ăĺđŕđä
+24488	1362	132216	RTN_FOLLOWTOCAMP_6065	C_NPC.NAME	C_NPC.NAME	Герард	Ăĺđŕđä
+24489	1362	132219	RTN_BDTCAMP_6065	C_NPC.NAME	C_NPC.NAME	Герард	Ăĺđŕđä
+24490	1377	132283	PAL_6080_BONVIAN	C_NPC.NAME	C_NPC.NAME	Лорд Бонвиан	Ëîđä Áîíâčŕí
+24491	1380	132302	PAL_6083_BARDOK	C_NPC.NAME	C_NPC.NAME	Бардок	Áŕđäîę
+24492	1387	132331	PAL_6090_RITTER	C_NPC.NAME	C_NPC.NAME	Рыцарь-бандит	Đűöŕđü-áŕíäčň
+24493	1389	132340	PAL_6092_RITTER	C_NPC.NAME	C_NPC.NAME	Рыцарь-бандит	Đűöŕđü-áŕíäčň
+24494	1392	132353	PAL_6095_RITTER	C_NPC.NAME	C_NPC.NAME	Рыцарь-бандит	Đűöŕđü-áŕíäčň
+24495	1397	132374	PAL_6100_RITTER	C_NPC.NAME	C_NPC.NAME	Рыцарь-бандит	Đűöŕđü-áŕíäčň
+24496	1405	132407	PAL_7000_MARRIC	C_NPC.NAME	C_NPC.NAME	Марик	Ěŕđčę
+24497	1405	132413	PAL_7001_SCHMELZER	C_NPC.NAME	C_NPC.NAME	Плавильщик	Ďëŕâčëüůčę
+24498	1405	132420	PAL_7002_WACHE	C_NPC.NAME	C_NPC.NAME	Стражник	Strażnik
+24499	1405	132425	PAL_7004_MARCON	C_NPC.NAME	C_NPC.NAME	Маркон	Ěŕđęîí
+24500	1405	132433	PAL_7006_JUSTUS	C_NPC.NAME	C_NPC.NAME	Юстус	Ţńňóń
+24502	1430	132768	PAL_9117_ANHEIM	C_NPC.NAME	C_NPC.NAME	Анхейм	Anheim
+24503	1432	132876	PAL_9119_GALIEN	C_NPC.NAME	C_NPC.NAME	Жальен	Jalien
+24504	1435	132895	PAL_9122_FERDINAND	C_NPC.NAME	C_NPC.NAME	Фердинанд	Ferdinand
+24505	1436	132902	PAL_9123_SANDRO	C_NPC.NAME	C_NPC.NAME	Сандро	Sandro
+24506	1458	133043	PAL_9145_GURTZ	C_NPC.NAME	C_NPC.NAME	Гурц	Gurtz
+24508	1469	133111	PAL_9156_REMAN	C_NPC.NAME	C_NPC.NAME	Реман	Reman
+24539	1570	134179	PC_AERO	C_NPC.NAME	C_NPC.NAME	Дениел	Äĺíčĺë
+24540	1570	134183	PC_HERO_DF	C_NPC.NAME	C_NPC.NAME	Я	ß
+24553	1582	134358	BAU_40_ONAR	C_NPC.NAME	C_NPC.NAME	Онар	Onar
+24554	1582	134368	BAU_41_DOYLE	C_NPC.NAME	C_NPC.NAME	Дейл	Äĺéë
+24555	1582	134378	BAU_42_NATAN	C_NPC.NAME	C_NPC.NAME	Натан	Natan
+24556	1582	134386	BAU_45_DERG	C_NPC.NAME	C_NPC.NAME	Дерг	Äĺđă
+24557	1582	134391	BAU_46_WASILI	C_NPC.NAME	C_NPC.NAME	Василий	Wasili
+24558	1582	134397	BAU_47_MARIA	C_NPC.NAME	C_NPC.NAME	Мария	Maria
+24559	1582	134406	BAU_48_BODO	C_NPC.NAME	C_NPC.NAME	Бодо	Bodo
+24560	1582	134412	BAU_49_GUNNAR	C_NPC.NAME	C_NPC.NAME	Гуннар	Gunnar
+24561	1582	134422	BAU_50_PEPE	C_NPC.NAME	C_NPC.NAME	Пепе	Pepe
+24562	1582	134432	BAU_51_THEKLA	C_NPC.NAME	C_NPC.NAME	Текла	Thekla
+24563	1582	134443	VLK_52_KHALED	C_NPC.NAME	C_NPC.NAME	Калед	Khaled
+24564	1582	134453	VLK_53_MIKE	C_NPC.NAME	C_NPC.NAME	Майк	Mike
+24565	1582	134462	MIL_60_PECK	C_NPC.NAME	C_NPC.NAME	Пек	Peck
+24566	1582	134469	MM_GM_01	C_NPC.NAME	C_NPC.NAME	Мастер	Mistrz
+24640	1675	136536	SLD_830_ALVARES	C_NPC.NAME	C_NPC.NAME	Альварес	Alvares
+24641	1676	136547	SLD_831_ENGARDO	C_NPC.NAME	C_NPC.NAME	Энгардо	Engardo
+24642	1676	136558	SLD_832_FLT_AMUS	C_NPC.NAME	C_NPC.NAME	Амус	Ŕěóń
+24645	1679	136577	SLD_6173_AARON	C_NPC.NAME	C_NPC.NAME	Аарон	Ŕŕđîí
+24646	1679	136584	SLD_6174_DALE	C_NPC.NAME	C_NPC.NAME	Дейл	Äĺéë
+24647	1679	136595	SLD_6175_EVERALDO	C_NPC.NAME	C_NPC.NAME	Эверальдо	Ýâĺđŕëüäî
+24648	1679	136600	SLD_6176_GASTON	C_NPC.NAME	C_NPC.NAME	Гастон	Ăŕńňîí
+24649	1679	136607	SLD_6177_KOSTILIO	C_NPC.NAME	C_NPC.NAME	Костилио	Ęîńňčëčî
+24650	1679	136612	SLD_6178_LANDO	C_NPC.NAME	C_NPC.NAME	Ландо	Ëŕíäî
+24667	1740	137007	STRF_7007_LUKAS	C_NPC.NAME	C_NPC.NAME	Лукас	Ëóęŕń
+24668	1740	137012	STRF_7008_MATTHAUS	C_NPC.NAME	C_NPC.NAME	Маттеус	Ěŕňňĺóń
+24669	1740	137016	STRF_7009_JOHANNES	C_NPC.NAME	C_NPC.NAME	Йоханнес	Éîőŕííĺń
+24670	1740	137020	STRF_7010_JONA	C_NPC.NAME	C_NPC.NAME	Йона	Éîíŕ
+24671	1740	137024	STRF_7011_THOMAS	C_NPC.NAME	C_NPC.NAME	Томас	Thomas
+24672	1740	137028	STRF_7012_GABRIEL	C_NPC.NAME	C_NPC.NAME	Габриэль	Ăŕáđčýëü
+24673	1740	137032	STRF_7013_NORA	C_NPC.NAME	C_NPC.NAME	Нора	Íîđŕ
+24902	2060	141094	MIL_6149_DRAGAN	C_NPC.NAME	C_NPC.NAME	Драган	Äđŕăŕí
+24980	2153	142175	GOBBO_WARRIOR_BOSS	C_NPC.NAME	C_NPC.NAME	Вождь гоблинов	Âîćäü ăîáëčíîâ
+25001	2155	142223	ZUFALLS_KEILER	C_NPC.NAME	C_NPC.NAME	Чавкающий секач	Warczący dzik
+25072	2167	142424	ZUFALLS_BLUTFLIEGE	C_NPC.NAME	C_NPC.NAME	Лесной шершень	Krwiopijca leśny
+25073	2167	142425	ZUFALLS_BLUTFLIEGE2	C_NPC.NAME	C_NPC.NAME	Лесной шершень	Krwiopijca leśny
+25074	2167	142426	ZUFALLS_BLUTFLIEGE3	C_NPC.NAME	C_NPC.NAME	Лесной шершень	Krwiopijca leśny
+25127	2171	142542	MST_DEFAULT_DRACONIANIRDORATH	C_NPC.NAME	C_NPC.NAME	Человек-ящер	Jaszczuroczłek
+25128	2171	142543	MST_DEFAULT_DRACONIANSHAMAN	C_NPC.NAME	C_NPC.NAME	Шаман ящеров	Řŕěŕí ˙ůĺđîâ
+25129	2171	142544	DRACONIANSHAMAN_IRD	C_NPC.NAME	C_NPC.NAME	Шаман ящров Гросшх	Řŕěŕí ˙ůđîâ Ăđîńřő
+25130	2171	142545	MST_DEFAULT_UNDEADDRACONIAN	C_NPC.NAME	C_NPC.NAME	Неупокоенный человек-ящер	Íĺóďîęîĺííűé ÷ĺëîâĺę-˙ůĺđ
+25131	2171	142549	MST_DEFAULT_SCHRAT	C_NPC.NAME	C_NPC.NAME	Леший	Ëĺřčé
+25185	2182	142671	YGIANT_BUG_ARVID1	C_NPC.NAME	C_NPC.NAME	Молодой полевой хищник	Ěîëîäîé ďîëĺâîé őčůíčę
+25186	2182	142672	YGIANT_BUG_ARVID2	C_NPC.NAME	C_NPC.NAME	Молодой полевой хищник	Ěîëîäîé ďîëĺâîé őčůíčę
+25204	2184	142704	MST_DEFAULT_GOBBO_HOOD	C_NPC.NAME	C_NPC.NAME	Гоблин в колпаке	Ăîáëčí â ęîëďŕęĺ
+25205	2184	142708	MST_DEFAULT_RATMAN	C_NPC.NAME	C_NPC.NAME	Крысолюд	Ęđűńîëţä
+25206	2184	142712	RATMAN_OLD	C_NPC.NAME	C_NPC.NAME	Старый крысолюд	Ńňŕđűé ęđűńîëţä
+25207	2184	142713	RATMAN_MIS_1	C_NPC.NAME	C_NPC.NAME	Крысолюд Ральфа	Ęđűńîëţä Đŕëüôŕ
+25208	2184	142714	RATMAN_MIS_2	C_NPC.NAME	C_NPC.NAME	Крысолюд Ральфа	Ęđűńîëţä Đŕëüôŕ
+25209	2184	142715	RATMAN_MIS_3	C_NPC.NAME	C_NPC.NAME	Крысолюд Ральфа	Ęđűńîëţä Đŕëüôŕ
+25210	2184	142716	RATMAN_MIS_4	C_NPC.NAME	C_NPC.NAME	Крысолюд Ральфа	Ęđűńîëţä Đŕëüôŕ
+25211	2184	142717	RATMAN_MIS_5	C_NPC.NAME	C_NPC.NAME	Крысолюд Ральфа	Ęđűńîëţä Đŕëüôŕ
+25221	2187	142736	GOBBO_WARRIOR_BOSS_HARD	C_NPC.NAME	C_NPC.NAME	Вождь гоблинов	Âîćäü ăîáëčíîâ
+25230	2188	142763	HARPIE_DEMON	C_NPC.NAME	C_NPC.NAME	Драконья гарпия	Äđŕęîíü˙ ăŕđďč˙
+25231	2188	142764	HARPIE_DEMON_HARD	C_NPC.NAME	C_NPC.NAME	Драконья гарпия	Äđŕęîíü˙ ăŕđďč˙
+25232	2188	142765	HARPIE_BOSS	C_NPC.NAME	C_NPC.NAME	Королева гарпий	Ęîđîëĺâŕ ăŕđďčé
+25233	2188	142766	HARPIE_BOSS_HARD	C_NPC.NAME	C_NPC.NAME	Королева гарпий	Ęîđîëĺâŕ ăŕđďčé
+25234	2188	142767	MST_DEFAULT_AMSEL	C_NPC.NAME	C_NPC.NAME	Черный дрозд	×ĺđíűé äđîçä
+25255	2190	142825	LURKER_ICE_GOMER	C_NPC.NAME	C_NPC.NAME	Снежный луркер	Ńíĺćíűé ëóđęĺđ
+25259	2190	142844	LURKER_BOSS	C_NPC.NAME	C_NPC.NAME	Шныг-вожак	Říűă-âîćŕę
+25260	2190	142845	MST_DEFAULT_LURKER_HARD	C_NPC.NAME	C_NPC.NAME	Луркер	Topielec
+25261	2190	142846	LURKER_BOSS_HARD	C_NPC.NAME	C_NPC.NAME	Шныг-вожак	Říűă-âîćŕę
+25262	2190	142847	ZUFALLS_LURKER5	C_NPC.NAME	C_NPC.NAME	Матерый луркер	Dojrzały topielec
+25263	2190	142848	ZUFALLS_LURKER6	C_NPC.NAME	C_NPC.NAME	Матерый луркер	Dojrzały topielec
+25264	2190	142849	ZUFALLS_LURKER7	C_NPC.NAME	C_NPC.NAME	Матерый луркер	Dojrzały topielec
+25265	2190	142850	MST_DEFAULT_BULMOGG	C_NPC.NAME	C_NPC.NAME	Булмог	Áóëěîă
+25273	2192	142874	YOUNG_MINECRAWLER	C_NPC.NAME	C_NPC.NAME	Молодой ползун	Ěîëîäîé ďîëçóí
+25287	2192	142923	MST_DEFAULT_UNTERWELTCRAWLERKAP6	C_NPC.NAME	C_NPC.NAME	Демонический подземный ползун	Äĺěîíč÷ĺńęčé ďîäçĺěíűé ďîëçóí
+25301	2194	142964	MST_DEFAULT_UNTERWELTMINECRAWLERWARRIORKAP6	C_NPC.NAME	C_NPC.NAME	Демонический подземный ползун-воин	Äĺěîíč÷ĺńęčé ďîäçĺěíűé ďîëçóí-âîčí
+25306	2195	142990	MOLERAT_ICE	C_NPC.NAME	C_NPC.NAME	Снежный кротокрыс	Ńíĺćíűé ęđîňîęđűń
+25308	2195	142992	MST_DEFAULT_ADARMOSMOLERAT	C_NPC.NAME	C_NPC.NAME	Серый кротокрыс	Szary kretoszczur
+25317	2195	143022	ZUFALLS_MOLERAT_ANFANG	C_NPC.NAME	C_NPC.NAME	Кротокрыс - сюрприз	Kretoszczur - ńţđďđčç
+25384	2198	143180	ZUFALLS_SCAVENGER_ANFANG	C_NPC.NAME	C_NPC.NAME	Кровавый падальщик	Ęđîâŕâűé ďŕäŕëüůčę
+25385	2198	143181	MST_DEFAULT_MOUNTAIN_SCAVENGER	C_NPC.NAME	C_NPC.NAME	Горный падальщик	Ăîđíűé ďŕäŕëüůčę
+25386	2198	143185	MST_DEFAULT_MOUNTAIN_OLDSCAVENGER	C_NPC.NAME	C_NPC.NAME	Старый падальщик	Stary ścierwojad
+25403	2200	143253	SHADOWBEAST_ARMOR	C_NPC.NAME	C_NPC.NAME	Бронированный мракорис	Áđîíčđîâŕííűé ěđŕęîđčń
+25404	2200	143254	SHADOWBEAST_DARK	C_NPC.NAME	C_NPC.NAME	Пещерный мракорис	Ďĺůĺđíűé ěđŕęîđčń
+25405	2200	143255	SHADOWBEAST_HARD	C_NPC.NAME	C_NPC.NAME	Матерый мракорис	Ěŕňĺđűé ěđŕęîđčń
+25406	2200	143256	SHADOWBEAST_MAGIC	C_NPC.NAME	C_NPC.NAME	Магический мракорис	Ěŕăč÷ĺńęčé ěđŕęîđčń
+25407	2200	143260	YSHADOWBEAST	C_NPC.NAME	C_NPC.NAME	Молодой мракорис	Młody cieniostwór
+25408	2200	143261	SHADOWBEAST_BOSS	C_NPC.NAME	C_NPC.NAME	Мракорис альбинос	Ěđŕęîđčń ŕëüáčíîń
+25409	2200	143262	MST_DEFAULT_TARROK	C_NPC.NAME	C_NPC.NAME	Таррок	Tarrok
+25417	2201	143280	SHADOWBEAST_BOSS_HARD	C_NPC.NAME	C_NPC.NAME	Скелет альбиноса	Ńęĺëĺň ŕëüáčíîńŕ
+25422	2202	143321	HURT_SHEEP	C_NPC.NAME	C_NPC.NAME	Раненная овца	Đŕíĺííŕ˙ îâöŕ
+25480	2203	143499	MST_DEFAULT_DUNGEON_SKELETON	C_NPC.NAME	C_NPC.NAME	Скелет защитник	Ńęĺëĺň çŕůčňíčę
+25485	2203	143509	SARKERAS_SKELETON	C_NPC.NAME	C_NPC.NAME	Малый скелет	Ěŕëűé ńęĺëĺň
+25486	2203	143510	MST_SKELETON_WARRIOR	C_NPC.NAME	C_NPC.NAME	Скелет-воин	Szkielet-wojownik
+25487	2203	143511	MST_SKELETON_WARRIOR_DARK	C_NPC.NAME	C_NPC.NAME	Демонический скелет-воин	Demoniczny szkielet-wojownik
+25500	2204	143538	SKELETON_LORD_MAYA	C_NPC.NAME	C_NPC.NAME	Древний воин зодчих	Äđĺâíčé âîčí çîä÷čő
+25503	2204	143541	SKELETON_LORD_CRYPTE	C_NPC.NAME	C_NPC.NAME	Скелет воин	Ńęĺëĺň âîčí
+25504	2204	143542	WAECHTERSKEL_01	C_NPC.NAME	C_NPC.NAME	Проклятый древний	Ďđîęë˙ňűé äđĺâíčé
+25505	2204	143545	WAECHTERSKEL_02	C_NPC.NAME	C_NPC.NAME	Проклятый древний	Ďđîęë˙ňűé äđĺâíčé
+25506	2204	143548	WAECHTERSKEL_03	C_NPC.NAME	C_NPC.NAME	Проклятый древний	Ďđîęë˙ňűé äđĺâíčé
+25509	2205	143555	SOUL_GHOST_NOINV	C_NPC.NAME	C_NPC.NAME	Душа	Dusza
+25523	2209	143826	GRIMBALD_SNAPPER1	C_NPC.NAME	C_NPC.NAME	Стайный снеппер	Ńňŕéíűé ńíĺďďĺđ
+25524	2209	143827	GRIMBALD_SNAPPER2	C_NPC.NAME	C_NPC.NAME	Стайный снеппер	Ńňŕéíűé ńíĺďďĺđ
+25525	2209	143828	GRIMBALD_SNAPPER3	C_NPC.NAME	C_NPC.NAME	Стайный снеппер	Ńňŕéíűé ńíĺďďĺđ
+25546	2209	143849	ZUFALLS_SNAPPER	C_NPC.NAME	C_NPC.NAME	Тропический снеппер	Tropikalny zębacz
+25578	2211	143952	YSANDWURM_NATURWORLD	C_NPC.NAME	C_NPC.NAME	Молодой песчаный червь	Młody piaskowy robak
+25579	2211	143953	LINDWURM	C_NPC.NAME	C_NPC.NAME	Линд червь	Ëčíä ÷ĺđâü
+25580	2211	143957	MST_DEFAULT_WAECHTER	C_NPC.NAME	C_NPC.NAME	Шестирукий страж	Řĺńňčđóęčé ńňđŕć
+25581	2211	143961	MST_DEFAULT_SUMPFLAUFER	C_NPC.NAME	C_NPC.NAME	Клыкач-бегунок	Ęëűęŕ÷-áĺăóíîę
+25597	2214	144001	SCHILDKROETE_V1	C_NPC.NAME	C_NPC.NAME	Тропическая черепаха	Ňđîďč÷ĺńęŕ˙ ÷ĺđĺďŕőŕ
+25632	2217	144072	BLACKWOLF_BOSS	C_NPC.NAME	C_NPC.NAME	Вожак стаи	Âîćŕę ńňŕč
+25633	2217	144073	BLACKWOLF_BOSS_HARD	C_NPC.NAME	C_NPC.NAME	Вожак стаи	Âîćŕę ńňŕč
+25668	2219	144171	ZUFALLS_WOLF	C_NPC.NAME	C_NPC.NAME	Светлый волк	Jasny wilk
+25669	2219	144172	ZUFALLS_WOLF2	C_NPC.NAME	C_NPC.NAME	Светлый волк	Jasny wilk
+25670	2219	144173	ZUFALLS_WOLF3	C_NPC.NAME	C_NPC.NAME	Светлый волк	Jasny wilk
+25671	2219	144174	ZUFALLS_WOLF4	C_NPC.NAME	C_NPC.NAME	Светлый волк	Jasny wilk
+25756	2220	144383	RAVENZOMBIE	C_NPC.NAME	C_NPC.NAME	Зомби Бладвина	Çîěáč Áëŕäâčíŕ
+25757	2220	144405	MST_DEFAULT_ZOMBIE_OC	C_NPC.NAME	C_NPC.NAME	Болотный зомби-защитник	Bagienny zombie-strażnik
+26043	2228	144821	UNDEADORCSHAMAN_PRIEST	C_NPC.NAME	C_NPC.NAME	Первосвященник	Ďĺđâîńâ˙ůĺííčę
+26056	2344	144999	DIA_PRETRADE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	(заплатить торговый налог для пополнения товара)	(çŕďëŕňčňü ňîđăîâűé íŕëîă äë˙ ďîďîëíĺíč˙ ňîâŕđŕ)
+26057	-1	39540	DIA_PRETRADE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_preTRADE_15_00"")"	SUBTITLE	У тебя есть новые товары?	Ó ňĺá˙ ĺńňü íîâűĺ ňîâŕđű?
+26058	-1	39540	DIA_PRETRADE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_preTRADE_09_01"")"	SUBTITLE	Недавно появились. Если заплатишь торговый налог - быстрее обновлю товар.	Íĺäŕâíî ďî˙âčëčńü. Ĺńëč çŕďëŕňčřü ňîđăîâűé íŕëîă - áűńňđĺĺ îáíîâëţ ňîâŕđ.
+26059	2344	145002	DIA_PRETRADE_INFO	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Заплатить	Çŕďëŕňčňü 
+26060	2344	145003	DIA_PRETRADE_INFO	CONCATSTRINGS.PAR1	INFO_ADDCHOICE.PAR1	золотых.	 złota.
+26061	2344	145004	DIA_PRETRADE_INFO	PRINT.PAR0	PRINT.PAR0	Распакуйте кошельки для оплаты наличными	Đŕńďŕęóéňĺ ęîřĺëüęč äë˙ îďëŕňű íŕëč÷íűěč
+26073	2353	145541	B_GIVEDEATHKARMA	PRINTUP._TEXT_	PRINTSCREEN.PAR0	Белиара забавляет ваш энтузиазм.	Beliar jest rozbawiony twoim entuzjazmem.
+26074	2353	145542	B_GIVEDEATHKARMA	PRINTUP._TEXT_	PRINTSCREEN.PAR0	Белиара забавляет ваш энтузиазм.	Beliar jest rozbawiony twoim entuzjazmem.
+26075	2353	145543	B_GIVEDEATHKARMA	PRINTUP._TEXT_	PRINTSCREEN.PAR0	Душа обрела покой.	Dusza jest spokojna.
+26076	2354	145545	B_CHECKDEADNPCS_AW_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Полагаю, что теперь Сеньян никому не сможет рассказать мою тайну. Оно и к лучшему!	Myślę, że teraz Senyan nie może nikomu zdradzić mojego sekretu. Tak będzie najlepiej!
+26077	2354	145546	B_CHECKDEADNPCS_AW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Сеньян мертв и наше с ним сотрудничество безвременнно подошло к концу. Кто-то слишком поторопился его убрать...	Senyan nie żyje, a nasza współpraca z nim zakończyła się przedwcześnie. Ktoś zbyt pochopnie go usunął...
+26078	2354	145547	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Осталось обрадовать Скипа...	Wszystko, co pozostało do zrobienia, to uszczęśliwić Skipa...
+26079	2354	145548	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Стоит внимательно осмотреть брюхо сытого болотожора.	Warto dokładnie obejrzeć brzuch tego sytego błotnego węża.
+26080	2354	145549	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил верховного шамана орды - Варраг-Шатана.	Zabiłem najwyższego szamana hordy, Varrag-Shatana.
+26081	2354	145550	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил верховного шамана орды - Варраг-Казорга.	Zabiłem najwyższego szamana hordy, Varrag-Kazorga.
+26082	2354	145551	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил верховного шамана орды - Варраг-Хашора в храме целителей.	Zabiłem najwyższego szamana hordy, Varrag-Hashora, w świątyni uzdrowicieli.
+26083	2354	145552	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил верховного шамана орды - Варраг-Назула в лагере бандитов.	Zabiłem najwyższego szamana hordy, Varrag-Nazula, w obozie bandytów.
+26084	2354	145553	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил верховного шамана орды - Варраг-Хаташа возле храма ученых.	Zabiłem najwyższego szamana hordy, Varrag-Khatasha, w pobliżu świątyni uczonych.
+26085	2354	145554	B_CHECKDEADNPCS_AW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил одного из клана предводителей орды - Ур-Катана.	Zabiłem jednego z przywódców klanu hordy, Ur-Katana.
+26086	2354	145562	B_CHECKDEADNPCS_AW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Сюда вам рано!	Nie możesz tu wejść!
+26087	2354	145563	B_CHECKDEADNPCS_AW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Поговорите с двумя охранниками.	Ďîăîâîđčňĺ ń äâóě˙ îőđŕííčęŕěč.
+26088	2355	145568	B_CHECKDEADNPCS_DES_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито пустынных разбойников:	Zabici pustynni bandyci: 
+26089	2355	145569	B_CHECKDEADNPCS_DES_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 7	 z 7
+26090	2355	145570	B_CHECKDEADNPCS_DES_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Мне удалось позаботиться о безопасности паладинов. Нужно их обрадовать.	Udało mi się zapewnić paladynom bezpieczeństwo. To na pewno ich uszczęśliwi.
+26091	2356	145584	B_CHECKDEADNPCS_DI_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито Ищущих:	Óáčňî Čůóůčő: 
+26092	2356	145585	B_CHECKDEADNPCS_DI_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 7	 z 7
+26093	2356	145587	B_CHECKDEADNPCS_DI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Мне чудом удалось избежать смерти от лап демонов, призваных Хранителем Даготом... Теперь надо решить, что делать дальше. У кого просить совета?!	Cudem uniknąłem śmierci w szponach demonów przywołanych przez Strażnika Dagotha... Teraz muszę zdecydować, co dalej. Kogo mogę zapytać o radę?
+26094	2356	145588	B_CHECKDEADNPCS_DI_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я убил Педро! Серпентес будет доволен.	Zabiłem Pedro! Serpentes będzie zadowolony.
+26095	2356	145589	B_CHECKDEADNPCS_DI_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Педро мертв и теперь уже не важно - как это случилось!	Pedro nie żyje i nie ma znaczenia, jak to się stało!
+26096	2357	145590	B_CHECKDEADNPCS_DW_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито кротокрысов:	Zabite kretoszczury: 
+26097	2357	145591	B_CHECKDEADNPCS_DW_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 15	 z 15
+26098	2357	145592	B_CHECKDEADNPCS_DW_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито кроликов:	Zabite króliki: 
+26099	2357	145593	B_CHECKDEADNPCS_DW_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 7	 z 7
+26100	2357	145594	B_CHECKDEADNPCS_DW_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито медоедов:	Zabite borsuki-miodojady: 
+26101	2357	145595	B_CHECKDEADNPCS_DW_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 7	 z 7
+26102	2357	145596	B_CHECKDEADNPCS_DW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Победа над водяным големом выполнена со смекалкой.	Pokonałem wodnego golema za pomocą sprytu.
+26103	2357	145597	B_CHECKDEADNPCS_DW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Победа над водяным големом выполнена с грубой силой.	Pokonałem wodnego golema za pomocą brutalnej siły.
+26104	2357	145598	B_CHECKDEADNPCS_DW_ZEN	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Тюремщик убит, Сэмми может бежать.	Strażnik nie żyje, Sammy może uciec.
+26105	2357	145599	B_CHECKDEADNPCS_DW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	У Ястора и его приспешников должно быть логово где-то здесь. Стоит осмотреться.	Jastor i jego sługusy muszą mieć gdzieś tutaj kryjówkę. Warto się rozejrzeć.
+26106	2357	145600	B_CHECKDEADNPCS_DW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я без разговоров напал на Ястора и убил его.	Zaatakowałem Jastora bez gadania i go zabiłem.
+26107	2357	145601	B_CHECKDEADNPCS_DW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я привел Сэмми к подельникам, получил награду и убил всех бандитов.	Zaprowadziłem Sammy'ego do jego kolegów, odebrałem nagrodę i zabiłem wszystkich bandytów.
+26108	2359	145602	B_CHECKDEADNPCS_INTR_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Мартинус погиб... Гертруда будет очень расстроена.	Martinus nie żyje. Gertruda będzie bardzo zdenerwowana.
+26109	2359	145603	B_CHECKDEADNPCS_INTR_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Полевые жуки мертвы. Нужно сообщить об этом Ральфу.	Polne bestie są martwe. Muszę poinformować o tym Ralpha.
+26110	2360	145604	B_CHECKDEADNPCS_ISLF_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я наказал Сигги за убийство Мирко!	Ukarałem Siggy'ego za zabicie Mirko!
+26111	2360	145605	B_CHECKDEADNPCS_ISLF_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я добыл голову убийцы Адама.	Mam głowę zabójcy Adama.
+26112	2360	145606	B_CHECKDEADNPCS_ISLF_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Грон мертв. Сработано грубо, но как и хотел Сигги, свидетелей убийства не было.	Ăđîí ěĺđňâ. Ńđŕáîňŕíî ăđóáî, íî ęŕę č őîňĺë Ńčăăč, ńâčäĺňĺëĺé óáčéńňâŕ íĺ áűëî.
+26113	2360	145607	B_CHECKDEADNPCS_ISLF_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Грон мертв. Я подмешал яд, потом убил оружием. Может еще и сжечь тело?	Ăđîí ěĺđňâ. ß ďîäěĺřŕë ˙ä, ďîňîě óáčë îđóćčĺě. Ěîćĺň ĺůĺ č ńćĺ÷ü ňĺëî?
+26114	2360	145608	B_CHECKDEADNPCS_ISLF_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Марк мертв. Как и хотел Сигги, свидетелей убийства не осталось.	Ěŕđę ěĺđňâ. Ęŕę č őîňĺë Ńčăăč, ńâčäĺňĺëĺé óáčéńňâŕ íĺ îńňŕëîńü.
+26115	2361	145611	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26116	2361	145612	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26117	2361	145613	B_CHECKDEADNPCS_LI_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Педро мертв! Как говориться, нет человека - нет проблемы.	Pedro nie żyje! Jak to mówią, nie ma człowieka, nie ma problemu.
+26118	2361	145614	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26119	2361	145615	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26120	2361	145616	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26121	2361	145617	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26122	2361	145618	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26123	2361	145619	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26124	2361	145620	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26125	2361	145621	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26126	2361	145622	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26127	2361	145623	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26128	2361	145624	B_CHECKDEADNPCS_LI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, я поговорил со всеми парнями. Теперь стоит сообщить об этом нашему капитану.	Myślę, że rozmawiałem już ze wszystkimi. Teraz nadszedł czas, aby poinformować o tym naszego kapitana.
+26129	2362	145625	B_CHECKDEADNPCS_NTR_ZEN	B_LOGENTRY_DATETIME.ENTRY	LOG_ADDENTRY.PAR1	На Острове испытаний убил 100 монстров.	Íŕ Îńňđîâĺ čńďűňŕíčé óáčë 100 ěîíńňđîâ.
+26130	2362	145626	B_CHECKDEADNPCS_NTR_ZEN	B_LOGENTRY_DATETIME.ENTRY	LOG_ADDENTRY.PAR1	На Острове испытаний убил 200 монстров.	Íŕ Îńňđîâĺ čńďűňŕíčé óáčë 200 ěîíńňđîâ.
+26131	2362	145628	B_CHECKDEADNPCS_NTR_ZEN	PRINT.PAR0	PRINT.PAR0	Найдены свиток и стрелы	Íŕéäĺíű ńâčňîę č ńňđĺëű
+26132	2363	145629	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Внутри самки луркера оказался странный камень. Нужно показать его Мердариону.	Wewnątrz samicy znajduje się dziwny kamień. Trzeba go pokazać Merdarionowi.
+26133	2363	145630	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я решил сам убить волков. Помощь Гаана мне не нужна.	Postanowiłem sam zabić wilki. Nie potrzebuję pomocy Gaana.
+26134	2363	145631	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я победил черного тролля, уменьшив его. Нужно сообщить Гримбальду.	Pokonałem czarnego trolla, zmniejszając go. Muszę poinformować Grimbalda.
+26135	2363	145632	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я победил черного тролля! Нужно сообщить Гримбальду.	Pokonałem czarnego trolla! Musimy powiedzieć Grimbaldowi.
+26136	2363	145633	B_CHECKDEADNPCS_NW_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито воинов Ханту:	Wojownicy Hantu zabici: 
+26137	2363	145634	B_CHECKDEADNPCS_NW_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 10	 z 10
+26138	2363	145635	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Мне удалось позаботиться о безопасности своих знакомых. Пора заняться другими делами.	Udało mi się zadbać o bezpieczeństwo moich znajomych. Czas zająć się innymi rzeczami.
+26139	2363	145638	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ключ от входа в монастырь Инноса я взял из трупа Серджио.	Zabrałem klucz do wejścia do klasztoru Innosa ze zwłok Sergio.
+26140	2363	145639	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Со смертью Серджио может быть не все так очевидно.	Ńî ńěĺđňüţ Ńĺđäćčî ěîćĺň áűňü íĺ âńĺ ňŕę î÷ĺâčäíî.
+26141	2363	145642	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Нужно сообщить Хранителю Фариону о смертью Серджио и убийстве его перерождения - Сенгаха.	Íóćíî ńîîáůčňü Őđŕíčňĺëţ Ôŕđčîíó î ńěĺđňüţ Ńĺđäćčî č óáčéńňâĺ ĺăî ďĺđĺđîćäĺíč˙ - Ńĺíăŕőŕ.
+26142	2363	145643	B_CHECKDEADNPCS_NW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Убив Инубиса, герой вернул свои силы!	Zabijając Inubisa, bohater odzyskał swoje moce!
+26143	2363	145644	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я уничтожил обращенного паладина Инубиса и тем самым, даровал успокоение его душе.	Zniszczyłem nawróconego paladyna Inubisa, a tym samym dałem spokój jego duszy.
+26144	2363	145645	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Наша задуманная с Ударом уловка, кажется, удалась! Теперь посмотрим что на это скажет сам Натан...	Wygląda na to, że nasza sztuczka z Udarem zadziałała! Zobaczmy teraz, co sam Nathan ma do powiedzenia na ten temat...
+26145	2363	145646	B_CHECKDEADNPCS_NW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Удар погиб! Теперь обет чести данный паладином Натаном не имеет силы.	Udar jest martwy! Teraz przysięga honoru złożona przez paladyna Nathana nie ma żadnego skutku.
+26146	2363	145647	B_CHECKDEADNPCS_NW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Натан погиб! Теперь его обет чести не имеет силы.	Nathan nie żyje! Jego przysięga honorowa jest teraz nieważna.
+26147	2363	145648	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Все действительно оказалось проще простого! Яркий магический свет - вот чего боятся теневые големы. Ведь он их мгновенно убивает...	To naprawdę było takie proste! Jasne magiczne światło jest tym, czego boją się mroczne golemy. Zabija je natychmiast...
+26148	2363	145649	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ксардас оказался прав! Яркий магический свет мгновенно убил теневого голема.	Xardas miał rację! Jasne magiczne światło natychmiast zabiło mrocznego golema.
+26149	2363	145650	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Яркий магический свет мгновенно убил теневого голема.	Jasne magiczne światło natychmiast zabiło mrocznego golema.
+26150	2363	145651	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я снова уничтожил стража темной башни.	Znów zniszczyłem strażnika mrocznej wieży.
+26151	2363	145652	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я уничтожил стража темной башни.	Zniszczyłem strażnika mrocznej wieży.
+26152	2363	145654	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Галлахад мертв! Надо сообщить об этом Ксардасу.	Gallahad nie żyje! Musimy powiedzieć Xardasowi.
+26153	2363	145658	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я не успел помочь Бенчелу - бандиты убили его. Думаю, Лютеро не особо обрадуется этому известию.	Nie zdołałem pomóc Benchelowi, bandyci go zabili. Nie sądzę, by Lutero był zbyt szczęśliwy słysząc to.
+26154	2363	145659	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Бенчел мертв! Думаю, Лютеро не особо обрадуется этому известию.	Benchel nie żyje! Nie sądzę, żeby Lutero był z tego powodu zadowolony.
+26155	2363	145661	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я прикончил этого болтуна, Луиса.	Skończyłem z tą paplą, Luisem.
+26156	2363	145662	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я отправил Лемара на тот свет, при этом не забыв передать ему привет от Асмала.	Wysłałem Lemara na tamten świat, pamiętając jednocześnie o przekazaniu mu pozdrowień od Asmala.
+26157	2363	145663	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Со смертью Лемара оборвалась цепочка напарников по Лиге азартных игроков. Может, слухи что-то подскажут.	Wraz ze śmiercią Lemara przerwany został łańcuch partnerów w lidze kości. Może te plotki coś nam powiedzą.
+26158	2363	145664	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кантар мертв! В общем, я не особо сожалею о том, что мне пришлось это сделать, ведь он мне и самому не очень то нравился...	Cantar nie żyje! W każdym razie nie jest mi przykro, że musiałem to zrobić, bo sam go bardzo nie lubiłem...
+26159	2363	145665	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я пришил этого беднягу Найджела.	Przygwoździłem tego biedaka Nigela.
+26160	2363	145666	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Интересно, как получается - и Найджел мертв и я знаю, у кого находятся его долговые деньги. Может быть мне стоит сказать Асмалу, что Найджел отказался отдавать долг, а деньги оставить себе... Правда для этого мне надо будет разобраться с бандитами, что ограбили его.	Zastanawiam się, jak to się stało, że Nigel nie żyje, a ja wiem, kto ma jego dług. Może powinienem powiedzieć Asmalowi, że Nigel odmówił spłaty długu i zatrzymać pieniądze... Ale żeby to zrobić, musiałbym rozprawić się z bandytami, którzy go okradli.
+26161	2363	145667	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Интересно, как получается - и Найджел мертв и я забрал у бандитов его долговые деньги. Может быть мне стоит сказать Асмалу, что Найджел отказался отдавать долг, а деньги оставить себе...	Nigel nie żyje, a ja odebrałem bandytom jego dług. Może powinienem powiedzieć Asmalowi, że Nigel odmówił spłaty długu i zatrzymać pieniądze...
+26162	2363	145668	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Теперь, когда Рудар мертв - он не опасен для Асмала.	Teraz, gdy Rudar nie żyje, nie stanowi już zagrożenia dla Asmala.
+26163	2363	145669	B_CHECKDEADNPCS_NW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Педро мертв! Как говориться, нет человека - нет проблемы.	Pedro nie żyje! Jak to mówią, nie ma człowieka, nie ma problemu.
+26164	2363	145671	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Заяц со странной тенью сбросил шкурку и оказался волком!	Zając z dziwnym cieniem zrzucił futro i okazał się wilkiem!
+26165	2363	145672	B_CHECKDEADNPCS_NW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Какая-то тень вылетела из зайца и скрылась в кустах!	Jakiś cień wyleciał z zająca i zniknął w krzakach!
+26166	2363	145673	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Теперь хутор полностью зачищен!	Teraz gospodarstwo jest całkowicie bezpieczne!
+26167	2363	145674	B_CHECKDEADNPCS_NW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Стоянка очищена от нежити!	Strzeż się nieumarłych!
+26168	2363	145675	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я упокоил нежить на мосту к таверне Орлана.	Pokonałem nieumarłych na moście prowadzącym do Tawerny Orlana.
+26169	2363	145676	B_CHECKDEADNPCS_NW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Стоянка очищена от нежити!	Strzeż się nieumarłych!
+26170	2363	145677	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я упокоил нежить в лесном лагере за фермой Онара.	Pozbyłem się nieumarłych w leśnym obozie za farmą Onara.
+26171	2363	145678	B_CHECKDEADNPCS_NW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Стоянка очищена от нежити!	Strzeż się nieumarłych!
+26172	2363	145679	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я упокоил нежить на стоянке, рядом с пещерой Сагитты.	Pozbyłem się nieumarłych nieopodal jaskini Sagitty.
+26173	2363	145680	B_CHECKDEADNPCS_NW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Стоянка очищена от нежити!	Strzeż się nieumarłych!
+26174	2363	145681	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я упокоил нежить на стоянке, где был Элврих.	Pozbyłem się nieumarłych nieopodal miejsca, gdzie znajdował się Elvrich.
+26175	2363	145682	B_CHECKDEADNPCS_NW_ZEN	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Стоянка очищена от нежити!	Strzeż się nieumarłych!
+26176	2363	145683	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я упокоил нежить возле башни Декстера.	Pokonałem nieumarłych w pobliżu wieży Dextera.
+26177	2363	145684	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Пора обрадовать Ватраса, что нежить упокоена..	Czas powiedzieć Vatrasowi, że nieumarli zostali uśpieni.
+26178	2363	145688	B_CHECKDEADNPCS_NW_ZEN	PRINTDOWN._TEXT_	PRINTSCREEN.PAR0	Белиар прогневался на убийцу своих слуг и проклял героя!	Beliar był wściekły na mordercę swoich sług i przeklął bohatera!
+26179	2363	145689	B_CHECKDEADNPCS_NW_ZEN	PRINTDOWN._TEXT_	PRINTSCREEN.PAR0	Здоровье и сила противников станет больше!	Zdrowie i siła przeciwników stają się zwiększone!
+26180	2363	145690	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил овечку. Пора вернуться к Ксардасу.	Zabiłem owcę. Czas wracać do Xardasa.
+26181	2363	145697	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я вообще перестаю понимать, что здесь происходит! Когда я попытался атаковать одного из орков, то в меня ударил разряд молнии чуть не убивший меня. По всей видимости, какая-то магия защищает всех этих тварей. Похоже, что мне надо быть теперь поострожнее...	Nawet nie rozumiem, co tu się dzieje! Kiedy próbowałem zaatakować jednego z orków, zostałem trafiony piorunem, który prawie mnie zabił. Najwyraźniej jakaś magia ich chroni. Wygląda na to, że będę musiał być teraz bardziej ostrożny...
+26182	2363	145698	B_CHECKDEADNPCS_NW_ZEN	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Стали происходить довольно странные вещи! Когда я попытался атаковать одного из орков, то в меня ударил разряд молнии чуть не убивший меня. По всей видимости, какая-то магия защищает всех этих тварей. Похоже, что мне надо быть теперь поострожнее...	Zaczęły się dziać dość dziwne rzeczy! Kiedy próbowałem zaatakować jednego z orków, zostałem trafiony błyskawicą, która prawie mnie zabiła. Najwyraźniej jakaś magia ich chroni. Wygląda na to, że muszę być teraz bardziej ostrożny...
+26183	2363	145703	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я вообще перестаю понимать, что здесь происходит! Когда я попытался атаковать одного из орков, то в меня ударил разряд молнии чуть не убивший меня. По всей видимости, какая-то магия защищает всех этих тварей. Похоже, что мне надо быть теперь поострожнее...	Nawet nie rozumiem, co tu się dzieje! Kiedy próbowałem zaatakować jednego z orków, zostałem trafiony piorunem, który prawie mnie zabił. Najwyraźniej jakaś magia ich chroni. Wygląda na to, że będę musiał być teraz bardziej ostrożny...
+26184	2363	145704	B_CHECKDEADNPCS_NW_ZEN	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Стали происходить довольно странные вещи! Когда я попытался атаковать одного из орков, то в меня ударил разряд молнии чуть не убивший меня. По всей видимости, какая-то магия защищает всех этих тварей. Похоже, что мне надо быть теперь поострожнее...	Zaczęły się dziać dość dziwne rzeczy! Kiedy próbowałem zaatakować jednego z orków, zostałem trafiony błyskawicą, która prawie mnie zabiła. Najwyraźniej jakaś magia ich chroni. Wygląda na to, że muszę być teraz bardziej ostrożny...
+26185	2363	145709	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я вообще перестаю понимать, что здесь происходит! Когда я попытался атаковать одного из орков, то в меня ударил разряд молнии чуть не убивший меня. По всей видимости, какая-то магия защищает всех этих тварей. Похоже, что мне надо быть теперь поострожнее...	Nawet nie rozumiem, co tu się dzieje! Kiedy próbowałem zaatakować jednego z orków, zostałem trafiony piorunem, który prawie mnie zabił. Najwyraźniej jakaś magia ich chroni. Wygląda na to, że będę musiał być teraz bardziej ostrożny...
+26186	2363	145710	B_CHECKDEADNPCS_NW_ZEN	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Стали происходить довольно странные вещи! Когда я попытался атаковать одного из орков, то в меня ударил разряд молнии чуть не убивший меня. По всей видимости, какая-то магия защищает всех этих тварей. Похоже, что мне надо быть теперь поострожнее...	Zaczęły się dziać dość dziwne rzeczy! Kiedy próbowałem zaatakować jednego z orków, zostałem trafiony błyskawicą, która prawie mnie zabiła. Najwyraźniej jakaś magia ich chroni. Wygląda na to, że muszę być teraz bardziej ostrożny...
+26187	2363	145711	B_CHECKDEADNPCS_NW_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Орки:	Orkowie: 
+26188	2363	145714	B_CHECKDEADNPCS_NW_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Мы победили в этой битве - огромная армия орков повержена! Теперь можно подумать об освобождении от орков самого города и прилегающих к нему окрестностей.	Wygraliśmy tę bitwę - ogromna armia orków została pokonana! Teraz możemy pomyśleć o wyzwoleniu miasta i okolic od orków.
+26189	2363	145716	B_CHECKDEADNPCS_NW_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Люди:	Ludzie: 
+26190	2363	145718	B_CHECKDEADNPCS_NW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	К большому сожалению, мы проиграли эту битву! Паладины лорда Хагена не смогли остановить натиск огромной армии орков даже несмотря на помощь со стороны наемников и прочих людей... И теперь только Инносу известно, что будет с нами!	To wielka szkoda, że przegraliśmy tę bitwę! Paladyni Lorda Hagena nie byli w stanie powstrzymać ataku ogromnej armii orków, nawet z pomocą najemników i innych ludzi... I teraz tylko Innos wie, co się z nami stanie!
+26191	2363	145720	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я успокоил душу могущественного некромага! Теперь можно подумать и о том, как достать Некрономикон.	Ukoiłem duszę potężnego nekromanty! Teraz możemy zastanowić się, jak zdobyć Necronomicon.
+26192	2363	145721	B_CHECKDEADNPCS_NW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Клык умер! Думаю, что теперь моя помощь в этом деле бесполезна.	Fang nie żyje! Myślę, że moja pomoc w tej sprawie jest teraz bezużyteczna.
+26193	2363	145722	B_CHECKDEADNPCS_NW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Фестера убили жуки! Придется зачищать логово в одиночку.	Fester został zabity przez robaki! Będę musiał sam oczyścić legowisko.
+26194	2363	145724	B_CHECKDEADNPCS_NW_ZEN	PRINTUP._TEXT_	PRINTSCREEN.PAR0	Вы призвали дух Лотара!	Przywołałeś ducha Lothara!
+26195	2363	145725	B_CHECKDEADNPCS_NW_ZEN	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Бонус педанта!	Bonus pedanta!
+26196	2363	145726	B_CHECKDEADNPCS_NW_ZEN	CONCATSTRINGS.PAR1	LOG_ADDENTRY.PAR1	Бонус педанта.	Bonus pedanta.
+26197	2363	145727	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил Зуриса! Интересно, что мне это даст. Для начала надо обыскать его труп - может что и найду полезное.	Zabiłem Zurisa! Zastanawiam się, co mi to da. Najpierw powinienem przeszukać jego zwłoki i sprawdzić, czy znajdę coś przydatnego.
+26198	2363	145728	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил Асмала.	Zabiłem Asmala.
+26199	2363	145729	B_CHECKDEADNPCS_NW_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	С бандой Ханса покончено - все его люди и он сам мертвы. Но потом возникли проблемы - Асмал посчитал, что я не заслужил большой доли за это дело и согласился дать мне всего лишь 500 монет. Меня это не устроило и мне пришлось покончить с Асмалом.	Gang Hansa był skończony - wszyscy jego ludzie i on sam byli martwi. Pojawił się jednak problem - Asmal uważał, że nie zasługuję na duży udział w robocie i zgodził się dać mi tylko 500 monet. Nie byłem z tego zadowolony i musiałem skończyć z Asmalem.
+26200	2363	145731	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я прикончил Асмала. Теперь я - глава гильдии убийц!	Zabiłem Asmala. Jestem teraz szefem gildii zabójców!
+26201	2363	145732	B_CHECKDEADNPCS_NW_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Вы получили доспех 'Мастера Гильдии Убийц' и уникальное зелье!	"Zdobyłeś zbroję ""Mistrz Gildii Zabójców"" i unikalny eliksir!"
+26202	2363	145733	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я прикончил Асмала! Возможно я поторопился, но теперь уже ничего не поправить.	Zabiłem Asmala! Być może postąpiłem zbyt pochopnie, ale teraz już nic nie mogę na to poradzić.
+26203	2363	145734	B_CHECKDEADNPCS_NW_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	С бандой Ханса покончено - все его люди и он сам мертвы. В этой рубке погиб и сам Асмал - глава гильдии убийц.	Gang Hansa jest historią - wszyscy jego ludzie i on sam nie żyją. Sam Asmal, szef gildii zabójców, również zginął w tej walce.
+26204	2363	145742	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я разобрался с гильдией убийц.	Miałem do czynienia z gildią zabójców.
+26205	2363	145743	B_CHECKDEADNPCS_NW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Вамбо мертв! Пора возвращаться к Асмалу.	Wambo nie żyje! Czas wrócić do Asmala.
+26206	2364	145744	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26207	2364	145745	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26208	2364	145746	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26209	2364	145747	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26210	2364	145748	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26211	2364	145749	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26212	2364	145750	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26213	2364	145751	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26214	2364	145752	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26215	2364	145753	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26216	2364	145754	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26217	2364	145755	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26218	2364	145756	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26219	2364	145757	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26220	2364	145758	B_CHECKDEADNPCS_OM_ZEN	CONCATTEXT	PRINTSCREEN.PAR0	Убито проклятых призраков:	Zabite przeklęte duchy: 
+26221	2365	145759	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Как мне и велел Хаг-Тар, я убил всех охотников на драконов.	Tak jak kazał mi Hag-Tar, zabiłem wszystkich łowców smoków.
+26222	2365	145760	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Как мне и велел Хаг-Тар, я убил всех охотников на драконов.	Tak jak kazał mi Hag-Tar, zabiłem wszystkich łowców smoków.
+26223	2365	145761	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Как мне и велел Хаг-Тар, я убил всех охотников на драконов.	Tak jak kazał mi Hag-Tar, zabiłem wszystkich łowców smoków.
+26224	2365	145762	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Как мне и велел Хаг-Тар, я убил всех охотников на драконов.	Tak jak kazał mi Hag-Tar, zabiłem wszystkich łowców smoków.
+26225	2365	145763	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Как мне и велел Хаг-Тар, я убил всех охотников на драконов.	Tak jak kazał mi Hag-Tar, zabiłem wszystkich łowców smoków.
+26226	2365	145764	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Как мне и велел Хаг-Тар, я убил всех охотников на драконов.	Tak jak kazał mi Hag-Tar, zabiłem wszystkich łowców smoków.
+26227	2365	145765	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Как мне и велел Хаг-Тар, я убил всех охотников на драконов.	Tak jak kazał mi Hag-Tar, zabiłem wszystkich łowców smoków.
+26228	2365	145766	B_CHECKDEADNPCS_OW_ZEN	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	В старой башне Ксардаса я убил Ищущих Мелитона. Нужно поговорить с ним об этом.	Zabiłem Poszukiwaczy Melitona w starej wieży Xardasa. Muszę z nim o tym porozmawiać.
+26229	2365	145767	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил всех Ищущих Мелитона в старой башне Ксардаса. Нужно сообщить ему эту весть.	Zabiłem wszystkich Poszukiwaczy Melitona w starej wieży Xardasa. Musimy przekazać mu te wieści.
+26230	2365	145770	B_CHECKDEADNPCS_OW_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито защитников ритуалистов:	Rytualni poszukiwacze zabici: 
+26231	2365	145771	B_CHECKDEADNPCS_OW_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 20	 z 20
+26232	2365	145772	B_CHECKDEADNPCS_OW_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 10	 z 10
+26233	2365	145774	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил всех Ищущих-ритуалистов в Болотном лагере. Нужно поискать их предводителя.	Zabiłem wszystkich Rytualnych Poszukiwaczy w Obozie na Bagnach. Trzeba znaleźć ich przywódcę.
+26234	2365	145776	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Кажется, удача в этот раз была на нашей стороне! Перебив весь коммандный состав орков в крепости, не думаю что орки смогут ее отстоять до конца.	Wygląda na to, że tym razem szczęście było po naszej stronie! Po zabiciu całego orkowego sztabu dowodzenia w fortecy nie sądzę, by orkowie byli w stanie bronić jej do końca.
+26235	2365	145777	B_CHECKDEADNPCS_OW_ZEN	PRINTDOWN._TEXT_	PRINTSCREEN.PAR0	Нужна помощь паладинов Натана!	Potrzebujemy pomocy od paladynów Nathana!
+26236	2365	145781	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил Ур-Тралла. Теперь необходимо сообщить об этом Хаг-Тару!	Zabiłem Ur-Thralla. Teraz muszę to zgłosić Hag-Tarowi!
+26237	2365	145782	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Все орки-рабы мертвы! Теперь пора возвращаться к Альберту.	Wszyscy orkowi niewolnicy nie żyją! Nadszedł czas, by wrócić do Alberta.
+26238	2365	145783	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил орочьего военачальника Нар-Шогана.	Zabiłem orkowego watażkę Nar Shogana.
+26239	2365	145784	B_CHECKDEADNPCS_OW_ZEN	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Я убил всех орочьих военачальников, о которых мне говорил паладин Орик.	Zabiłem wszystkich orkowych watażków, o których opowiadał mi paladyn Orik.
+26240	2365	145785	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил орочьего военачальника Нур-Шака.	Zabiłem orkowego watażkę Nur-Shaka.
+26241	2365	145786	B_CHECKDEADNPCS_OW_ZEN	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Я убил всех орочьих военачальников, о которых мне говорил паладин Орик.	Zabiłem wszystkich orkowych watażków, o których opowiadał mi paladyn Orik.
+26242	2365	145787	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил орочьего военачальника Тум-Пака.	Zabiłem orkowego watażkę Tum-Paka.
+26243	2365	145788	B_CHECKDEADNPCS_OW_ZEN	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Я убил всех орочьих военачальников, о которых мне говорил паладин Орик.	Zabiłem wszystkich orkowych watażków, o których opowiadał mi paladyn Orik.
+26244	2365	145789	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил орочьего военачальника Дур-Каша.	Zabiłem orkowego watażkę Dur-Kasha.
+26245	2365	145790	B_CHECKDEADNPCS_OW_ZEN	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Я убил всех орочьих военачальников, о которых мне говорил паладин Орик.	Zabiłem wszystkich orkowych watażków, o których opowiadał mi paladyn Orik.
+26246	2365	145791	B_CHECKDEADNPCS_OW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Удар погиб! Теперь обет чести данный паладином Натаном не имеет силы.	Udar jest martwy! Teraz przysięga honoru złożona przez paladyna Nathana nie ma żadnego skutku.
+26247	2365	145792	B_CHECKDEADNPCS_OW_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Натан погиб! Теперь его обет чести не имеет силы.	Nathan nie żyje! Jego przysięga honorowa jest teraz nieważna.
+26248	2365	145794	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил Хаг-Тара! Теперь надо сообщить об этом Ур-Траллу, чтобы он отпустил паладинов.	Zabiłem Hag-Tara! Teraz muszę powiedzieć Ur-Thrallowi, by uwolnił paladynów.
+26249	2365	145796	B_CHECKDEADNPCS_OW_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я победил Хаг-Тара! Посмотрим, что он теперь скажет.	Pokonałem Hag-Tara! Zobaczmy, co ma teraz do powiedzenia.
+26250	2366	145798	B_CHECKDEADNPCS_SEI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Этан мертв.	Ýňŕí ěĺđňâ.
+26251	2366	145799	B_CHECKDEADNPCS_SEI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Веларио мертв.	Âĺëŕđčî ěĺđňâ.
+26252	2366	145800	B_CHECKDEADNPCS_SEI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Бутан мертв.	Áóňŕí ěĺđňâ.
+26253	2366	145801	B_CHECKDEADNPCS_SEI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я убил всех трех бандитов у часовни.	ß óáčë âńĺő ňđĺő áŕíäčňîâ ó ÷ŕńîâíč.
+26254	2366	145802	B_CHECKDEADNPCS_SEI_ZEN	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Бандиты погибли. Им не до взлома решетки.	Áŕíäčňű ďîăčáëč. Čě íĺ äî âçëîěŕ đĺřĺňęč.
+26255	2366	145804	B_CHECKDEADNPCS_SEI_ZEN	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Аарон погиб. Я не смогу отчитаться о выполнении его задания.	Ŕŕđîí ďîăčá. ß íĺ ńěîăó îň÷čňŕňüń˙ î âűďîëíĺíčč ĺăî çŕäŕíč˙.
+26256	2366	145805	B_CHECKDEADNPCS_SEI_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Убито бегунков:	Óáčňî áĺăóíęîâ: 
+26257	2366	145806	B_CHECKDEADNPCS_SEI_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 7	 z 7
+26258	2366	145807	B_CHECKDEADNPCS_SEI_ZEN	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Часовня очищена:	×ŕńîâí˙ î÷čůĺíŕ: 
+26259	2366	145808	B_CHECKDEADNPCS_SEI_ZEN	CONCATSTRINGS.PAR1	PRINTSCREEN.PAR0	из 8	 čç 8
+26260	2366	145810	B_CHECKDEADNPCS_SEI_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Кровавый падальщик мертв. Драган помог его убить.	Ęđîâŕâűé ďŕäŕëüůčę ěĺđňâ. Äđŕăŕí ďîěîă ĺăî óáčňü.
+26261	2366	145811	B_CHECKDEADNPCS_SEI_ZEN	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Кровавый падальщик мертв. Я смог его убить.	Ęđîâŕâűé ďŕäŕëüůčę ěĺđňâ. ß ńěîă ĺăî óáčňü.
+26264	2367	145830	ZS_DEAD	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Мора Уларту потеряла силу в ваших руках!	Mora Ulartu straciła swą moc w twoich rękach!
+26265	2367	145831	ZS_DEAD	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Мора Уларту потеряла силу в ваших руках!	Mora Ulartu straciła swą moc w twoich rękach!
+26267	2367	145833	ZS_DEAD	PRINTDOWN._TEXT_	PRINTSCREEN.PAR0	Не хватает выносливости для амулета Мора Уларту!	Íĺ őâŕňŕĺň âűíîńëčâîńňč äë˙ ŕěóëĺňŕ Ěîđŕ Óëŕđňó!
+26299	2367	145917	ZS_DEAD	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Нож сохранился!	Íîć ńîőđŕíčëń˙!
+26300	2367	145918	ZS_DEAD	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Острый нож сохранился!	Îńňđűé íîć ńîőđŕíčëń˙!
+26301	2368	145929	ZS_FLEE_LOOP	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Пока личина не спала, стоит наведаться к Баромиру!	Ďîęŕ ëč÷číŕ íĺ ńďŕëŕ, ńňîčň íŕâĺäŕňüń˙ ę Áŕđîěčđó!
+26309	2376	146025	ZS_ATTACK_LOOP	C_NPC.NAME	C_NPC.NAME	Руперт	Rupert
+26310	2376	146028	ZS_ATTACK_LOOP	C_NPC.NAME	C_NPC.NAME	Елена	Elena
+26311	2378	146035	G_CANNOTUSE	G_CANNOTUSE.STRATTRIBUTEMISSING	PRINT.PAR0	Недостаточно владение 1р	Íĺäîńňŕňî÷íî âëŕäĺíčĺ 1đ
+26312	2378	146036	G_CANNOTUSE	G_CANNOTUSE.STRATTRIBUTEMISSING	PRINT.PAR0	Недостаточно владение 2р	Íĺäîńňŕňî÷íî âëŕäĺíčĺ 2đ
+26313	2378	146037	G_CANNOTUSE	G_CANNOTUSE.STRATTRIBUTEMISSING	PRINT.PAR0	Недостаточно владение луком	Íĺäîńňŕňî÷íî âëŕäĺíčĺ ëóęîě
+26314	2378	146038	G_CANNOTUSE	G_CANNOTUSE.STRATTRIBUTEMISSING	PRINT.PAR0	Недостаточно владение арбалетом	Íĺäîńňŕňî÷íî âëŕäĺíčĺ ŕđáŕëĺňîě
+26323	2383	146058	B_BUILDLEARNSTRING	CONCATSTRINGS.PAR1	INFO_ADDCHOICE.PAR1	золото	 złota
+26333	2383	146072	B_BUILDLEARNSTRINGTALENT	B_BUILDLEARNSTRINGTALENT.CONCATTEXT	INFO_ADDCHOICE.PAR1	Метание ножа +	Ěĺňŕíčĺ íîćŕ +
+26334	2383	146073	B_BUILDLEARNSTRINGTALENT	B_BUILDLEARNSTRINGTALENT.CONCATTEXT	INFO_ADDCHOICE.PAR1	Бой со щитом +	Áîé ńî ůčňîě +
+26352	2383	146091	B_BUILDLEARNSTRINGTALENT	B_BUILDLEARNSTRINGTALENT.CONCATTEXT	INFO_ADDCHOICE.PAR1	Обработка кож и ткани	Îáđŕáîňęŕ ęîć č ňęŕíč
+26353	2383	146092	B_BUILDLEARNSTRINGTALENT	B_BUILDLEARNSTRINGTALENT.CONCATTEXT	INFO_ADDCHOICE.PAR1	Столярное дело	Ńňîë˙đíîĺ äĺëî
+26357	2383	146096	B_BUILDLEARNSTRINGTALENT	B_BUILDLEARNSTRINGTALENT.CONCATTEXT	INFO_ADDCHOICE.PAR1	Проверка корзин	Ďđîâĺđęŕ ęîđçčí
+26399	2383	146141	B_BUILDLEARNSTRINGTALENT	B_BUILDLEARNSTRINGTALENT.CONCATTEXT	INFO_ADDCHOICE.PAR1	Добывать семена из желудка и аппендикса монстров	Äîáűâŕňü ńĺěĺíŕ čç ćĺëóäęŕ č ŕďďĺíäčęńŕ ěîíńňđîâ
+26411	2383	146153	B_BUILDLEARNSTRINGTALENT	B_BUILDLEARNSTRINGTALENT.CONCATTEXT	INFO_ADDCHOICE.PAR1	Общая ковка + Обычный меч	Îáůŕ˙ ęîâęŕ + Îáű÷íűé ěĺ÷
+26491	2383	146237	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Одноручник-боец	Jednoręczny wojownik
+26492	2383	146238	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Одноручник-мастер	Jednoręczny mistrz
+26493	2383	146239	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Двуручник-боец	Dwuręczny wojownik
+26494	2383	146240	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Двуручник-мастер	Dwuręczny mistrz
+26495	2383	146241	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Лучник-стрелок	Łucznik
+26496	2383	146242	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Лучник-мастер	Mistrz łuku
+26497	2383	146243	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Арбалетчик-стрелок	Kusznik
+26498	2383	146244	B_BUILDLEARNSTRINGFIGHTLEVEL	B_BUILDLEARNSTRINGFIGHTLEVEL.CONCATTEXT	C_INFO.DESCRIPTION	Арбалетчик-мастер	Mistrz kuszy
+26499	2383	146247	B_BUILDLEARNSTRINGFIGHTLEVEL	CONCATSTRINGS.PAR1	C_INFO.DESCRIPTION	золото	 złoto
+26500	2383	146248	B_BUILDLEARNSTRINGFIGHTLEVEL	CONCATSTRINGS.PAR1	C_INFO.DESCRIPTION	0 золото	 0 çîëîňî
+26530	2384	146289	B_TEACHTALENT	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Изучено: обработка кож и ткани	Čçó÷ĺíî: îáđŕáîňęŕ ęîć č ňęŕíč
+26531	2384	146290	B_TEACHTALENT	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я обучился обработке кож и ткани.	ß îáó÷čëń˙ îáđŕáîňęĺ ęîć č ňęŕíč.
+26532	2384	146291	B_TEACHTALENT	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Изучено: Столярное дело	Čçó÷ĺíî: Ńňîë˙đíîĺ äĺëî
+26533	2384	146292	B_TEACHTALENT	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я обучился работе на столярном верстаке.	ß îáó÷čëń˙ đŕáîňĺ íŕ ńňîë˙đíîě âĺđńňŕęĺ.
+26534	2384	146293	B_TEACHTALENT	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Теперь я могу на столярном верстаке обрабатывать полено и брус.	Ňĺďĺđü ˙ ěîăó íŕ ńňîë˙đíîě âĺđńňŕęĺ îáđŕáŕňűâŕňü ďîëĺíî č áđóń.
+26550	2384	146312	B_TEACHTALENT	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я обучился защите маной. При полученном уроне текущее здоровье за секунду восстановится, а урон отминусуется у текущей маны. Если мана равна 0, щит работать не будет. Снижает эффективность регенерации от Ватраса.	ß îáó÷čëń˙ çŕůčňĺ ěŕíîé. Ďđč ďîëó÷ĺííîě óđîíĺ ňĺęóůĺĺ çäîđîâüĺ çŕ ńĺęóíäó âîńńňŕíîâčňń˙, ŕ óđîí îňěčíóńóĺňń˙ ó ňĺęóůĺé ěŕíű. Ĺńëč ěŕíŕ đŕâíŕ 0, ůčň đŕáîňŕňü íĺ áóäĺň. Ńíčćŕĺň ýôôĺęňčâíîńňü đĺăĺíĺđŕöčč îň Âŕňđŕńŕ.
+26569	2385	146345	PC_TEXTBOOK_DEX	CONCATSTRINGS.PAR0	C_INFO.DESCRIPTION	Улучшить лук (-15 макс. жизни)	Óëó÷řčňü ëóę (-15 ěŕęń. życia)
+26571	2388	146357	B_TEACHALCHEMY	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ингредиенты для 'МЕШОЧКА С ПОРОХОМ': 1 селитра, 1 сера и 1 уголь.	Číăđĺäčĺíňű äë˙ 'ĚĹŘÎ×ĘŔ Ń ĎÎĐÎŐÎĚ': 1 ńĺëčňđŕ, 1 ńĺđŕ č 1 óăîëü.
+26572	2388	146358	B_TEACHALCHEMY	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ингредиенты для 5-ти 'ПАТРОНОВ К ОГНЕСТРЕЛЬНОМУ ОРУЖИЮ': 1 чистый пергамент, 1 мешочек с порохом и 5 стальных пуль.	Číăđĺäčĺíňű äë˙ 5-ňč 'ĎŔŇĐÎÍÎÂ Ę ÎĂÍĹŃŇĐĹËÜÍÎĚÓ ÎĐÓĆČŢ': 1 ÷čńňűé ďĺđăŕěĺíň, 1 ěĺřî÷ĺę ń ďîđîőîě č 5 ńňŕëüíűő ďóëü.
+26573	2388	146359	B_TEACHALCHEMY	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ингредиенты для 'НАПИТКА ПРОТИВ ПСИХИЧЕСКОГО ЗАБОЛЕВАНИЯ': 2 солнечника, 1 орочий лист, 2 вороньих травы, 2 водяники и лечебная трава.	Číăđĺäčĺíňű äë˙ 'ÍŔĎČŇĘŔ ĎĐÎŇČÂ ĎŃČŐČ×ĹŃĘÎĂÎ ÇŔÁÎËĹÂŔÍČß': 2 ńîëíĺ÷íčęŕ, 1 îđî÷čé ëčńň, 2 âîđîíüčő ňđŕâű, 2 âîä˙íčęč č ëĺ÷ĺáíŕ˙ ňđŕâŕ.
+26574	2388	146360	B_TEACHALCHEMY	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ингредиенты для 'ЛЕКАРСТВА ОТ ЗУДА': 3 лечебных травы, 1 Царский щавель и 1 песчаное растение.	Číăđĺäčĺíňű äë˙ 'ËĹĘŔĐŃŇÂŔ ÎŇ ÇÓÄŔ': 3 ëĺ÷ĺáíűő ňđŕâű, 1 Öŕđńęčé ůŕâĺëü č 1 ďĺń÷ŕíîĺ đŕńňĺíčĺ.
+26575	2391	146368	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я могу изготавливать простые стрелы и болты. Для этого мне необходимо иметь: стол для крафта стрел и болтов, набор наконечников из специальной стали, набор древков. Минимальная партия 25 болтов или 30 стрел.	ß ěîăó čçăîňŕâëčâŕňü ďđîńňűĺ ńňđĺëű č áîëňű. Äë˙ ýňîăî ěíĺ íĺîáőîäčěî čěĺňü: ńňîë äë˙ ęđŕôňŕ ńňđĺë č áîëňîâ, íŕáîđ íŕęîíĺ÷íčęîâ čç ńďĺöčŕëüíîé ńňŕëč, íŕáîđ äđĺâęîâ. Ěčíčěŕëüíŕ˙ ďŕđňč˙ 25 áîëňîâ čëč 30 ńňđĺë.
+26591	2391	146384	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Для того, чтобы сделать 'Дубину сектанта' не нужно никаких особых компонентов. Единственное что требуется, так это брус и набор крепежных материалов. Разумеется, мне понадобится столярный верстак.	Äë˙ ňîăî, ÷ňîáű ńäĺëŕňü 'Maczuga sekciarzy' íĺ íóćíî íčęŕęčő îńîáűő ęîěďîíĺíňîâ. Ĺäčíńňâĺííîĺ ÷ňî ňđĺáóĺňń˙, ňŕę ýňî áđóń č íŕáîđ ęđĺďĺćíűő ěŕňĺđčŕëîâ. Đŕçóěĺĺňń˙, ěíĺ ďîíŕäîáčňń˙ ńňîë˙đíűé âĺđńňŕę.
+26592	2391	146385	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Для того, чтобы сделать 'Тяжелую Дубину сектанта' мне нужно 1 брус, 2 набора крепежных материалов.	Äë˙ ňîăî, ÷ňîáű ńäĺëŕňü 'Ň˙ćĺëóţ Äóáčíó ńĺęňŕíňŕ' ěíĺ íóćíî 1 áđóń, 2 íŕáîđŕ ęđĺďĺćíűő ěŕňĺđčŕëîâ.
+26593	2391	146386	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Для того, чтобы сделать дубину 'Удар посвященного' мне нужно 1 брус, 3 набора крепежных материалов.	Äë˙ ňîăî, ÷ňîáű ńäĺëŕňü äóáčíó 'Uderzenie fanatyka' ěíĺ íóćíî 1 áđóń, 3 íŕáîđŕ ęđĺďĺćíűő ěŕňĺđčŕëîâ.
+26594	2391	146387	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Для того, чтобы сделать дубину 'Тяжелый удар посвященного' мне нужно 1 брус, 4 набора крепежных материалов.	Äë˙ ňîăî, ÷ňîáű ńäĺëŕňü äóáčíó 'Ciężkie uderzenie fanatyka' ěíĺ íóćíî 1 áđóń, 4 íŕáîđŕ ęđĺďĺćíűő ěŕňĺđčŕëîâ.
+26595	2391	146388	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Чтобы сделать волшебный посох сектанта, мне необходимо подойти к бревну, отпилить ствол, выкурить специальный косяк, расслабиться и после этого приступить к работе за столярным верстаком.	×ňîáű ńäĺëŕňü âîëřĺáíűé ďîńîő ńĺęňŕíňŕ, ěíĺ íĺîáőîäčěî ďîäîéňč ę áđĺâíó, îňďčëčňü ńňâîë, âűęóđčňü ńďĺöčŕëüíűé ęîń˙ę, đŕńńëŕáčňüń˙ č ďîńëĺ ýňîăî ďđčńňóďčňü ę đŕáîňĺ çŕ ńňîë˙đíűě âĺđńňŕęîě.
+26596	2391	146389	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Чтобы сделать улучшенный посох сектанта, мне необходимо подойти к бревну, отпилить ствол и приступить к работе.	×ňîáű ńäĺëŕňü óëó÷řĺííűé ďîńîő ńĺęňŕíňŕ, ěíĺ íĺîáőîäčěî ďîäîéňč ę áđĺâíó, îňďčëčňü ńňâîë č ďđčńňóďčňü ę đŕáîňĺ.
+26597	2391	146390	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Чтобы сделать посохи от Мелитона, нужно из бревна отпилить ствол, перейти к столярному верстаку, задействовать свиток 'Опутать корнями' и святую воду от Инноса. Получится древко, уникальное для первых посохов Мелитона.	×ňîáű ńäĺëŕňü ďîńîőč îň Ěĺëčňîíŕ, íóćíî čç áđĺâíŕ îňďčëčňü ńňâîë, ďĺđĺéňč ę ńňîë˙đíîěó âĺđńňŕęó, çŕäĺéńňâîâŕňü ńâčňîę 'Korzeń' č ńâ˙ňóţ âîäó îň Čííîńŕ. Ďîëó÷čňń˙ äđĺâęî, óíčęŕëüíîĺ äë˙ ďĺđâűő ďîńîőîâ Ěĺëčňîíŕ.
+26605	2391	146398	B_TEACHMAKEARROWS	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Чтобы сделать древки, нужно выровнять бревно до ствола, и пилить ствол вдоль, уменьшая ширину до заготовок нужного размера. Для стрел и болтов нужен брус, для оружия - оружейное бревно.	Aby wykonać trzonki do strzał, należy wyrównać kłodę z pniem, a następnie przepiłować pień wzdłuż, zmniejszając szerokość kawałków do odpowiedniego rozmiaru. Äë˙ ńňđĺë č áîëňîâ íóćĺí áđóń, äë˙ îđóćč˙ - îđóćĺéíîĺ áđĺâíî.
+26646	2396	146453	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Для ковки клинка требуется раскаленная стальная заготовка и один уголь. После проковки нужно заточить.	Äë˙ ęîâęč ęëčíęŕ ňđĺáóĺňń˙ đŕńęŕëĺííŕ˙ ńňŕëüíŕ˙ çŕăîňîâęŕ č îäčí óăîëü. Ďîńëĺ ďđîęîâęč íóćíî çŕňî÷čňü.
+26698	2396	146505	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Шпаги создаются из собранных ресурсов на точильном камне.	Řďŕăč ńîçäŕţňń˙ čç ńîáđŕííűő đĺńóđńîâ íŕ ňî÷čëüíîě ęŕěíĺ.
+26699	2396	146506	B_TEACHSMITH	B_LOGENTRY_QUIET.ENTRY	LOG_ADDENTRY.PAR1	Теперь я могу делать простые воровские шпаги. Для этого мне необходимо иметь: клинок и 2 угля.	Aby wykonać miecz złodzieja potrzebuję 1x ostrze i 2x węgiel.
+26729	2396	146536	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать оружие - катана 'Рассекающая ветер'. Компоненты - 2x раскаленная сталь, 5 маг. руда, 10 уголь, 5 сера, 2 кремень.	ß íŕó÷čëń˙ äĺëŕňü îđóćčĺ - ęŕňŕíŕ 'Cięcie Wiatru'. Cięcie Wiatru - Cięcie Wiatru đóäŕ, 10 óăîëü, 5 ńĺđŕ, 2 ęđĺěĺíü.
+26730	2396	146537	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать оружие - катана 'Танцующий вихрь'. Компоненты - 2x раскаленная сталь, 10 маг. руда, 2 каменный уголь, 2 кусок серы, 2 сербонит.	ß íŕó÷čëń˙ äĺëŕňü îđóćčĺ - ęŕňŕíŕ 'Tańczący wicher'. Tańczący wicher - Tańczący wicher đóäŕ, 2 ęŕěĺííűé óăîëü, 2 ęóńîę ńĺđű, 2 ńĺđáîíčň.
+26731	2396	146538	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать оружие - катана 'Кровавое дуновение'. Компоненты - 2x раскаленная сталь, 15 маг. руда, 5 красная маг. руда, 3 смола, 1 дарклит.	ß íŕó÷čëń˙ äĺëŕňü îđóćčĺ - ęŕňŕíŕ 'Zapach krwi'. Tańczący wicher - Tańczący wicher Tańczący wicher đóäŕ, 3 ńěîëŕ, 1 äŕđęëčň.
+26732	2396	146539	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать оружие - катана 'Серебряный бриз'. Компоненты - 2x раскаленная сталь, 20 маг. руда, 15 серебряная руда, 1 кусок серебра, 5 сербонит.	ß íŕó÷čëń˙ äĺëŕňü îđóćčĺ - ęŕňŕíŕ 'Srebrna bryza'. Tańczący wicher - Tańczący wicher đóäŕ, 15 ńĺđĺáđ˙íŕ˙ đóäŕ, 1 ęóńîę ńĺđĺáđŕ, 5 ńĺđáîíčň.
+26733	2396	146540	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать оружие - катана 'Свирепая моряна'. Компоненты - 2x раскаленная сталь, 30 маг. руда, 5 кремень, 3 дарклит, 1 ртуть.	ß íŕó÷čëń˙ äĺëŕňü îđóćčĺ - ęŕňŕíŕ 'Wzburzone morze'. Tańczący wicher - Tańczący wicher đóäŕ, 5 ęđĺěĺíü, 3 äŕđęëčň, 1 đňóňü.
+26734	2396	146541	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать оружие - катана 'Роза ветров'. Компоненты - 2x раскаленная сталь, 40 маг. руда, 20 серебряная руда, 1 черная руда, 20 красная маг. руда, 10 сербонит.	ß íŕó÷čëń˙ äĺëŕňü îđóćčĺ - ęŕňŕíŕ 'Róża wiatrów'. Tańczący wicher - Tańczący wicher Tańczący wicher đóäŕ, 10 ńĺđáîíčň.
+26735	2396	146542	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать оружие - катана 'Штормовая зыбь'. Компоненты - 2x раскаленная сталь, 50 маг. руда, 25 серебряная руда, 1 черная руда, 2 ртуть, 1 сирианийское масло.	ß íŕó÷čëń˙ äĺëŕňü îđóćčĺ - ęŕňŕíŕ 'Wzburzona fala'. Tańczący wicher - Tańczący wicher đóäŕ, 25 ńĺđĺáđ˙íŕ˙ đóäŕ, 1 ÷ĺđíŕ˙ đóäŕ, 2 đňóňü, 1 ńčđčŕíčéńęîĺ ěŕńëî.
+26736	2396	146543	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щиты. Вначале на бревне выпиливается оружейное бревно, потом на столярном верстаке делается заготовка внутренней части, и в завершение на слесарном верстаке щит собирается воедино. Мне могут понадобится материалы из кузницы и разделочного верстака.	ß íŕó÷čëń˙ äĺëŕňü ůčňű. Âíŕ÷ŕëĺ íŕ áđĺâíĺ âűďčëčâŕĺňń˙ îđóćĺéíîĺ áđĺâíî, ďîňîě íŕ ńňîë˙đíîě âĺđńňŕęĺ äĺëŕĺňń˙ çŕăîňîâęŕ âíóňđĺííĺé ÷ŕńňč, č â çŕâĺđřĺíčĺ íŕ ńëĺńŕđíîě âĺđńňŕęĺ ůčň ńîáčđŕĺňń˙ âîĺäčíî. Ěíĺ ěîăóň ďîíŕäîáčňń˙ ěŕňĺđčŕëű čç ęóçíčöű č đŕçäĺëî÷íîăî âĺđńňŕęŕ.
+26737	2396	146544	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щит 'Тяжелый деревянный щит'. Компоненты -  деревянная заготовка, 2x раскаленная сталь и 1 кусок угля.	ß íŕó÷čëń˙ äĺëŕňü ůčň 'Ň˙ćĺëűé äĺđĺâ˙ííűé ůčň'. Tańczący wicher -  äĺđĺâ˙ííŕ˙ çŕăîňîâęŕ, 2x đŕńęŕëĺííŕ˙ ńňŕëü č 1 ęóńîę óăë˙.
+26738	2396	146545	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щит 'Железный щит'. Компоненты -  деревянная заготовка, 3x раскаленная сталь и 3 куска угля.	ß íŕó÷čëń˙ äĺëŕňü ůčň 'Ćĺëĺçíűé ůčň'. Tańczący wicher -  äĺđĺâ˙ííŕ˙ çŕăîňîâęŕ, 3x đŕńęŕëĺííŕ˙ ńňŕëü č 3 ęóńęŕ óăë˙.
+26739	2396	146546	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щит 'Тяжелый железный щит'. Компоненты -  деревянная заготовка, 5x раскаленная сталь и 3 куска смолы.	ß íŕó÷čëń˙ äĺëŕňü ůčň 'Ň˙ćĺëűé ćĺëĺçíűé ůčň'. Tańczący wicher -  äĺđĺâ˙ííŕ˙ çŕăîňîâęŕ, 5x đŕńęŕëĺííŕ˙ ńňŕëü č 3 ęóńęŕ ńěîëű.
+26740	2396	146547	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щит 'Стальной щит'. Компоненты -  железная заготовка, 8x раскаленная сталь и 2 кожи рептилий.	ß íŕó÷čëń˙ äĺëŕňü ůčň 'Ńňŕëüíîé ůčň'. Tańczący wicher -  ćĺëĺçíŕ˙ çŕăîňîâęŕ, 8x đŕńęŕëĺííŕ˙ ńňŕëü č 2 ęîćč đĺďňčëčé.
+26741	2396	146548	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щит 'Тяжелый стальной щит'. Компоненты -  железная заготовка, 12x раскаленная сталь и 5 кож рептилий.	ß íŕó÷čëń˙ äĺëŕňü ůčň 'Ň˙ćĺëűé ńňŕëüíîé ůčň'. Tańczący wicher -  ćĺëĺçíŕ˙ çŕăîňîâęŕ, 12x đŕńęŕëĺííŕ˙ ńňŕëü č 5 ęîć đĺďňčëčé.
+26742	2396	146549	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щит 'Кованый щит'. Компоненты -  тяжелая железная заготовка, 15x раскаленная сталь и 3 куска магической руды.	ß íŕó÷čëń˙ äĺëŕňü ůčň 'Wykuta tarcza'. Tańczący wicher -  ň˙ćĺëŕ˙ ćĺëĺçíŕ˙ çŕăîňîâęŕ, 15x đŕńęŕëĺííŕ˙ ńňŕëü č 3 ęóńęŕ ěŕăč÷ĺńęîé đóäű.
+26743	2396	146550	B_TEACHSMITH	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я научился делать щит 'Рудный щит'. Компоненты -  тяжелая железная заготовка, 10x раскаленная сталь и 20 кусков магической руды.	ß íŕó÷čëń˙ äĺëŕňü ůčň 'Đóäíűé ůčň'. Tańczący wicher -  ň˙ćĺëŕ˙ ćĺëĺçíŕ˙ çŕăîňîâęŕ, 10x đŕńęŕëĺííŕ˙ ńňŕëü č 20 ęóńęîâ ěŕăč÷ĺńęîé đóäű.
+26809	2398	146620	B_TEACHANIMALTROPHY	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	... добывать у троллей, орков и людей-ящеров.	... äîáűâŕňü ó ňđîëëĺé, îđęîâ č ëţäĺé-˙ůĺđîâ.
+26818	2398	146629	B_TEACHANIMALTROPHY	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	...добывать семена из желудка и аппендикса монстров.	...äîáűâŕňü ńĺěĺíŕ čç ćĺëóäęŕ č ŕďďĺíäčęńŕ ěîíńňđîâ.
+26835	2402	146666	DIA_FASTFOOD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Есть сырое (яйца, грибы, травы).	Ĺńňü ńűđîĺ (˙éöŕ, ăđčáű, ňđŕâű).
+26836	2402	146667	DIA_FASTFOOD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Есть жареное (мясо, рыбу, грибы).	Ĺńňü ćŕđĺíîĺ (ě˙ńî, đűáó, ăđčáű).
+26839	2402	146670	DIA_FASTFOOD_RAWFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Яйцо падальщика	Jajo ścierwojada 
+26840	2402	146672	DIA_FASTFOOD_RAWFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Губернатор	Gubernator 
+26841	2402	146674	DIA_FASTFOOD_RAWFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Серафис	Serafis 
+26842	2402	146676	DIA_FASTFOOD_RAWFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Трава снеппера	Zębate ziele 
+26843	2402	146678	DIA_FASTFOOD_FRIEDFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Жареное мясо	Smażone mięso 
+26844	2402	146680	DIA_FASTFOOD_FRIEDFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Жареная ножка падальщика	Smażone udko ścierwojada 
+26845	2402	146682	DIA_FASTFOOD_FRIEDFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Поджаренная рыба	Smażona ryba 
+26846	2402	146684	DIA_FASTFOOD_FRIEDFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Жареное мясо снеппера	Smażone mięso z zębacza 
+26847	2402	146686	DIA_FASTFOOD_FRIEDFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Жареная печень снеппера	Smażona wątroba z zębacza 
+26848	2402	146688	DIA_FASTFOOD_FRIEDFOOD	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Жареные грибы	Smażone grzyby 
+26857	2402	146706	DIA_FASTFOOD_SOUP	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Колбасный суп	Zupa kiełbasiana 
+26858	2402	146708	DIA_FASTFOOD_SOUP	CONCATSTRINGS.PAR0	INFO_ADDCHOICE.PAR1	Сырный суп	Zupa serowa 
+26881	2403	146740	DIA_NPC_PICKPOCKET_CONDITION	SELLSTR	PRINTSCREEN.PAR0	(Украсть гриб	(Óęđŕńňü ăđčá
+26899	2403	146758	DIA_NPC_PICKPOCKET_CONDITION	SELLSTR	PRINTSCREEN.PAR0	(Украсть ордер	(Óęđŕńňü îđäĺđ
+26953	2403	146812	DIA_NPC_PICKPOCKET_CONDITION	SELLSTR	PRINTSCREEN.PAR0	(Украсть рецепт	(Óęđŕńňü đĺöĺďň
+26972	2403	146831	DIA_NPC_PICKPOCKET_CONDITION	SELLSTR	PRINTSCREEN.PAR0	(Украсть золото	(Óęđŕńňü çîëîňî
+26978	2403	146837	DIA_NPC_PICKPOCKET_CONDITION	SELLSTR	PRINTSCREEN.PAR0	(Украсть виноград	(Óęđŕńňü âčíîăđŕä
+26980	2403	146839	DIA_NPC_PICKPOCKET_CONDITION	SELLSTR	PRINTSCREEN.PAR0	(Украсть шкатулку	(Óęđŕńňü řęŕňóëęó
+26992	2403	146857	DIA_NPC_PICKPOCKET_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я выкрал пропуск у лорда Хагена! Думаю теперь, мне стоит вернуться к Ксардасу и рассказать ему обо всем.	ß âűęđŕë ďđîďóńę ó ëîđäŕ Őŕăĺíŕ! Äóěŕţ ňĺďĺđü, ěíĺ ńňîčň âĺđíóňüń˙ ę Ęńŕđäŕńó č đŕńńęŕçŕňü ĺěó îáî âńĺě.
+26993	2403	146858	DIA_NPC_PICKPOCKET_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я выкрал пропуск у лорда Хагена! Думаю теперь мне стоит заняться островом.	ß âűęđŕë ďđîďóńę ó ëîđäŕ Őŕăĺíŕ! Äóěŕţ ňĺďĺđü ěíĺ ńňîčň çŕí˙ňüń˙ îńňđîâîě.
+26994	2403	146859	DIA_NPC_PICKPOCKET_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я выкрал пропуск у лорда Хагена! Думаю теперь, мне стоит вернуться к Креолу и рассказать ему обо всем.	ß âűęđŕë ďđîďóńę ó ëîđäŕ Őŕăĺíŕ! Äóěŕţ ňĺďĺđü, ěíĺ ńňîčň âĺđíóňüń˙ ę Ęđĺîëó č đŕńńęŕçŕňü ĺěó îáî âńĺě.
+26995	2403	146860	DIA_NPC_PICKPOCKET_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я выкрал пропуск у лорда Хагена! Думаю теперь мне стоит заняться островом.	ß âűęđŕë ďđîďóńę ó ëîđäŕ Őŕăĺíŕ! Äóěŕţ ňĺďĺđü ěíĺ ńňîčň çŕí˙ňüń˙ îńňđîâîě.
+26997	2403	146862	DIA_NPC_PICKPOCKET_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я выкрал Рецепт изготовления особенно крепкой стали. Нужно отнести его Анхейму.	ß âűęđŕë Đĺöĺďň čçăîňîâëĺíč˙ îńîáĺííî ęđĺďęîé ńňŕëč. Íóćíî îňíĺńňč ĺăî Ŕíőĺéěó.
+26998	2403	146863	DIA_NPC_PICKPOCKET_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я украл у Глифа все золото.	ß óęđŕë ó Ăëčôŕ âńĺ çîëîňî.
+26999	2403	146864	DIA_NPC_PICKPOCKET_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	У Глифа слишком мало золота. Нужно поискать его заначку.	Ó Ăëčôŕ ńëčřęîě ěŕëî çîëîňŕ. Íóćíî ďîčńęŕňü ĺăî çŕíŕ÷ęó.
+27221	2405	147133	ENDPOCKER	CONCATSTRINGS.PAR1	LOG_ADDENTRY.PAR1	Бонус шулера в костяной покер - обыграл 6 игроков.	Áîíóń řóëĺđŕ â ęîńň˙íîé ďîęĺđ - îáűăđŕë 6 čăđîęîâ.
+27369	-1	40506	DIA_NPC_ÑGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam iść spać? A kiedy mam iść spać?
+27406	-1	40516	DIA_NPC_GAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam iść spać? A kiedy mam iść spać?
+27475	-1	40532	DIA_NPC_HGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam iść spać? A kiedy mam iść spać?
+27478	2407	147774	DIA_NPC_HGAME_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	6 камней	6 kamieni
+27479	2407	147775	DIA_NPC_HGAME_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	5 камней	5 kamieni
+27480	2407	147776	DIA_NPC_HGAME_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	4 камня	4 kamienie
+27570	-1	40566	DIA_NPC_MGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam iść spać? A kiedy mam iść spać?
+27573	2407	147869	DIA_NPC_MGAME_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	25 чисел	25 liczb
+27574	2407	147870	DIA_NPC_MGAME_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	16 чисел	16 liczb
+27670	-1	40629	DIA_NPC_CROSSRIVERGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam iść spać? A kiedy mam iść spać?
+27904	-1	40745	DIA_NPC_JAMPGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam spać? A kiedy mam iść spać?
+28027	-1	40828	DIA_NPC_SGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam spać? A kiedy mam iść spać?
+28141	-1	40904	DIA_NPC_SOLGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam spać? A kiedy mam iść spać?
+28143	-1	40904	DIA_NPC_SOLGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlaySolGame_18_01"")"	SUBTITLE	Сделал ставку?	Ńäĺëŕë ńňŕâęó?
+28152	-1	40904	DIA_NPC_SOLGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlaySolGame_18_02"")"	SUBTITLE	У тебя маловато деньжат. Собери монет триста, тогда и поиграем.	Nie masz wystarczająco dużo pieniędzy. Zbierz 300 monet, a potem zagramy.
+28178	-1	41010	DIA_NPC_MATCHGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayÑGame_18_08"")"	SUBTITLE	А спать когда? Приходи утром!	A kiedy mam iść spać? A kiedy mam iść spać?
+28205	-1	41013	PC_MATCHGAME_3	"AI_OUTPUT(OTHER,SELF,""DIA_PlayMatchGame_15_04"")"	SUBTITLE	Сыграть в тридцать семь.	Ńűăđŕňü â ňđčäöŕňü ńĺěü.
+28213	-1	41015	PC_MATCHGAME_5	"AI_OUTPUT(OTHER,SELF,""DIA_PlayMatchGame_15_06"")"	SUBTITLE	Сыграть в тридцать один.	Zagraj trzydzieści jeden.
+28388	2407	148807	DIA_VOB_FGAME_EXIT	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Проиграл 40 монет!	Ďđîčăđŕë 40 ěîíĺň!
+28389	2407	148808	DIA_VOB_FGAME_EXIT	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Проиграл 8 монет!	Ďđîčăđŕë 8 ěîíĺň!
+28390	2407	148809	DIA_VOB_FGAME_EXIT	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Проиграл 30 монет!	Straciłem 30 monet!
+28391	2407	148810	DIA_VOB_FGAME	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Сыграть в рыбалку? (наживка личинка гигантского жука или желудь)	Ńűăđŕňü â đűáŕëęó? (íŕćčâęŕ ëč÷číęŕ ăčăŕíňńęîăî ćóęŕ čëč ćĺëóäü)
+28392	2407	148811	DIA_VOB_FGAME_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Средняя рыбалка	Ńđĺäí˙˙ đűáŕëęŕ
+28393	2407	148812	DIA_VOB_FGAME_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Легкая рыбалка	Ëĺăęŕ˙ đűáŕëęŕ
+28394	2407	148813	DIA_VOB_FGAME_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	РЫБАЛКА: Возьмите крючок с наживкой и выберите место для заброса (вертикаль кубиков).	ĐŰÁŔËĘŔ: Âîçüěčňĺ ęđţ÷îę ń íŕćčâęîé č âűáĺđčňĺ ěĺńňî äë˙ çŕáđîńŕ (âĺđňčęŕëü ęóáčęîâ).
+28395	2407	148814	DIA_VOB_FGAME_INFO	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Крючок и рыба начинают двигаться одновременно ход в ход.	Ęđţ÷îę č đűáŕ íŕ÷číŕţň äâčăŕňüń˙ îäíîâđĺěĺííî őîä â őîä.
+28396	2407	148815	DIA_VOB_FGAME_INFO	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	На дне можно пропустить один ход рыбы или сдвинуть крючок на соседнюю вертикаль.	Íŕ äíĺ ěîćíî ďđîďóńňčňü îäčí őîä đűáű čëč ńäâčíóňü ęđţ÷îę íŕ ńîńĺäíţţ âĺđňčęŕëü.
+28397	2407	148816	DIA_VOB_FGAME_INFO	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Если крючок и рыба окажутся в одном кубике - рыбалка успешна.	Ĺńëč ęđţ÷îę č đűáŕ îęŕćóňń˙ â îäíîě ęóáčęĺ - đűáŕëęŕ óńďĺříŕ.
+28398	2407	148817	DIA_VOB_FGAME_INFO	LOG_ADDENTRY.PAR1	LOG_ADDENTRY.PAR1	Наживкой могут быть личинки гигантского жука, семя дуба или жертва 30 золотых в море для Аданоса.	Íŕćčâęîé ěîăóň áűňü ëč÷číęč ăčăŕíňńęîăî ćóęŕ, ńĺě˙ äóáŕ čëč ćĺđňâŕ 30 çîëîňűő â ěîđĺ äë˙ Ŕäŕíîńŕ.
+28399	-1	41044	DIA_VOB_FGAME_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_PlayFGame_18_01"")"	SUBTITLE	У тебя нет наживки. Собери желуди или личинки гигантского жука, тогда и порыбачим.	Ó ňĺá˙ íĺň íŕćčâęč. Ńîáĺđč ćĺëóäč čëč ëč÷číęč ăčăŕíňńęîăî ćóęŕ, ňîăäŕ č ďîđűáŕ÷čě.
+28400	-1	41045	PC_FGAME_1	"AI_OUTPUT(OTHER,SELF,""DIA_PlayFGame_15_01"")"	SUBTITLE	Легкая рыбалка.	Ëĺăęŕ˙ đűáŕëęŕ.
+28401	2407	148820	PC_FGAME_1	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(начать)	(start)
+28402	-1	41046	PC_FGAME_2	"AI_OUTPUT(OTHER,SELF,""DIA_PlayFGame_15_02"")"	SUBTITLE	Средняя рыбалка.	Ńđĺäí˙˙ đűáŕëęŕ.
+28403	2407	148822	PC_FGAME_2	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(начать)	(start)
+28404	-1	41047	PC_FGAME_3	"AI_OUTPUT(OTHER,SELF,""DIA_PlayFGame_15_03"")"	SUBTITLE	Тяжелая рыбалка.	Ň˙ćĺëŕ˙ đűáŕëęŕ.
+28405	2407	148824	PC_FGAME_3	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(начать)	(start)
+28406	2407	148825	FGAMEWIN1	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Поймана рыба (	Ďîéěŕíŕ đűáŕ (
+28407	2407	148827	FGAMEWIN1	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Продолжить легкую рыбалку.	Ďđîäîëćčňü ëĺăęóţ đűáŕëęó.
+28408	2407	148828	FGAMEWIN1	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Поймана рыба (	Ďîéěŕíŕ đűáŕ (
+28409	2407	148830	FGAMEWIN1	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Продолжить среднюю рыбалку.	Ďđîäîëćčňü ńđĺäíţţ đűáŕëęó.
+28410	2407	148831	FGAMEWIN1	CONCATSTRINGS.PAR0	PRINTSCREEN.PAR0	Поймана рыба (	Ďîéěŕíŕ đűáŕ (
+28411	2407	148833	FGAMEWIN1	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Продолжить тяжелую рыбалку.	Ďđîäîëćčňü ň˙ćĺëóţ đűáŕëęó.
+28412	2407	148834	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Обновить данные	Zaktualizuj dane
+28413	2407	148835	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 8	Âűáđŕňü âĺđňčęŕëü 8
+28414	2407	148836	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 7	Âűáđŕňü âĺđňčęŕëü 7
+28415	2407	148837	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 6	Âűáđŕňü âĺđňčęŕëü 6
+28416	2407	148838	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 5	Âűáđŕňü âĺđňčęŕëü 5
+28417	2407	148839	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 4	Âűáđŕňü âĺđňčęŕëü 4
+28418	2407	148840	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 3	Âűáđŕňü âĺđňčęŕëü 3
+28419	2407	148841	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 2	Âűáđŕňü âĺđňčęŕëü 2
+28420	2407	148842	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Выбрать вертикаль 1	Âűáđŕňü âĺđňčęŕëü 1
+28421	2407	148843	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Вытащить удочку	Âűňŕůčňü óäî÷ęó
+28422	2407	148844	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Подождать ход	Ďîäîćäŕňü őîä
+28423	2407	148845	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Сдвинуть удочку влево и тянуть	Ńäâčíóňü óäî÷ęó âëĺâî č ň˙íóňü
+28424	2407	148846	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Сдвинуть удочку вправо и тянуть	Ńäâčíóňü óäî÷ęó âďđŕâî č ň˙íóňü
+28425	2407	148847	FGAMEMASSIV	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Забрать рыбу.	Çŕáđŕňü đűáó.
+28426	-1	41068	DIA_NPC_SLEEPING_IN_BARN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Sleeping_in_barn_18_00"")"	SUBTITLE	Парень, ты что, в хлеву ночевал?	Ďŕđĺíü, ňű ÷ňî, â őëĺâó íî÷ĺâŕë?
+28427	-1	41068	DIA_NPC_SLEEPING_IN_BARN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_Sleeping_in_barn_15_01"")"	SUBTITLE	Да случайно так получилось.	Äŕ ńëó÷ŕéíî ňŕę ďîëó÷čëîńü.
+28428	-1	41068	DIA_NPC_SLEEPING_IN_BARN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Sleeping_in_barn_18_01"")"	SUBTITLE	(присматриваясь) Еще и Козлодоев!	(ďđčńěŕňđčâŕ˙ńü) Ĺůĺ č Ęîçëîäîĺâ!
+28429	-1	41068	DIA_NPC_SLEEPING_IN_BARN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_Sleeping_in_barn_15_02"")"	SUBTITLE	(растерянно) Э-э.	(đŕńňĺđ˙ííî) Ý-ý.
+28430	-1	41068	DIA_NPC_SLEEPING_IN_BARN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Sleeping_in_barn_18_02"")"	SUBTITLE	Ни слова больше.	Íč ńëîâŕ áîëüřĺ.
+28431	-1	41068	DIA_NPC_SLEEPING_IN_BARN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Sleeping_in_barn_17_03"")"	SUBTITLE	(вполголоса) Подумать только... В хлеву... с козлом... спать!	(âďîëăîëîńŕ) Ďîäóěŕňü ňîëüęî... Â őëĺâó... ń ęîçëîě... ńďŕňü!
+28432	-1	41068	DIA_NPC_SLEEPING_IN_BARN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Sleeping_in_barn_17_04"")"	SUBTITLE	... еще и лыбится... Мерзость!	... ĺůĺ č ëűáčňń˙... Ěĺđçîńňü!
+28588	2449	165298	B_ENTER_ORCTEMPEL_KAPITEL_4	AI_PRINTSCREEN.PAR0	AI_PRINTSCREEN.PAR0	Орки вновь заполнили Храм...	Orkowie ponownie zasiedlili Świątynię...
+28589	2451	165486	B_ENTER_SECRETISLAND_KAPITEL_1	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я не выполнил задание Зигоса и тайный способ выбраться с острова для меня закрыт.	ß íĺ âűďîëíčë çŕäŕíčĺ Çčăîńŕ č ňŕéíűé ńďîńîá âűáđŕňüń˙ ń îńňđîâŕ äë˙ ěĺí˙ çŕęđűň.
+28590	2451	165555	B_ENTER_SECRETISLAND	C_NPC.NAME	C_NPC.NAME	Герард	Ăĺđŕđä
+28593	-1	41658	DIA_NONE_3100_VATER_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_aufgabe_14_00"")"	SUBTITLE	Мой сын. Знаешь, какое настало время?	Ěîé ńűí. Çíŕĺřü, ęŕęîĺ íŕńňŕëî âđĺě˙?
+28594	-1	41658	DIA_NONE_3100_VATER_AUFGABE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3100_Vater_aufgabe_14_01"")"	SUBTITLE	Нет, но я уверен, ты скажешь мне.	Íĺň, íî ˙ óâĺđĺí, ňű ńęŕćĺřü ěíĺ.
+28595	-1	41658	DIA_NONE_3100_VATER_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_aufgabe_14_02"")"	SUBTITLE	Ну, да, я обучал тебя охоте и выживанию в лесу.	Íó, äŕ, ˙ îáó÷ŕë ňĺá˙ îőîňĺ č âűćčâŕíčţ â ëĺńó.
+28596	-1	41658	DIA_NONE_3100_VATER_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_aufgabe_14_03"")"	SUBTITLE	А теперь настало время для практики.	Ŕ ňĺďĺđü íŕńňŕëî âđĺě˙ äë˙ ďđŕęňčęč.
+28597	-1	41658	DIA_NONE_3100_VATER_AUFGABE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3100_Vater_aufgabe_14_04"")"	SUBTITLE	Да, хорошо. Что мне нужно сделать?	Äŕ, őîđîřî. ×ňî ěíĺ íóćíî ńäĺëŕňü?
+28598	-1	41658	DIA_NONE_3100_VATER_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_aufgabe_14_05"")"	SUBTITLE	Или в лес охотиться на волков. Принесешь мне шесть шкур	Čëč â ëĺń îőîňčňüń˙ íŕ âîëęîâ. Ďđčíĺńĺřü ěíĺ řĺńňü řęóđ
+28599	2460	166068	DIA_NONE_3100_VATER_AUFGABE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Мой отец считает, что теперь я готов к обучению на охотника. Поэтому я должен пойти в лес, охотиться на волков и добыть 6 волчьих шкур.	Ěîé îňĺö ń÷čňŕĺň, ÷ňî ňĺďĺđü ˙ ăîňîâ ę îáó÷ĺíčţ íŕ îőîňíčęŕ. Ďîýňîěó ˙ äîëćĺí ďîéňč â ëĺń, îőîňčňüń˙ íŕ âîëęîâ č äîáűňü 6 âîë÷üčő řęóđ.
+28600	2460	166069	DIA_NONE_3100_VATER_LERNEN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Отец я хочу стать сильнее!	Îňĺö ˙ őî÷ó ńňŕňü ńčëüíĺĺ!
+28601	-1	41661	DIA_NONE_3100_VATER_LERNEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3100_Vater_lernen_14_00"")"	SUBTITLE	Отец я хочу стать сильнее! Хочу быть сильным как молодой волк.	Îňĺö ˙ őî÷ó ńňŕňü ńčëüíĺĺ! Őî÷ó áűňü ńčëüíűě ęŕę ěîëîäîé âîëę.
+28602	-1	41661	DIA_NONE_3100_VATER_LERNEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_lernen_14_01"")"	SUBTITLE	Хорошо, тогда я покажу тебе, как стать сильнее.	Őîđîřî, ňîăäŕ ˙ ďîęŕćó ňĺáĺ, ęŕę ńňŕňü ńčëüíĺĺ.
+28603	-1	41662	DIA_NONE_3100_VATER_LERNEN_BACK	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_lernen_BACK_06_00"")"	SUBTITLE	Очень хорошо, мой мальчик. Хотя ты все еще не такой сильний как я.	Î÷ĺíü őîđîřî, ěîé ěŕëü÷čę. Őîň˙ ňű âńĺ ĺůĺ íĺ ňŕęîé ńčëüíčé ęŕę ˙.
+28604	2460	166073	DIA_NONE_3100_VATER_LERNEN_DEX	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Тренируй мою ловкость! Я хочу бать ловким как гарпия.	Ňđĺíčđóé ěîţ ëîâęîńňü! ß őî÷ó áŕňü ëîâęčě ęŕę ăŕđďč˙.
+28605	-1	41667	DIA_NONE_3100_VATER_LERNEN_DEX_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_lernen_dex_14_00"")"	SUBTITLE	Тренируй мою ловкость! Я хочу бать ловким как гарпия.	Ňđĺíčđóé ěîţ ëîâęîńňü! ß őî÷ó áŕňü ëîâęčě ęŕę ăŕđďč˙.
+28606	-1	41667	DIA_NONE_3100_VATER_LERNEN_DEX_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3100_Vater_lernen_dex_14_01"")"	SUBTITLE	Посмотрим, что мы можем сделать.	Ďîńěîňđčě, ÷ňî ěű ěîćĺě ńäĺëŕňü.
+28607	-1	41668	DIA_NONE_3100_VATER_LERNEN_DEX_BACK	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3100_Vater_lernen_dex_BACK_06_00"")"	SUBTITLE	Хорошо, ты уже стал болем ловким.	Őîđîřî, ňű óćĺ ńňŕë áîëĺě ëîâęčě.
+28608	-1	41677	DIA_NONE_3101_JORUS_EXIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_EXIT_14_00"")"	SUBTITLE	Эй, погоди, дело есть.	Ýé, ďîăîäč, äĺëî ĺńňü.
+28609	-1	41677	DIA_NONE_3101_JORUS_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_14_01"")"	SUBTITLE	Да? Расскажи!	Tak? Tak?
+28610	-1	41677	DIA_NONE_3101_JORUS_EXIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_EXIT_14_02"")"	SUBTITLE	У меня есть для тебя задание. Ты выполнишь его для меня?	Ó ěĺí˙ ĺńňü äë˙ ňĺá˙ çŕäŕíčĺ. Ňű âűďîëíčřü ĺăî äë˙ ěĺí˙?
+28611	2460	166080	DIA_NONE_3101_JORUS_EXIT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Вероятно.	Âĺđî˙ňíî.
+28612	2460	166081	DIA_NONE_3101_JORUS_EXIT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Да, конечно!	Tak, oczywiście!
+28613	2460	166082	DIA_NONE_3101_JORUS_EXIT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	А что происходит вокруг?	Ŕ ÷ňî ďđîčńőîäčň âîęđóă?
+28614	-1	41678	DIA_NONE_3101_JORUS_EXIT_LATER	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_EXIT_later_14_00"")"	SUBTITLE	Вероятно.	Âĺđî˙ňíî.
+28615	-1	41678	DIA_NONE_3101_JORUS_EXIT_LATER	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_later_14_01"")"	SUBTITLE	Хорошо, тогда приду, как только выполню задание.	Őîđîřî, ňîăäŕ ďđčäó, ęŕę ňîëüęî âűďîëíţ çŕäŕíčĺ.
+28616	-1	41679	DIA_NONE_3101_JORUS_EXIT_START	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_EXIT_start_14_00"")"	SUBTITLE	Да, конечно!	Tak, oczywiście!
+28617	-1	41679	DIA_NONE_3101_JORUS_EXIT_START	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_start_14_01"")"	SUBTITLE	Хорошо, тогда слушай.	Őîđîřî, ňîăäŕ ńëóřŕé.
+28618	-1	41679	DIA_NONE_3101_JORUS_EXIT_START	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_start_14_02"")"	SUBTITLE	Возможно, когда ты шел сюда, то уже видел длинный пещерный коридор.	Âîçěîćíî, ęîăäŕ ňű řĺë ńţäŕ, ňî óćĺ âčäĺë äëčííűé ďĺůĺđíűé ęîđčäîđ.
+28619	-1	41679	DIA_NONE_3101_JORUS_EXIT_START	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_start_14_03"")"	SUBTITLE	В саму комнату пробраться будет не легко, на потолке находятся острые шипы, которые падают как только оказываешься под ними.	Â ńŕěó ęîěíŕňó ďđîáđŕňüń˙ áóäĺň íĺ ëĺăęî, íŕ ďîňîëęĺ íŕőîä˙ňń˙ îńňđűĺ řčďű, ęîňîđűĺ ďŕäŕţň ęŕę ňîëüęî îęŕçűâŕĺřüń˙ ďîä íčěč.
+28620	-1	41679	DIA_NONE_3101_JORUS_EXIT_START	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_start_14_04"")"	SUBTITLE	Я бы хотел попросить тебя сходить туда, а потом рассказать мне что там находится. Там должны быть спрятанные сокровища. Мне они не нужны, можешь забрать себе.	ß áű őîňĺë ďîďđîńčňü ňĺá˙ ńőîäčňü ňóäŕ, ŕ ďîňîě đŕńńęŕçŕňü ěíĺ ÷ňî ňŕě íŕőîäčňń˙. Ňŕě äîëćíű áűňü ńďđ˙ňŕííűĺ ńîęđîâčůŕ. Ěíĺ îíč íĺ íóćíű, ěîćĺřü çŕáđŕňü ńĺáĺ.
+28621	-1	41679	DIA_NONE_3101_JORUS_EXIT_START	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_start_14_05"")"	SUBTITLE	И еще, я надеюсь боги защитят тебя и когда мы увидимся в следующий раз, твое тело не будет нанизано на шипы.	Č ĺůĺ, ˙ íŕäĺţńü áîăč çŕůčň˙ň ňĺá˙ č ęîăäŕ ěű óâčäčěń˙ â ńëĺäóţůčé đŕç, ňâîĺ ňĺëî íĺ áóäĺň íŕíčçŕíî íŕ řčďű.
+28622	-1	41679	DIA_NONE_3101_JORUS_EXIT_START	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_EXIT_start_14_06"")"	SUBTITLE	(с иронией) Да это будет просто детская забава.	(ń čđîíčĺé) Äŕ ýňî áóäĺň ďđîńňî äĺňńęŕ˙ çŕáŕâŕ.
+28623	2460	166092	DIA_NONE_3101_JORUS_EXIT_START	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Йорус требует, чтобы я подошел к задней части боковой пещеры и осмотрел его. Более того, он дал мне совет подойти к делу как можно менее заметно, действительно полезно. Ох, как я люблю эту иронию:-).	Éîđóń ňđĺáóĺň, ÷ňîáű ˙ ďîäîřĺë ę çŕäíĺé ÷ŕńňč áîęîâîé ďĺůĺđű č îńěîňđĺë ĺăî. Áîëĺĺ ňîăî, îí äŕë ěíĺ ńîâĺň ďîäîéňč ę äĺëó ęŕę ěîćíî ěĺíĺĺ çŕěĺňíî, äĺéńňâčňĺëüíî ďîëĺçíî. Îő, ęŕę ˙ ëţáëţ ýňó čđîíčţ:-).
+28624	-1	41680	DIA_NONE_3101_JORUS_EXIT_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_EXIT_what_14_00"")"	SUBTITLE	Ну что, надумал?	Íó ÷ňî, íŕäóěŕë?
+28625	-1	41680	DIA_NONE_3101_JORUS_EXIT_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_what_14_01"")"	SUBTITLE	Ну хорошо, я согласен.	Dobra, umowa stoi.
+28626	-1	41680	DIA_NONE_3101_JORUS_EXIT_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_what_14_02"")"	SUBTITLE	Возможно, когда ты шел сюда, то уже видел длинный пещерный коридор.	Âîçěîćíî, ęîăäŕ ňű řĺë ńţäŕ, ňî óćĺ âčäĺë äëčííűé ďĺůĺđíűé ęîđčäîđ.
+28627	-1	41680	DIA_NONE_3101_JORUS_EXIT_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_what_14_03"")"	SUBTITLE	В саму комнату пробраться будет не легко, на потолке находятся острые шипы, которые падают как только оказываешься под ними.	Â ńŕěó ęîěíŕňó ďđîáđŕňüń˙ áóäĺň íĺ ëĺăęî, íŕ ďîňîëęĺ íŕőîä˙ňń˙ îńňđűĺ řčďű, ęîňîđűĺ ďŕäŕţň ęŕę ňîëüęî îęŕçűâŕĺřüń˙ ďîä íčěč.
+28628	-1	41680	DIA_NONE_3101_JORUS_EXIT_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_EXIT_what_14_04"")"	SUBTITLE	Я бы хотел попросить тебя сходить туда, а потом рассказать мне что там находится. Там должны быть спрятанные сокровища. Мне они не нужны, можешь забрать себе.	ß áű őîňĺë ďîďđîńčňü ňĺá˙ ńőîäčňü ňóäŕ, ŕ ďîňîě đŕńńęŕçŕňü ěíĺ ÷ňî ňŕě íŕőîäčňń˙. Ňŕě äîëćíű áűňü ńďđ˙ňŕííűĺ ńîęđîâčůŕ. Ěíĺ îíč íĺ íóćíű, ěîćĺřü çŕáđŕňü ńĺáĺ.
+28629	2460	166098	DIA_NONE_3101_JORUS_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Кто вы?	Kim jesteście?
+28630	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_hallo_14_00"")"	SUBTITLE	Кто вы?	Kim jesteście?
+28631	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_hallo_14_01"")"	SUBTITLE	Меня зовут Йорус. Я священник и занимаюсь изучением истории Менкахора.	Ěĺí˙ çîâóň Éîđóń. ß ńâ˙ůĺííčę č çŕíčěŕţńü čçó÷ĺíčĺě čńňîđčč Ěĺíęŕőîđŕ.
+28632	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_hallo_14_02"")"	SUBTITLE	А кто это или что, этот Менкахор?	Ŕ ęňî ýňî čëč ÷ňî, ýňîň Ěĺíęŕőîđ?
+28633	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_hallo_14_03"")"	SUBTITLE	Хм, неужели? Вы хотите сказать, что не знаете кто наш Бог?	Őě, íĺóćĺëč? Âű őîňčňĺ ńęŕçŕňü, ÷ňî íĺ çíŕĺňĺ ęňî íŕř Áîă?
+28634	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_hallo_14_04"")"	SUBTITLE	Простите. Но я раньше жил в далекой маленькой долине и никогда не слышал о нем.	Ďđîńňčňĺ. Íî ˙ đŕíüřĺ ćčë â äŕëĺęîé ěŕëĺíüęîé äîëčíĺ č íčęîăäŕ íĺ ńëűřŕë î íĺě.
+28635	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_hallo_14_05"")"	SUBTITLE	Еще одна долина? Что же тебя привело сюда?	Ĺůĺ îäíŕ äîëčíŕ? ×ňî ćĺ ňĺá˙ ďđčâĺëî ńţäŕ?
+28636	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_hallo_14_06"")"	SUBTITLE	Произошло землетрясение, я как раз был на охоте, и когда вернулся, то нашел своего отца мертвым.	Ďđîčçîřëî çĺěëĺňđ˙ńĺíčĺ, ˙ ęŕę đŕç áűë íŕ îőîňĺ, č ęîăäŕ âĺđíóëń˙, ňî íŕřĺë ńâîĺăî îňöŕ ěĺđňâűě.
+28637	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_hallo_14_07"")"	SUBTITLE	Знаете ли вы что могло произойти?	Çíŕĺňĺ ëč âű ÷ňî ěîăëî ďđîčçîéňč?
+28638	-1	41683	DIA_NONE_3101_JORUS_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_hallo_14_08"")"	SUBTITLE	Прости, но я действительно изучаю только историю Менкахора, а это с ним не связно. Может быть, в Морелии что-то знают.	Ďđîńňč, íî ˙ äĺéńňâčňĺëüíî čçó÷ŕţ ňîëüęî čńňîđčţ Ěĺíęŕőîđŕ, ŕ ýňî ń íčě íĺ ńâ˙çíî. Ěîćĺň áűňü, â Ěîđĺëčč ÷ňî-ňî çíŕţň.
+28639	2460	166109	DIA_NONE_3101_JORUS_HALLO_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Йорус рассказал мне о местечке под названием Морелия. Я должен попытаться получить ответ там.	Éîđóń đŕńńęŕçŕë ěíĺ î ěĺńňĺ÷ęĺ ďîä íŕçâŕíčĺě Ěîđĺëč˙. ß äîëćĺí ďîďűňŕňüń˙ ďîëó÷čňü îňâĺň ňŕě.
+28640	2460	166110	DIA_NONE_3101_JORUS_MENKAUHOR	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Можете рассказать мне что-нибудь о Менкахоре?	Ěîćĺňĺ đŕńńęŕçŕňü ěíĺ ÷ňî-íčáóäü î Ěĺíęŕőîđĺ?
+28641	-1	41686	DIA_NONE_3101_JORUS_MENKAUHOR_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_menkauhor_14_00"")"	SUBTITLE	Можете рассказать мне что-нибудь о Менкахоре?	Ěîćĺňĺ đŕńńęŕçŕňü ěíĺ ÷ňî-íčáóäü î Ěĺíęŕőîđĺ?
+28642	-1	41686	DIA_NONE_3101_JORUS_MENKAUHOR_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_menkauhor_14_01"")"	SUBTITLE	Мне нужно время, что узнать все самому, но ты можешь почитать мои книги о нем!	Ěíĺ íóćíî âđĺě˙, ÷ňî óçíŕňü âńĺ ńŕěîěó, íî ňű ěîćĺřü ďî÷čňŕňü ěîč ęíčăč î íĺě!
+28643	-1	41686	DIA_NONE_3101_JORUS_MENKAUHOR_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_menkauhor_14_02"")"	SUBTITLE	Хорошо, так и сделаю.	Dobrze, tak zrobię.
+28644	2460	166114	DIA_NONE_3101_JORUS_MORELIA	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	А где я могу найти эту Морелию?	Ŕ ăäĺ ˙ ěîăó íŕéňč ýňó Ěîđĺëčţ?
+28645	-1	41689	DIA_NONE_3101_JORUS_MORELIA_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_Morelia_14_00"")"	SUBTITLE	А где я могу найти эту Морелию?	Ŕ ăäĺ ˙ ěîăó íŕéňč ýňó Ěîđĺëčţ?
+28646	-1	41689	DIA_NONE_3101_JORUS_MORELIA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_Morelia_14_01"")"	SUBTITLE	Это крупная деревня, она находится в долине там же где и шахта.	Ýňî ęđóďíŕ˙ äĺđĺâí˙, îíŕ íŕőîäčňń˙ â äîëčíĺ ňŕě ćĺ ăäĺ č řŕőňŕ.
+28647	-1	41689	DIA_NONE_3101_JORUS_MORELIA_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_Morelia_14_02"")"	SUBTITLE	Окей, спасибо за информацию.	Îęĺé, ńďŕńčáî çŕ číôîđěŕöčţ.
+28648	2460	166118	DIA_NONE_3101_JORUS_MORELIA_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Морелия находится не так далеко отсюда, говорят, что это следующая деревня, которая расположена в долинном бассейне.	Ěîđĺëč˙ íŕőîäčňń˙ íĺ ňŕę äŕëĺęî îňńţäŕ, ăîâîđ˙ň, ÷ňî ýňî ńëĺäóţůŕ˙ äĺđĺâí˙, ęîňîđŕ˙ đŕńďîëîćĺíŕ â äîëčííîě áŕńńĺéíĺ.
+28649	2460	166119	DIA_NONE_3101_JORUS_RING	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Не знаете, как можно зарядить это кольцо?	Íĺ çíŕĺňĺ, ęŕę ěîćíî çŕđ˙äčňü ýňî ęîëüöî?
+28650	-1	41692	DIA_NONE_3101_JORUS_RING_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_ring_14_00"")"	SUBTITLE	Не знаете, как можно зарядить это кольцо?	Íĺ çíŕĺňĺ, ęŕę ěîćíî çŕđ˙äčňü ýňî ęîëüöî?
+28651	-1	41692	DIA_NONE_3101_JORUS_RING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_ring_14_01"")"	SUBTITLE	Давай посмотрим!	Äŕâŕé ďîńěîňđčě!
+28652	-1	41692	DIA_NONE_3101_JORUS_RING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_ring_14_03"")"	SUBTITLE	О Менкахор, заклинаю тебя, дай силу этому предмету.	Î Ěĺíęŕőîđ, çŕęëčíŕţ ňĺá˙, äŕé ńčëó ýňîěó ďđĺäěĺňó.
+28653	-1	41692	DIA_NONE_3101_JORUS_RING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_ring_14_04"")"	SUBTITLE	Ну вот, посмотри что получилось.	Íó âîň, ďîńěîňđč ÷ňî ďîëó÷čëîńü.
+28654	2460	166125	DIA_NONE_3101_JORUS_RING_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Жрец Йорус объяснил мне, что артефакты, подобные этому кольцу, можно зарядить в святилище.	Ćđĺö Éîđóń îáú˙ńíčë ěíĺ, ÷ňî ŕđňĺôŕęňű, ďîäîáíűĺ ýňîěó ęîëüöó, ěîćíî çŕđ˙äčňü â ńâ˙ňčëčůĺ.
+28655	2460	166126	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Окей, я согласен!	Îęĺé, ˙ ńîăëŕńĺí!
+28656	-1	41695	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_annehmen_14_00"")"	SUBTITLE	Окей, я согласен!	Îęĺé, ˙ ńîăëŕńĺí!
+28657	-1	41695	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_annehmen_14_01"")"	SUBTITLE	Хорошо, тогда слушай.	Őîđîřî, ňîăäŕ ńëóřŕé.
+28658	-1	41695	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_annehmen_14_02"")"	SUBTITLE	Возможно, когда ты шел сюда, то уже видел длинный пещерный коридор.	Âîçěîćíî, ęîăäŕ ňű řĺë ńţäŕ, ňî óćĺ âčäĺë äëčííűé ďĺůĺđíűé ęîđčäîđ.
+28659	-1	41695	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_annehmen_14_03"")"	SUBTITLE	В саму комнату пробраться будет не легко, на потолке находятся острые шипы, которые падают как только оказываешься под ними.	Â ńŕěó ęîěíŕňó ďđîáđŕňüń˙ áóäĺň íĺ ëĺăęî, íŕ ďîňîëęĺ íŕőîä˙ňń˙ îńňđűĺ řčďű, ęîňîđűĺ ďŕäŕţň ęŕę ňîëüęî îęŕçűâŕĺřüń˙ ďîä íčěč.
+28660	-1	41695	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_annehmen_14_04"")"	SUBTITLE	Я бы хотел попросить тебя сходить туда, а потом рассказать мне что там находится. Там должны быть спрятанные сокровища. Мне они не нужны, можешь забрать себе.	ß áű őîňĺë ďîďđîńčňü ňĺá˙ ńőîäčňü ňóäŕ, ŕ ďîňîě đŕńńęŕçŕňü ěíĺ ÷ňî ňŕě íŕőîäčňń˙. Ňŕě äîëćíű áűňü ńďđ˙ňŕííűĺ ńîęđîâčůŕ. Ěíĺ îíč íĺ íóćíű, ěîćĺřü çŕáđŕňü ńĺáĺ.
+28661	-1	41695	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_annehmen_14_05"")"	SUBTITLE	И еще, я надеюсь боги защитят тебя и когда мы увидимся в следующий раз, твое тело не будет нанизано на шипы.	Č ĺůĺ, ˙ íŕäĺţńü áîăč çŕůčň˙ň ňĺá˙ č ęîăäŕ ěű óâčäčěń˙ â ńëĺäóţůčé đŕç, ňâîĺ ňĺëî íĺ áóäĺň íŕíčçŕíî íŕ řčďű.
+28662	-1	41695	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_annehmen_14_06"")"	SUBTITLE	(с иронией) Да это будет просто детская забава.	(ń čđîíčĺé) Äŕ ýňî áóäĺň ďđîńňî äĺňńęŕ˙ çŕáŕâŕ.
+28663	2460	166134	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_ONE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Йорус требует, чтобы я подошел к задней части боковой пещеры и осмотрел его. Более того, он дал мне совет подойти к делу как можно менее заметно, действительно полезно. Ох, как я люблю эту иронию:-).	Éîđóń ňđĺáóĺň, ÷ňîáű ˙ ďîäîřĺë ę çŕäíĺé ÷ŕńňč áîęîâîé ďĺůĺđű č îńěîňđĺë ĺăî. Áîëĺĺ ňîăî, îí äŕë ěíĺ ńîâĺň ďîäîéňč ę äĺëó ęŕę ěîćíî ěĺíĺĺ çŕěĺňíî, äĺéńňâčňĺëüíî ďîëĺçíî. Îő, ęŕę ˙ ëţáëţ ýňó čđîíčţ:-).
+28664	2460	166135	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_TWO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Оке, я согласен это сделать!	Îęĺ, ˙ ńîăëŕńĺí ýňî ńäĺëŕňü!
+28665	-1	41698	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_TWO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_annehmen_two_14_00"")"	SUBTITLE	Оке, я согласен это сделать!	Îęĺ, ˙ ńîăëŕńĺí ýňî ńäĺëŕňü!
+28666	-1	41698	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_TWO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_annehmen_two_14_01"")"	SUBTITLE	Отлично, надеюсь боги защитят тебя и когда мы увидимся в следующий раз, твое тело не будет нанизано на шипы.	Îňëč÷íî, íŕäĺţńü áîăč çŕůčň˙ň ňĺá˙ č ęîăäŕ ěű óâčäčěń˙ â ńëĺäóţůčé đŕç, ňâîĺ ňĺëî íĺ áóäĺň íŕíčçŕíî íŕ řčďű.
+28667	-1	41698	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_TWO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_annehmen_two_14_02"")"	SUBTITLE	(с иронией) Да это будет просто детская забава.	(ń čđîíčĺé) Äŕ ýňî áóäĺň ďđîńňî äĺňńęŕ˙ çŕáŕâŕ.
+28668	2460	166139	DIA_NONE_3101_JORUS_QUEST_ANNEHMEN_TWO_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Йорус требует, чтобы я подошел к задней части боковой пещеры и осмотрел его. Более того, он дал мне совет подойти к делу как можно менее заметно, действительно полезно. Ох, как я люблю эту иронию:-).	Éîđóń ňđĺáóĺň, ÷ňîáű ˙ ďîäîřĺë ę çŕäíĺé ÷ŕńňč áîęîâîé ďĺůĺđű č îńěîňđĺë ĺăî. Áîëĺĺ ňîăî, îí äŕë ěíĺ ńîâĺň ďîäîéňč ę äĺëó ęŕę ěîćíî ěĺíĺĺ çŕěĺňíî, äĺéńňâčňĺëüíî ďîëĺçíî. Îő, ęŕę ˙ ëţáëţ ýňó čđîíčţ:-).
+28669	2460	166140	DIA_NONE_3101_JORUS_QUEST_SCHLUESSEL	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я пришел из той комнаты!	ß ďđčřĺë čç ňîé ęîěíŕňű!
+28670	-1	41701	DIA_NONE_3101_JORUS_QUEST_SCHLUESSEL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_schluessel_14_00"")"	SUBTITLE	Я пришел из той комнаты!	ß ďđčřĺë čç ňîé ęîěíŕňű!
+28671	-1	41701	DIA_NONE_3101_JORUS_QUEST_SCHLUESSEL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_schluessel_14_01"")"	SUBTITLE	Ах, очень хорошо! Что ты там нашел?	Ŕő, î÷ĺíü őîđîřî! ×ňî ňű ňŕě íŕřĺë?
+28672	-1	41701	DIA_NONE_3101_JORUS_QUEST_SCHLUESSEL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_schluessel_14_02"")"	SUBTITLE	Ну вот, я нашел два сундука, но они заперты и я не знаю как их открыть?	Íó âîň, ˙ íŕřĺë äâŕ ńóíäóęŕ, íî îíč çŕďĺđňű č ˙ íĺ çíŕţ ęŕę čő îňęđűňü?
+28673	-1	41701	DIA_NONE_3101_JORUS_QUEST_SCHLUESSEL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_schluessel_14_03"")"	SUBTITLE	Ой, подожди. Когда я там был, то около одной из статуй нашел ключ. Попробуй его.	Îé, ďîäîćäč. Ęîăäŕ ˙ ňŕě áűë, ňî îęîëî îäíîé čç ńňŕňóé íŕřĺë ęëţ÷. Ďîďđîáóé ĺăî.
+28674	-1	41701	DIA_NONE_3101_JORUS_QUEST_SCHLUESSEL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_schluessel_14_04"")"	SUBTITLE	Окей. Спасибо!	Îęĺé. Dziękuje.
+28675	2460	166146	DIA_NONE_3101_JORUS_QUEST_SCHLUESSEL_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Йорус дал мне ключ. Надеюсь, он сможет открыть сундуки.	Éîđóń äŕë ěíĺ ęëţ÷. Íŕäĺţńü, îí ńěîćĺň îňęđűňü ńóíäóęč.
+28676	2460	166147	DIA_NONE_3101_JORUS_QUEST_FERTIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я закончил обыск комнаты!	ß çŕęîí÷čë îáűńę ęîěíŕňű!
+28677	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_00"")"	SUBTITLE	Я закончил обыск комнаты!	ß çŕęîí÷čë îáűńę ęîěíŕňű!
+28678	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_fertig_14_01"")"	SUBTITLE	Отлично, скажи что ты нашел!	Îňëč÷íî, ńęŕćč ÷ňî ňű íŕřĺë!
+28679	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_02"")"	SUBTITLE	После того как я открыл сундук тем ключом, что ты мне дал...	Ďîńëĺ ňîăî ęŕę ˙ îňęđűë ńóíäóę ňĺě ęëţ÷îě, ÷ňî ňű ěíĺ äŕë...
+28680	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_fertig_14_03"")"	SUBTITLE	Да. Ключ. Так он подошел??	Tak. Ęëţ÷. Ňŕę îí ďîäîřĺë??
+28681	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_04"")"	SUBTITLE	Да, да, пожалуйста не перебивай меня.	Äŕ, äŕ, ďîćŕëóéńňŕ íĺ ďĺđĺáčâŕé ěĺí˙.
+28682	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_fertig_14_05"")"	SUBTITLE	Хорошо, продолжай.	Őîđîřî, ďđîäîëćŕé.
+28683	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_06"")"	SUBTITLE	После того, как я попытался открыть сундук, произошло землетрясение.	Ďîńëĺ ňîăî, ęŕę ˙ ďîďűňŕëń˙ îňęđűňü ńóíäóę, ďđîčçîřëî çĺěëĺňđ˙ńĺíčĺ.
+28684	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_fertig_14_07"")"	SUBTITLE	Ох да я тоже его почувствовал.	Îő äŕ ˙ ňîćĺ ĺăî ďî÷óâńňâîâŕë.
+28685	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_08"")"	SUBTITLE	ЭЙ. Ты дашь мне договорить?	ÝÉ. Ňű äŕřü ěíĺ äîăîâîđčňü?
+28686	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_fertig_14_09"")"	SUBTITLE	Ох, конечно. Извини.	Îő, ęîíĺ÷íî. Przepraszam.
+28687	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_10"")"	SUBTITLE	Хорошо, после землетрясения, я хотел выйти из комнаты, но выход загородила решетка, а перед ней стоял призрак.	Őîđîřî, ďîńëĺ çĺěëĺňđ˙ńĺíč˙, ˙ őîňĺë âűéňč čç ęîěíŕňű, íî âűőîä çŕăîđîäčëŕ đĺřĺňęŕ, ŕ ďĺđĺä íĺé ńňî˙ë ďđčçđŕę.
+28688	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_11"")"	SUBTITLE	Он сказал, что его зовут Яззар, и раньше он был известным паладином.	Îí ńęŕçŕë, ÷ňî ĺăî çîâóň ßççŕđ, č đŕíüřĺ îí áűë čçâĺńňíűě ďŕëŕäčíîě.
+28689	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_fertig_14_12"")"	SUBTITLE	Да, я что-то читал о нем. Очень интересно.	Äŕ, ˙ ÷ňî-ňî ÷čňŕë î íĺě. Hmm, bardzo ciekawe.
+28690	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_13"")"	SUBTITLE	(раздраженно) Я же просил. Ну, вообщем он был не очень доволен тем, что я хотел забрать его вещи и хотел убить меня.	(đŕçäđŕćĺííî) ß ćĺ ďđîńčë. Íó, âîîáůĺě îí áűë íĺ î÷ĺíü äîâîëĺí ňĺě, ÷ňî ˙ őîňĺë çŕáđŕňü ĺăî âĺůč č őîňĺë óáčňü ěĺí˙.
+28691	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3101_Jorus_qest_fertig_14_14"")"	SUBTITLE	Кончено же, ему это не удалось, и я убил его. Решетка поднялась и я вернулся сюда, чтобы рассказать б случившемся.	Ęîí÷ĺíî ćĺ, ĺěó ýňî íĺ óäŕëîńü, č ˙ óáčë ĺăî. Đĺřĺňęŕ ďîäí˙ëŕńü č ˙ âĺđíóëń˙ ńţäŕ, ÷ňîáű đŕńńęŕçŕňü á ńëó÷čâřĺěń˙.
+28692	-1	41704	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3101_Jorus_qest_fertig_14_15"")"	SUBTITLE	Хм, очень интересно… надо будет сходить туда. Держи руну телепортации, если захочешь отыскать меня.	Őě, î÷ĺíü číňĺđĺńíî… íŕäî áóäĺň ńőîäčňü ňóäŕ. Äĺđćč đóíó ňĺëĺďîđňŕöčč, ĺńëč çŕőî÷ĺřü îňűńęŕňü ěĺí˙.
+28693	2460	166164	DIA_NONE_3101_JORUS_QUEST_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я рассказал Йорусу о том, что обнаружил в комнате, и он дал мне руну телепортации, которая ведет к нему.	ß đŕńńęŕçŕë Éîđóńó î ňîě, ÷ňî îáíŕđóćčë â ęîěíŕňĺ, č îí äŕë ěíĺ đóíó ňĺëĺďîđňŕöčč, ęîňîđŕ˙ âĺäĺň ę íĺěó.
+28694	-1	41710	DIA_NONE_3102_YAZZAR_BESTOHLEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3102_Yazzar_bestohlen_14_00"")"	SUBTITLE	Стой!	Stój!
+28695	-1	41710	DIA_NONE_3102_YAZZAR_BESTOHLEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3102_Yazzar_bestohlen_14_01"")"	SUBTITLE	(лихорадочно) Кто ты?	(ëčőîđŕäî÷íî) Kim jesteś?
+28696	-1	41710	DIA_NONE_3102_YAZZAR_BESTOHLEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3102_Yazzar_bestohlen_14_02"")"	SUBTITLE	Я Яззар. Когда-то я был паладином, известным на всю страну.	ß ßççŕđ. Ęîăäŕ-ňî ˙ áűë ďŕëŕäčíîě, čçâĺńňíűě íŕ âńţ ńňđŕíó.
+28697	-1	41710	DIA_NONE_3102_YAZZAR_BESTOHLEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3102_Yazzar_bestohlen_14_03"")"	SUBTITLE	Когда я умер, я был похоронен в этом зале, вместе с моими сокровищами.	Ęîăäŕ ˙ óěĺđ, ˙ áűë ďîőîđîíĺí â ýňîě çŕëĺ, âěĺńňĺ ń ěîčěč ńîęđîâčůŕěč.
+28698	-1	41710	DIA_NONE_3102_YAZZAR_BESTOHLEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3102_Yazzar_bestohlen_14_04"")"	SUBTITLE	Как ты смеешь прикасаться к ним своими грязными руками!	Ęŕę ňű ńěĺĺřü ďđčęŕńŕňüń˙ ę íčě ńâîčěč ăđ˙çíűěč đóęŕěč!
+28699	-1	41710	DIA_NONE_3102_YAZZAR_BESTOHLEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3102_Yazzar_bestohlen_14_05"")"	SUBTITLE	Преступление должно быть наказано, готовься к смерти!	Ďđĺńňóďëĺíčĺ äîëćíî áűňü íŕęŕçŕíî, ăîňîâüń˙ ę ńěĺđňč!
+28700	-1	41710	DIA_NONE_3102_YAZZAR_BESTOHLEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3102_Yazzar_bestohlen_14_06"")"	SUBTITLE	Хорошо, ты тоже готовься сдохнуть, мешок с пылью!	Őîđîřî, ňű ňîćĺ ăîňîâüń˙ ńäîőíóňü, ěĺřîę ń ďűëüţ!
+28701	2460	166172	DIA_NONE_3103_ARVID_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Привет.	Witaj!
+28702	-1	41717	DIA_NONE_3103_ARVID_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_hallo_14_00"")"	SUBTITLE	Привет.	Witaj!
+28703	-1	41717	DIA_NONE_3103_ARVID_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_hallo_14_01"")"	SUBTITLE	Здравствуй. Меня редко навещают, хотя у меня есть такой прекрасный луг…	Witaj. Ěĺí˙ đĺäęî íŕâĺůŕţň, őîň˙ ó ěĺí˙ ĺńňü ňŕęîé ďđĺęđŕńíűé ëóă…
+28704	-1	41717	DIA_NONE_3103_ARVID_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_hallo_14_02"")"	SUBTITLE	Да я просто мимо проходил, я кое-что ищу. А ты кто такой?	Äŕ ˙ ďđîńňî ěčěî ďđîőîäčë, ˙ ęîĺ-÷ňî čůó. Ŕ ňű ęňî ňŕęîé?
+28705	-1	41717	DIA_NONE_3103_ARVID_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_hallo_14_03"")"	SUBTITLE	Меня зовут Арвид. А там внизу находиться Ментария – милая, маленькая деревушка.	Ěĺí˙ çîâóň Ŕđâčä. Ŕ ňŕě âíčçó íŕőîäčňüń˙ Ěĺíňŕđč˙ – ěčëŕ˙, ěŕëĺíüęŕ˙ äĺđĺâóřęŕ.
+28706	-1	41717	DIA_NONE_3103_ARVID_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_hallo_14_04"")"	SUBTITLE	А почему ты не живешь в Ментарии?	Ŕ ďî÷ĺěó ňű íĺ ćčâĺřü â Ěĺíňŕđčč?
+28707	-1	41717	DIA_NONE_3103_ARVID_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_hallo_14_05"")"	SUBTITLE	Действительно, почему?! Я увидел эти луга и подумал: парень, ты должен построить здесь свой собственный дом.	Äĺéńňâčňĺëüíî, ďî÷ĺěó?! ß óâčäĺë ýňč ëóăŕ č ďîäóěŕë: ďŕđĺíü, ňű äîëćĺí ďîńňđîčňü çäĺńü ńâîé ńîáńňâĺííűé äîě.
+28708	-1	41717	DIA_NONE_3103_ARVID_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_hallo_14_06"")"	SUBTITLE	И к тому же. Насколько я помню, в деревне не так много места, как тут, чтобы построить свой дом.	Č ę ňîěó ćĺ. Íŕńęîëüęî ˙ ďîěíţ, â äĺđĺâíĺ íĺ ňŕę ěíîăî ěĺńňŕ, ęŕę ňóň, ÷ňîáű ďîńňđîčňü ńâîé äîě.
+28709	2460	166180	DIA_NONE_3103_ARVID_AUFGABE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я могу тебе помочь?	Mogę ci jakoś pomóc?
+28710	-1	41720	DIA_NONE_3103_ARVID_AUFGABE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_aufgabe_14_00"")"	SUBTITLE	Я могу тебе помочь?	Mogę ci jakoś pomóc?
+28711	-1	41720	DIA_NONE_3103_ARVID_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_14_01"")"	SUBTITLE	Ну, на этой поляне есть небольшая система пещер. Я живу здесь, а мои товары и инструменты хранятся там.	Íó, íŕ ýňîé ďîë˙íĺ ĺńňü íĺáîëüřŕ˙ ńčńňĺěŕ ďĺůĺđ. ß ćčâó çäĺńü, ŕ ěîč ňîâŕđű č číńňđóěĺíňű őđŕí˙ňń˙ ňŕě.
+28712	-1	41720	DIA_NONE_3103_ARVID_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_14_02"")"	SUBTITLE	Но после того, как там завелись эти чертовы крысы, я больше не могу туда ходить.	Íî ďîńëĺ ňîăî, ęŕę ňŕě çŕâĺëčńü ýňč ÷ĺđňîâű ęđűńű, ˙ áîëüřĺ íĺ ěîăó ňóäŕ őîäčňü.
+28713	-1	41720	DIA_NONE_3103_ARVID_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_14_03"")"	SUBTITLE	Знаю, это довольно глупо, но хотя я и был мясником, я жутко боюсь крыс.	Çíŕţ, ýňî äîâîëüíî ăëóďî, íî őîň˙ ˙ č áűë ě˙ńíčęîě, ˙ ćóňęî áîţńü ęđűń.
+28714	-1	41720	DIA_NONE_3103_ARVID_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_14_04"")"	SUBTITLE	Пожалуйста, сходи туда и прогони этих крыс. Мои вещи до сих пор находятся там, и они мне очень нужны.	Ďîćŕëóéńňŕ, ńőîäč ňóäŕ č ďđîăîíč ýňčő ęđűń. Ěîč âĺůč äî ńčő ďîđ íŕőîä˙ňń˙ ňŕě, č îíč ěíĺ î÷ĺíü íóćíű.
+28715	-1	41720	DIA_NONE_3103_ARVID_AUFGABE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_aufgabe_14_05"")"	SUBTITLE	Сейчас же пойду туда!	Ńĺé÷ŕń ćĺ ďîéäó ňóäŕ!
+28716	-1	41720	DIA_NONE_3103_ARVID_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_14_06"")"	SUBTITLE	Хорошо, премного благодарен.	Őîđîřî, ďđĺěíîăî áëŕăîäŕđĺí.
+28717	2460	166188	DIA_NONE_3103_ARVID_AUFGABE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Арвида мучают крысы в его системе пещер-хранилищ. Какое замечательное слово... В любом случае, я должен очистить пещеры, чтобы он мог снова спокойно туда зайти и тайком напиться... Никогда не узнаешь.	Ŕđâčäŕ ěó÷ŕţň ęđűńű â ĺăî ńčńňĺěĺ ďĺůĺđ-őđŕíčëčů. Ęŕęîĺ çŕěĺ÷ŕňĺëüíîĺ ńëîâî... Â ëţáîě ńëó÷ŕĺ, ˙ äîëćĺí î÷čńňčňü ďĺůĺđű, ÷ňîáű îí ěîă ńíîâŕ ńďîęîéíî ňóäŕ çŕéňč č ňŕéęîě íŕďčňüń˙... Íčęîăäŕ íĺ óçíŕĺřü.
+28718	2460	166189	DIA_NONE_3103_ARVID_AUFGABE_FERTIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Теперь ты можешь быть спокоен.	Ňĺďĺđü ňű ěîćĺřü áűňü ńďîęîĺí.
+28719	-1	41723	DIA_NONE_3103_ARVID_AUFGABE_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_aufgabe_fertig_14_00"")"	SUBTITLE	Теперь ты можешь быть спокоен.	Ňĺďĺđü ňű ěîćĺřü áűňü ńďîęîĺí.
+28720	-1	41723	DIA_NONE_3103_ARVID_AUFGABE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_fertig_14_01"")"	SUBTITLE	А? Почему?	No i? Dlaczego?
+28721	-1	41723	DIA_NONE_3103_ARVID_AUFGABE_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_aufgabe_fertig_14_02"")"	SUBTITLE	Маленькая подсказка: крысы.	Ěŕëĺíüęŕ˙ ďîäńęŕçęŕ: ęđűńű.
+28722	-1	41723	DIA_NONE_3103_ARVID_AUFGABE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_fertig_14_03"")"	SUBTITLE	Ох, я уже и забыл. Ты действительно спускался туда?	Îő, ˙ óćĺ č çŕáűë. Ňű äĺéńňâčňĺëüíî ńďóńęŕëń˙ ňóäŕ?
+28723	-1	41723	DIA_NONE_3103_ARVID_AUFGABE_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3103_Arvid_aufgabe_fertig_14_04"")"	SUBTITLE	Как я уже сказал, теперь ты можешь спокойно идти в пещеру и забрать свои вещи.	Ęŕę ˙ óćĺ ńęŕçŕë, ňĺďĺđü ňű ěîćĺřü ńďîęîéíî čäňč â ďĺůĺđó č çŕáđŕňü ńâîč âĺůč.
+28724	-1	41723	DIA_NONE_3103_ARVID_AUFGABE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3103_Arvid_aufgabe_fertig_14_05"")"	SUBTITLE	Ах, как же я тебе благодарен! Вот, тебе полагается за это награда!	Ŕő, ęŕę ćĺ ˙ ňĺáĺ áëŕăîäŕđĺí! Âîň, ňĺáĺ ďîëŕăŕĺňń˙ çŕ ýňî íŕăđŕäŕ!
+28725	2460	166196	DIA_NONE_3103_ARVID_AUFGABE_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Пещеры освобождены... Арвид тоже, по крайней мере от своих крысиных забот.	Ďĺůĺđű îńâîáîćäĺíű... Ŕđâčä ňîćĺ, ďî ęđŕéíĺé ěĺđĺ îň ńâîčő ęđűńčíűő çŕáîň.
+28726	2460	166197	DIA_NONE_3104_OSTAN_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Добрый день!	Witaj!
+28727	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_hallo_14_00"")"	SUBTITLE	Добрый день!	Witaj!
+28728	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_hallo_14_01"")"	SUBTITLE	У тебя такой же красивый дом, как у Арвида!	Ó ňĺá˙ ňŕęîé ćĺ ęđŕńčâűé äîě, ęŕę ó Ŕđâčäŕ!
+28729	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_02"")"	SUBTITLE	Арвид? А, это тот парень, живущий сзади.	Ŕđâčä? Ŕ, ýňî ňîň ďŕđĺíü, ćčâóůčé ńçŕäč.
+28730	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_03"")"	SUBTITLE	Да, я когда-то жил в Теневом болоте.	Äŕ, ˙ ęîăäŕ-ňî ćčë â Ňĺíĺâîě áîëîňĺ.
+28731	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_04"")"	SUBTITLE	Я ушел оттуда и увидел это красивое место. С тех пор я стал жить здесь.	ß óřĺë îňňóäŕ č óâčäĺë ýňî ęđŕńčâîĺ ěĺńňî. Ń ňĺő ďîđ ˙ ńňŕë ćčňü çäĺńü.
+28732	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_05"")"	SUBTITLE	Я был вдохновлен домом Арвида и достроил его.	ß áűë âäîőíîâëĺí äîěîě Ŕđâčäŕ č äîńňđîčë ĺăî.
+28733	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_hallo_14_06"")"	SUBTITLE	А что такое Теневое болото?	Ŕ ÷ňî ňŕęîĺ Ňĺíĺâîĺ áîëîňî?
+28734	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_07"")"	SUBTITLE	Если ты пойдешь по дороге налево, то попадешь в долину с болотом. Это и есть Теневое болото.	Ĺńëč ňű ďîéäĺřü ďî äîđîăĺ íŕëĺâî, ňî ďîďŕäĺřü â äîëčíó ń áîëîňîě. Ýňî č ĺńňü Ňĺíĺâîĺ áîëîňî.
+28735	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_hallo_14_08"")"	SUBTITLE	О, спасибо.	Î, ńďŕńčáî.
+28736	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_hallo_14_09"")"	SUBTITLE	Чем же ты занимаешься здесь целыми днями?	×ĺě ćĺ ňű çŕíčěŕĺřüń˙ çäĺńü öĺëűěč äí˙ěč?
+28737	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_10"")"	SUBTITLE	Обычно я провожу время возле каменного круга у моего дома.	Îáű÷íî ˙ ďđîâîćó âđĺě˙ âîçëĺ ęŕěĺííîăî ęđóăŕ ó ěîĺăî äîěŕ.
+28738	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_11"")"	SUBTITLE	Но сейчас там обитают непобедимые волки.	Íî ńĺé÷ŕń ňŕě îáčňŕţň íĺďîáĺäčěűĺ âîëęč.
+28739	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_hallo_14_12"")"	SUBTITLE	Непобедимые? Это как?	Íĺďîáĺäčěűĺ? To znaczy?
+28740	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_hallo_14_13"")"	SUBTITLE	Спроси что-нибудь попроще. Это какой-то новый вид, посланный богом истреблять людей.	Ńďđîńč ÷ňî-íčáóäü ďîďđîůĺ. Ýňî ęŕęîé-ňî íîâűé âčä, ďîńëŕííűé áîăîě čńňđĺáë˙ňü ëţäĺé.
+28741	-1	41729	DIA_NONE_3104_OSTAN_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_hallo_14_14"")"	SUBTITLE	Хм, понимаю.	Őě, ďîíčěŕţ.
+28742	2460	166213	DIA_NONE_3104_OSTAN_AUFGABE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я разберусь с «непобедимыми» волками!	ß đŕçáĺđóńü ń «íĺďîáĺäčěűěč» âîëęŕěč!
+28743	-1	41732	DIA_NONE_3104_OSTAN_AUFGABE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_14_00"")"	SUBTITLE	Я разберусь с «непобедимыми» волками!	ß đŕçáĺđóńü ń «íĺďîáĺäčěűěč» âîëęŕěč!
+28744	-1	41732	DIA_NONE_3104_OSTAN_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_14_01"")"	SUBTITLE	Ты что с ума сошел?!	Ňű ÷ňî ń óěŕ ńîřĺë?!
+28745	-1	41732	DIA_NONE_3104_OSTAN_AUFGABE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_14_02"")"	SUBTITLE	Радуйся, что есть такие парни, которые еще хотят помогать таким как ты.	Đŕäóéń˙, ÷ňî ĺńňü ňŕęčĺ ďŕđíč, ęîňîđűĺ ĺůĺ őîň˙ň ďîěîăŕňü ňŕęčě ęŕę ňű.
+28746	-1	41732	DIA_NONE_3104_OSTAN_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_14_03"")"	SUBTITLE	Ну это твоя жизнь, тебе решать, хотя я пробовал, еле ноги унес.	Íó ýňî ňâî˙ ćčçíü, ňĺáĺ đĺřŕňü, őîň˙ ˙ ďđîáîâŕë, ĺëĺ íîăč óíĺń.
+28747	-1	41732	DIA_NONE_3104_OSTAN_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_14_04"")"	SUBTITLE	Если ты действительно хочешь с ними сразиться, то тебе понадобиться что-то, что может обойти их неуязвимость.	Ĺńëč ňű äĺéńňâčňĺëüíî őî÷ĺřü ń íčěč ńđŕçčňüń˙, ňî ňĺáĺ ďîíŕäîáčňüń˙ ÷ňî-ňî, ÷ňî ěîćĺň îáîéňč čő íĺó˙çâčěîńňü.
+28748	-1	41732	DIA_NONE_3104_OSTAN_AUFGABE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_14_05"")"	SUBTITLE	Если что, надеюсь ты хорошо бегаешь.	Ĺńëč ÷ňî, íŕäĺţńü ňű őîđîřî áĺăŕĺřü.
+28749	-1	41732	DIA_NONE_3104_OSTAN_AUFGABE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_14_06"")"	SUBTITLE	Вроде да, но я надеюсь до этого не дойдет. Я хитрый и умный, что-нибудь придумаю.	Âđîäĺ äŕ, íî ˙ íŕäĺţńü äî ýňîăî íĺ äîéäĺň. ß őčňđűé č óěíűé, ÷ňî-íčáóäü ďđčäóěŕţ.
+28750	2460	166221	DIA_NONE_3104_OSTAN_AUFGABE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Хм, так я себя не очень понимаю. Как мне удается убивать непобедимых волков? ХИЛФФИ.. Что ж, мне нужно искать что-то, с помощью чего я смогу заставить их непробиваемость пробиться. Непроницаемость, проницаемость... Хм, да, это правда. А Остан сказал одним предложением: «Может быть, мертвые смогут вам помочь». Что это может означать еще раз?	Őě, ňŕę ˙ ńĺá˙ íĺ î÷ĺíü ďîíčěŕţ. Ęŕę ěíĺ óäŕĺňń˙ óáčâŕňü íĺďîáĺäčěűő âîëęîâ? ŐČËÔÔČ.. ×ňî ć, ěíĺ íóćíî čńęŕňü ÷ňî-ňî, ń ďîěîůüţ ÷ĺăî ˙ ńěîăó çŕńňŕâčňü čő íĺďđîáčâŕĺěîńňü ďđîáčňüń˙. Íĺďđîíčöŕĺěîńňü, ďđîíčöŕĺěîńňü... Őě, äŕ, ýňî ďđŕâäŕ. Ŕ Îńňŕí ńęŕçŕë îäíčě ďđĺäëîćĺíčĺě: «Ěîćĺň áűňü, ěĺđňâűĺ ńěîăóň âŕě ďîěî÷ü». ×ňî ýňî ěîćĺň îçíŕ÷ŕňü ĺůĺ đŕç?
+28751	2460	166222	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Волки стали историей.	Âîëęč ńňŕëč čńňîđčĺé.
+28752	-1	41735	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_fertig_14_00"")"	SUBTITLE	Волки стали историей.	Âîëęč ńňŕëč čńňîđčĺé.
+28753	-1	41735	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_fertig_14_01"")"	SUBTITLE	Да ты что? Неужели это правда. Я уже думал мне придется забираться на круг камней.	Äŕ ňű ÷ňî? Íĺóćĺëč ýňî ďđŕâäŕ. ß óćĺ äóěŕë ěíĺ ďđčäĺňń˙ çŕáčđŕňüń˙ íŕ ęđóă ęŕěíĺé.
+28754	-1	41735	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_fertig_14_02"")"	SUBTITLE	А, ЧТО???	Ŕ, ×ŇÎ???
+28755	-1	41735	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_fertig_14_03"")"	SUBTITLE	Нет, ничего такого. Я просто удивлен и благодарен тебе. Твой поступок достоин уважения.	Íĺň, íč÷ĺăî ňŕęîăî. ß ďđîńňî óäčâëĺí č áëŕăîäŕđĺí ňĺáĺ. Ňâîé ďîńňóďîę äîńňîčí óâŕćĺíč˙.
+28756	-1	41735	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_fertig_14_04"")"	SUBTITLE	Ты хотел сказать, «награды»?	Ňű őîňĺë ńęŕçŕňü, «íŕăđŕäű»?
+28757	-1	41735	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_fertig_14_05"")"	SUBTITLE	Да, конечно. Можешь выбрать: 50 золотых, Драконий Корень или Гоблинскую Ягоду.	Możesz być o to spokojny. Ěîćĺřü âűáđŕňü: 50 çîëîňűő, Äđŕęîíčé Ęîđĺíü čëč Ăîáëčíńęóţ ßăîäó.
+28758	2460	166229	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я люблю деньги, дай мне 50 золотых!	ß ëţáëţ äĺíüăč, äŕé ěíĺ 50 çîëîňűő!
+28759	2460	166230	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я всегда хотел быть сильным, я выбираю драконий корень!	ß âńĺăäŕ őîňĺë áűňü ńčëüíűě, ˙ âűáčđŕţ äđŕęîíčé ęîđĺíü!
+28760	2460	166231	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Одну гоблинскую ягоду, чтобы быть ловким, пожалуйста!	Îäíó ăîáëčíńęóţ ˙ăîäó, ÷ňîáű áűňü ëîâęčě, ďîćŕëóéńňŕ!
+28761	2460	166233	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Итак, миссия выполнена, поиск нового пункта назначения.	Čňŕę, ěčńńč˙ âűďîëíĺíŕ, ďîčńę íîâîăî ďóíęňŕ íŕçíŕ÷ĺíč˙.
+28762	-1	41736	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_GOLD	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_fertig_Gold_14_01"")"	SUBTITLE	Я люблю деньги, дай мне 50 золотых!	ß ëţáëţ äĺíüăč, äŕé ěíĺ 50 çîëîňűő!
+28763	-1	41736	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_fertig_Gold_14_02"")"	SUBTITLE	Хм, я собирался потратить их на кое-что другое, но пусть так. У меня еще немного останется.	Őě, ˙ ńîáčđŕëń˙ ďîňđŕňčňü čő íŕ ęîĺ-÷ňî äđóăîĺ, íî ďóńňü ňŕę. Ó ěĺí˙ ĺůĺ íĺěíîăî îńňŕíĺňń˙.
+28764	-1	41737	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_DRACHENWURZEL	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_fertig_Drachenwurzel_14_01"")"	SUBTITLE	Одну гоблинскую ягоду, чтобы быть ловким, пожалуйста!	Îäíó ăîáëčíńęóţ ˙ăîäó, ÷ňîáű áűňü ëîâęčě, ďîćŕëóéńňŕ!
+28765	-1	41737	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_DRACHENWURZEL	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_fertig_Drachenwurzel_14_02"")"	SUBTITLE	Воистину мудрое решение!	Âîčńňčíó ěóäđîĺ đĺřĺíčĺ!
+28766	-1	41738	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_GOBLINBEERE	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3104_Ostan_aufgabe_fertig_Drachenwurzel_14_01"")"	SUBTITLE	Одну гоблинскую ягоду, чтобы быть ловким, пожалуйста!	Îäíó ăîáëčíńęóţ ˙ăîäó, ÷ňîáű áűňü ëîâęčě, ďîćŕëóéńňŕ!
+28767	-1	41738	DIA_NONE_3104_OSTAN_AUFGABE_FERTIG_GOBLINBEERE	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3104_Ostan_aufgabe_fertig_Drachenwurzel_14_02"")"	SUBTITLE	Воистину мудрое решение!	Âîčńňčíó ěóäđîĺ đĺřĺíčĺ!
+28768	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_14_00"")"	SUBTITLE	Хм , подожди минутку, парень.	Őě , ďîäîćäč ěčíóňęó, ďŕđĺíü.
+28769	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_EXIT_14_01"")"	SUBTITLE	Да, у меня так много свободного времени.	Äŕ, ó ěĺí˙ ňŕę ěíîăî ńâîáîäíîăî âđĺěĺíč.
+28770	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_14_02"")"	SUBTITLE	Не расстраивайся. Тебе не стоило со мной разговаривать...	Íĺ đŕńńňđŕčâŕéń˙. Ňĺáĺ íĺ ńňîčëî ńî ěíîé đŕçăîâŕđčâŕňü...
+28771	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_14_03"")"	SUBTITLE	Поэтому, думаю, я останусь здесь на некоторое время.	Ďîýňîěó, äóěŕţ, ˙ îńňŕíóńü çäĺńü íŕ íĺęîňîđîĺ âđĺě˙.
+28772	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_14_04"")"	SUBTITLE	Но какой смысл торговцу, если никто не покупает его товары?	Íî ęŕęîé ńěűńë ňîđăîâöó, ĺńëč íčęňî íĺ ďîęóďŕĺň ĺăî ňîâŕđű?
+28773	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_EXIT_14_05"")"	SUBTITLE	Никакой!	Íčęŕęîé!
+28774	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_14_06"")"	SUBTITLE	Именно так. И поэтому прошу тебя отдать несколько моих банок меда в деревне Морелия.	Właśnie. Č ďîýňîěó ďđîřó ňĺá˙ îňäŕňü íĺńęîëüęî ěîčő áŕíîę ěĺäŕ â äĺđĺâíĺ Ěîđĺëč˙.
+28775	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_EXIT_14_07"")"	SUBTITLE	Ты точно на этом не заработаешь!	Ňű ňî÷íî íŕ ýňîě íĺ çŕđŕáîňŕĺřü!
+28776	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_14_08"")"	SUBTITLE	Да, да. Я не такой, как другие торговцы, которые берут деньги за все.	Äŕ, äŕ. ß íĺ ňŕęîé, ęŕę äđóăčĺ ňîđăîâöű, ęîňîđűĺ áĺđóň äĺíüăč çŕ âńĺ.
+28777	-1	41745	DIA_NONE_3105_GISPERT_EXIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_14_09"")"	SUBTITLE	И все, чего я хочу добиться с помощью этого, — это привлечь клиентов. Так что, ты мог бы сделать это для меня?	Č âńĺ, ÷ĺăî ˙ őî÷ó äîáčňüń˙ ń ďîěîůüţ ýňîăî, — ýňî ďđčâëĺ÷ü ęëčĺíňîâ. Ňŕę ÷ňî, ňű ěîă áű ńäĺëŕňü ýňî äë˙ ěĺí˙?
+28778	2460	166250	DIA_NONE_3105_GISPERT_EXIT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я подумаю об этом.	Zastanowię się.
+28779	2460	166251	DIA_NONE_3105_GISPERT_EXIT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Да, я помогу.	Äŕ, ˙ ďîěîăó.
+28780	2460	166252	DIA_NONE_3105_GISPERT_EXIT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Это проще простого, я такими не занимаюсь. И это все равно не мой продукт!	Ýňî ďđîůĺ ďđîńňîăî, ˙ ňŕęčěč íĺ çŕíčěŕţńü. Č ýňî âńĺ đŕâíî íĺ ěîé ďđîäóęň!
+28781	-1	41746	DIA_NONE_3105_GISPERT_EXIT_EVTL	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_EXIT_evtl_14_00"")"	SUBTITLE	Я подумаю об этом.	Zastanowię się.
+28782	-1	41746	DIA_NONE_3105_GISPERT_EXIT_EVTL	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_evtl_14_01"")"	SUBTITLE	Хорошо, но не трать слишком много времени.	Őîđîřî, íî íĺ ňđŕňü ńëčřęîě ěíîăî âđĺěĺíč.
+28783	-1	41746	DIA_NONE_3105_GISPERT_EXIT_EVTL	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_evtl_14_02"")"	SUBTITLE	(про себя) В противном случае я могу закрыться прямо сейчас.	(ďđî ńĺá˙) Â ďđîňčâíîě ńëó÷ŕĺ ˙ ěîăó çŕęđűňüń˙ ďđ˙ěî ńĺé÷ŕń.
+28784	-1	41747	DIA_NONE_3105_GISPERT_EXIT_JA	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_EXIT_ja_14_00"")"	SUBTITLE	Да, я помогу.	Äŕ, ˙ ďîěîăó.
+28785	-1	41747	DIA_NONE_3105_GISPERT_EXIT_JA	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_ja_14_01"")"	SUBTITLE	Хорошо, вот банка с медом.	Őîđîřî, âîň áŕíęŕ ń ěĺäîě.
+28786	2460	166258	DIA_NONE_3105_GISPERT_EXIT_JA	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Для того, чтобы торговец Гисперт получил несколько клиентов (может и нет, это было бы забавно), я должен раздать несколько баночек меда от него в Морелии.	Äë˙ ňîăî, ÷ňîáű ňîđăîâĺö Ăčńďĺđň ďîëó÷čë íĺńęîëüęî ęëčĺíňîâ (ěîćĺň č íĺň, ýňî áűëî áű çŕáŕâíî), ˙ äîëćĺí đŕçäŕňü íĺńęîëüęî áŕíî÷ĺę ěĺäŕ îň íĺăî â Ěîđĺëčč.
+28787	-1	41748	DIA_NONE_3105_GISPERT_EXIT_NEIN	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_EXIT_nein_14_00"")"	SUBTITLE	Это проще простого, я такими не занимаюсь. И это все равно не мой продукт!	Ýňî ďđîůĺ ďđîńňîăî, ˙ ňŕęčěč íĺ çŕíčěŕţńü. Č ýňî âńĺ đŕâíî íĺ ěîé ďđîäóęň!
+28788	-1	41748	DIA_NONE_3105_GISPERT_EXIT_NEIN	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_EXIT_nein_14_01"")"	SUBTITLE	Злой парень! Ну ладно, с этим я смирюсь.	Çëîé ďŕđĺíü! Íó ëŕäíî, ń ýňčě ˙ ńěčđţńü.
+28789	2460	166261	DIA_NONE_3105_GISPERT_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Привет, торговец!	Ďđčâĺň, ňîđăîâĺö!
+28790	-1	41751	DIA_NONE_3105_GISPERT_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_hallo_14_00"")"	SUBTITLE	Привет, торговец!	Ďđčâĺň, ňîđăîâĺö!
+28791	-1	41751	DIA_NONE_3105_GISPERT_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_hallo_14_01"")"	SUBTITLE	Добрый день! Хм, откуда ты знаешь, что я торгую?	Witaj! Őě, îňęóäŕ ňű çíŕĺřü, ÷ňî ˙ ňîđăóţ?
+28792	2460	166264	DIA_NONE_3105_GISPERT_HALLO_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Это легко увидеть!	Ýňî ëĺăęî óâčäĺňü!
+28793	2460	166265	DIA_NONE_3105_GISPERT_HALLO_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Откуда мне это знать?	Îňęóäŕ ěíĺ ýňî çíŕňü?
+28794	-1	41752	DIA_NONE_3105_GISPERT_HALLO_WISSEN	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_hallo_Wissen_14_00"")"	SUBTITLE	Это легко увидеть!	Ýňî ëĺăęî óâčäĺňü!
+28795	-1	41752	DIA_NONE_3105_GISPERT_HALLO_WISSEN	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_hallo_Wissen_14_01"")"	SUBTITLE	Кто еще ездит на тележке и постоянно делает остановки?	Ęňî ĺůĺ ĺçäčň íŕ ňĺëĺćęĺ č ďîńňî˙ííî äĺëŕĺň îńňŕíîâęč?
+28796	-1	41752	DIA_NONE_3105_GISPERT_HALLO_WISSEN	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_hallo_Wissen_14_02"")"	SUBTITLE	Я думал, что это может быть только торговец.	ß äóěŕë, ÷ňî ýňî ěîćĺň áűňü ňîëüęî ňîđăîâĺö.
+28797	-1	41752	DIA_NONE_3105_GISPERT_HALLO_WISSEN	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_hallo_Wissen_14_03"")"	SUBTITLE	Хм, хорошо, да, я торговец. Меня зовут Гисперт.	Őě, őîđîřî, äŕ, ˙ ňîđăîâĺö. Ěĺí˙ çîâóň Ăčńďĺđň.
+28798	-1	41753	DIA_NONE_3105_GISPERT_HALLO_DONT_KNOW	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_hallo_Dont_Know_14_00"")"	SUBTITLE	Откуда мне это знать?	Îňęóäŕ ěíĺ ýňî çíŕňü?
+28799	-1	41753	DIA_NONE_3105_GISPERT_HALLO_DONT_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_hallo_Dont_Know_14_01"")"	SUBTITLE	Ну, ты же знаешь, почему думаешь, что я торговец . Иначе ты бы этого не сказал, шутник.	Íó, ňű ćĺ çíŕĺřü, ďî÷ĺěó äóěŕĺřü, ÷ňî ˙ ňîđăîâĺö . Číŕ÷ĺ ňű áű ýňîăî íĺ ńęŕçŕë, řóňíčę.
+28800	-1	41753	DIA_NONE_3105_GISPERT_HALLO_DONT_KNOW	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_hallo_Dont_Know_14_02"")"	SUBTITLE	"Да и не в этом дело. Я увидел тебя, и в моей голове как-то всплыло слово ""торговец""."	"Äŕ č íĺ â ýňîě äĺëî. ß óâčäĺë ňĺá˙, č â ěîĺé ăîëîâĺ ęŕę-ňî âńďëűëî ńëîâî ""ňîđăîâĺö""."
+28801	-1	41753	DIA_NONE_3105_GISPERT_HALLO_DONT_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_hallo_Dont_Know_14_03"")"	SUBTITLE	Ага. Ну, в любом случае, я действительно торговец.	Tak. Íó, â ëţáîě ńëó÷ŕĺ, ˙ äĺéńňâčňĺëüíî ňîđăîâĺö.
+28802	2460	166274	DIA_NONE_3105_GISPERT_WARE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Можешь мне что-нибудь продать?	Ěîćĺřü ěíĺ ÷ňî-íčáóäü ďđîäŕňü?
+28803	-1	41756	DIA_NONE_3105_GISPERT_WARE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_ware_14_00"")"	SUBTITLE	Можешь мне что-нибудь продать?	Ěîćĺřü ěíĺ ÷ňî-íčáóäü ďđîäŕňü?
+28804	-1	41756	DIA_NONE_3105_GISPERT_WARE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_ware_14_01"")"	SUBTITLE	Конечно, иначе я бы не был торговцем . Просто взгляните на мой ассортимент продукции!	Ęîíĺ÷íî, číŕ÷ĺ ˙ áű íĺ áűë ňîđăîâöĺě . Ďđîńňî âçăë˙íčňĺ íŕ ěîé ŕńńîđňčěĺíň ďđîäóęöčč!
+28805	2460	166277	DIA_NONE_3105_GISPERT_MINE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Куда я попаду, если пойду по этому пути?	Ęóäŕ ˙ ďîďŕäó, ĺńëč ďîéäó ďî ýňîěó ďóňč?
+28806	-1	41759	DIA_NONE_3105_GISPERT_MINE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_mine_14_00"")"	SUBTITLE	Куда я попаду, если пойду по этому пути?	Ęóäŕ ˙ ďîďŕäó, ĺńëč ďîéäó ďî ýňîěó ďóňč?
+28807	-1	41759	DIA_NONE_3105_GISPERT_MINE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_mine_14_01"")"	SUBTITLE	Ну, я здесь не так давно. Но я предполагаю, что это шахта.	Íó, ˙ çäĺńü íĺ ňŕę äŕâíî. Íî ˙ ďđĺäďîëŕăŕţ, ÷ňî ýňî řŕőňŕ.
+28808	-1	41759	DIA_NONE_3105_GISPERT_MINE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_mine_14_02"")"	SUBTITLE	Но я никого из тех, кто там работал, не видел. Вероятно, туда уже некуда добраться.	Íî ˙ íčęîăî čç ňĺő, ęňî ňŕě đŕáîňŕë, íĺ âčäĺë. Âĺđî˙ňíî, ňóäŕ óćĺ íĺęóäŕ äîáđŕňüń˙.
+28809	-1	41759	DIA_NONE_3105_GISPERT_MINE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_mine_14_03"")"	SUBTITLE	Ну, тогда, вероятно, ее бросят.	Íó, ňîăäŕ, âĺđî˙ňíî, ĺĺ áđîń˙ň.
+28810	2460	166282	DIA_NONE_3105_GISPERT_HONIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	В конце концов, я приму твое задание!	Â ęîíöĺ ęîíöîâ, ˙ ďđčěó ňâîĺ çŕäŕíčĺ!
+28811	-1	41762	DIA_NONE_3105_GISPERT_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_honig_14_00"")"	SUBTITLE	В конце концов, я приму твое задание!	Â ęîíöĺ ęîíöîâ, ˙ ďđčěó ňâîĺ çŕäŕíčĺ!
+28812	-1	41762	DIA_NONE_3105_GISPERT_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_honig_14_01"")"	SUBTITLE	Хорошо, вот банка с медом.	Őîđîřî, âîň áŕíęŕ ń ěĺäîě.
+28813	2460	166285	DIA_NONE_3105_GISPERT_HONIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Для того, чтобы торговец Гисперт получил несколько клиентов (может и нет, это было бы забавно), я должен раздать несколько баночек меда от него в Морелии.	Äë˙ ňîăî, ÷ňîáű ňîđăîâĺö Ăčńďĺđň ďîëó÷čë íĺńęîëüęî ęëčĺíňîâ (ěîćĺň č íĺň, ýňî áűëî áű çŕáŕâíî), ˙ äîëćĺí đŕçäŕňü íĺńęîëüęî áŕíî÷ĺę ěĺäŕ îň íĺăî â Ěîđĺëčč.
+28814	2460	166286	DIA_NONE_3105_GISPERT_HONIG_FERTIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я раздал твой мед!	ß đŕçäŕë ňâîé ěĺä!
+28815	-1	41765	DIA_NONE_3105_GISPERT_HONIG_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_honig_fertig_14_00"")"	SUBTITLE	Я раздал твой мед!	ß đŕçäŕë ňâîé ěĺä!
+28816	-1	41765	DIA_NONE_3105_GISPERT_HONIG_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_honig_fertig_14_01"")"	SUBTITLE	О, спасибо, ты был очень полезным.	Î, ńďŕńčáî, ňű áűë î÷ĺíü ďîëĺçíűě.
+28817	-1	41765	DIA_NONE_3105_GISPERT_HONIG_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_honig_fertig_14_02"")"	SUBTITLE	Что здесь означает 'очень полезным'?	×ňî çäĺńü îçíŕ÷ŕĺň 'î÷ĺíü ďîëĺçíűě'?
+28818	-1	41765	DIA_NONE_3105_GISPERT_HONIG_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_NONE_3105_Gispert_honig_fertig_14_03"")"	SUBTITLE	Ой, извини. Я, конечно же, имел в виду, что ты мне очень помог. Вот баночка меда для тебя.	Îé, čçâčíč. ß, ęîíĺ÷íî ćĺ, čěĺë â âčäó, ÷ňî ňű ěíĺ î÷ĺíü ďîěîă. Âîň áŕíî÷ęŕ ěĺäŕ äë˙ ňĺá˙.
+28819	-1	41765	DIA_NONE_3105_GISPERT_HONIG_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_NONE_3105_Gispert_honig_fertig_14_04"")"	SUBTITLE	(про себя) Паразит!	(ďđî ńĺá˙) Ďŕđŕçčň!
+28820	2460	166292	DIA_NONE_3105_GISPERT_HONIG_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Таким образом, мед был распределен. А вот обзаведется ли он теперь еще и клиентами, посмотрим.	Ňŕęčě îáđŕçîě, ěĺä áűë đŕńďđĺäĺëĺí. Ŕ âîň îáçŕâĺäĺňń˙ ëč îí ňĺďĺđü ĺůĺ č ęëčĺíňŕěč, ďîńěîňđčě.
+28821	2460	166293	DIA_VLK_3106_SALINA_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Здравствуй, прекрасная леди!	Çäđŕâńňâóé, ďđĺęđŕńíŕ˙ ëĺäč!
+28822	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_hallo_14_00"")"	SUBTITLE	Здравствуй, прекрасная леди!	Çäđŕâńňâóé, ďđĺęđŕńíŕ˙ ëĺäč!
+28823	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_hallo_14_01"")"	SUBTITLE	О, здравствуйте, сэр. Что вас сюда привело?	Î, çäđŕâńňâóéňĺ, ńýđ. ×ňî âŕń ńţäŕ ďđčâĺëî?
+28824	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_hallo_14_02"")"	SUBTITLE	Я хотел узнать, как у них дела, моя красавица.	ß őîňĺë óçíŕňü, ęŕę ó íčő äĺëŕ, ěî˙ ęđŕńŕâčöŕ.
+28825	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_hallo_14_03"")"	SUBTITLE	Нет, серьезно. У тебя есть задание для меня?	Íĺň, ńĺđüĺçíî. Masz dla mnie zadanie?
+28826	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_hallo_14_04"")"	SUBTITLE	Нахальный парень...	Íŕőŕëüíűé ďŕđĺíü...
+28827	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_hallo_14_05"")"	SUBTITLE	(смеется) Ну, вот такие мы, ребята, непредсказуемые.	(ńěĺĺňń˙) Íó, âîň ňŕęčĺ ěű, đĺá˙ňŕ, íĺďđĺäńęŕçóĺěűĺ.
+28828	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_hallo_14_06"")"	SUBTITLE	Хорошо, я еще раз извиняюсь, как тебя зовут?	Őîđîřî, ˙ ĺůĺ đŕç čçâčí˙ţńü, ęŕę ňĺá˙ çîâóň?
+28829	-1	41772	DIA_VLK_3106_SALINA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_hallo_14_07"")"	SUBTITLE	Меня зовут Салина, я занимаюсь приготовлением капустной пюре. Мое хобби - измельчать капусту..	Ěĺí˙ çîâóň Ńŕëčíŕ, ˙ çŕíčěŕţńü ďđčăîňîâëĺíčĺě ęŕďóńňíîé ďţđĺ. Ěîĺ őîááč - čçěĺëü÷ŕňü ęŕďóńňó..
+28830	2460	166302	DIA_VLK_3106_SALINA_HONIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	У меня для тебя здесь подарок!	Ó ěĺí˙ äë˙ ňĺá˙ çäĺńü ďîäŕđîę!
+28831	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_honig_14_00"")"	SUBTITLE	У меня для тебя здесь подарок!	Ó ěĺí˙ äë˙ ňĺá˙ çäĺńü ďîäŕđîę!
+28832	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_honig_14_01"")"	SUBTITLE	Ах, что это?	Ŕő, ÷ňî ýňî?
+28833	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_honig_14_02"")"	SUBTITLE	Небольшой совет! Его можно есть, и он имеет желтоватый цвет.	Íĺáîëüřîé ńîâĺň! Ĺăî ěîćíî ĺńňü, č îí čěĺĺň ćĺëňîâŕňűé öâĺň.
+28834	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_honig_14_03"")"	SUBTITLE	Ох, разве это не мои любимые леденцы из листьев бузины с начинкой из сиропа из сока крапивы?	Îő, đŕçâĺ ýňî íĺ ěîč ëţáčěűĺ ëĺäĺíöű čç ëčńňüĺâ áóçčíű ń íŕ÷číęîé čç ńčđîďŕ čç ńîęŕ ęđŕďčâű?
+28835	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_honig_14_04"")"	SUBTITLE	Дда, нет, просто обычный мед...	Ääŕ, íĺň, ďđîńňî îáű÷íűé ěĺä...
+28836	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_honig_14_05"")"	SUBTITLE	(немного озадаченно) Ох, ладно, дай сюда. В конце концов, его можно использовать для сжигания.	(íĺěíîăî îçŕäŕ÷ĺííî) Îő, ëŕäíî, äŕé ńţäŕ. Â ęîíöĺ ęîíöîâ, ĺăî ěîćíî čńďîëüçîâŕňü äë˙ ńćčăŕíč˙.
+28837	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_honig_14_06"")"	SUBTITLE	Делайте с этим что хотите. Но я также должен упомянуть, что этот мед от поставщика Гисперта .	Äĺëŕéňĺ ń ýňčě ÷ňî őîňčňĺ. Íî ˙ ňŕęćĺ äîëćĺí óďîě˙íóňü, ÷ňî ýňîň ěĺä îň ďîńňŕâůčęŕ Ăčńďĺđňŕ .
+28838	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_honig_14_07"")"	SUBTITLE	Вы можете найти его, если хотите встретиться с ним и что-нибудь у него купить, пройдите по тропинке, а затем поверните направо.	Âű ěîćĺňĺ íŕéňč ĺăî, ĺńëč őîňčňĺ âńňđĺňčňüń˙ ń íčě č ÷ňî-íčáóäü ó íĺăî ęóďčňü, ďđîéäčňĺ ďî ňđîďčíęĺ, ŕ çŕňĺě ďîâĺđíčňĺ íŕďđŕâî.
+28839	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_honig_14_08"")"	SUBTITLE	Ох, к счастью, направо. Это я могу запомнить. С направлением налево у меня всегда были трудности.	Îő, ę ń÷ŕńňüţ, íŕďđŕâî. Ýňî ˙ ěîăó çŕďîěíčňü. Ń íŕďđŕâëĺíčĺě íŕëĺâî ó ěĺí˙ âńĺăäŕ áűëč ňđóäíîńňč.
+28840	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_honig_14_09"")"	SUBTITLE	(Иронично) Это, конечно, очевидно....	(Čđîíč÷íî) Ýňî, ęîíĺ÷íî, î÷ĺâčäíî....
+28841	-1	41775	DIA_VLK_3106_SALINA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_honig_14_10"")"	SUBTITLE	Но все же я приду навестить его.	Íî âńĺ ćĺ ˙ ďđčäó íŕâĺńňčňü ĺăî.
+28842	2460	166314	DIA_VLK_3106_SALINA_HONIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Салина получила баночку меда.	Ńŕëčíŕ ďîëó÷čëŕ áŕíî÷ęó ěĺäŕ.
+28843	2460	166315	DIA_VLK_3106_SALINA_HELFEN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Чем я могу тебе помочь?	Co mogę dla ciebie zrobić?
+28844	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_00"")"	SUBTITLE	Чем я могу тебе помочь?	Co mogę dla ciebie zrobić?
+28845	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_01"")"	SUBTITLE	Можете ли вы мне помочь? Вам бы даже помочь мне..	Ěîćĺňĺ ëč âű ěíĺ ďîěî÷ü? Âŕě áű äŕćĺ ďîěî÷ü ěíĺ..
+28846	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_02"")"	SUBTITLE	Кроме того, речь не шла о фонне.	Ęđîěĺ ňîăî, đĺ÷ü íĺ řëŕ î ôîííĺ.
+28847	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_03"")"	SUBTITLE	Но мне это действительно нужно.	Íî ěíĺ ýňî äĺéńňâčňĺëüíî íóćíî.
+28848	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_04"")"	SUBTITLE	Я потерял свой кошелек, в нем все мое состояние.	ß ďîňĺđ˙ë ńâîé ęîřĺëĺę, â íĺě âńĺ ěîĺ ńîńňî˙íčĺ.
+28849	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_05"")"	SUBTITLE	Я дам тебе около 5 золотых монет.	ß äŕě ňĺáĺ îęîëî 5 çîëîňűő ěîíĺň.
+28850	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_06"")"	SUBTITLE	Извини, но ты не можешь говорить серьезно. Это должно быть твое состояние? Все твое состояние?	Čçâčíč, íî ňű íĺ ěîćĺřü ăîâîđčňü ńĺđüĺçíî. Ýňî äîëćíî áűňü ňâîĺ ńîńňî˙íčĺ? Âńĺ ňâîĺ ńîńňî˙íčĺ?
+28851	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_07"")"	SUBTITLE	Я мог бы легко дать тебе 20 золотых монет.	ß ěîă áű ëĺăęî äŕňü ňĺáĺ 20 çîëîňűő ěîíĺň.
+28852	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_08"")"	SUBTITLE	Нет, мне нельзя принимать ничего от незнакомцев. Но ты должен воспринимать это именно так.	Íĺň, ěíĺ íĺëüç˙ ďđčíčěŕňü íč÷ĺăî îň íĺçíŕęîěöĺâ. Íî ňű äîëćĺí âîńďđčíčěŕňü ýňî čěĺííî ňŕę.
+28853	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_09"")"	SUBTITLE	Мы всего лишь маленькие люди, живущие в этой крошечной деревне. Здесь у нас дела обстоят не очень хорошо.	Ěű âńĺăî ëčřü ěŕëĺíüęčĺ ëţäč, ćčâóůčĺ â ýňîé ęđîřĺ÷íîé äĺđĺâíĺ. Çäĺńü ó íŕń äĺëŕ îáńňî˙ň íĺ î÷ĺíü őîđîřî.
+28854	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_10"")"	SUBTITLE	5 золотых монет - это на самом деле неплохой результат..	5 çîëîňűő ěîíĺň - ýňî íŕ ńŕěîě äĺëĺ íĺďëîőîé đĺçóëüňŕň..
+28855	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_11"")"	SUBTITLE	Ну, меня ты этим не убедишь.	Íó, ěĺí˙ ňű ýňčě íĺ óáĺäčřü.
+28856	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_12"")"	SUBTITLE	Но мне все равно, я верну тебе кошелек.	Íî ěíĺ âńĺ đŕâíî, ˙ âĺđíó ňĺáĺ ęîřĺëĺę.
+28857	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_13"")"	SUBTITLE	Возможно, я уже положил это в свои бесконечно большие карманы.	Âîçěîćíî, ˙ óćĺ ďîëîćčë ýňî â ńâîč áĺńęîíĺ÷íî áîëüřčĺ ęŕđěŕíű.
+28858	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_14"")"	SUBTITLE	Но если нет... где же он может быть?	Íî ĺńëč íĺň... ăäĺ ćĺ îí ěîćĺň áűňü?
+28859	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_15"")"	SUBTITLE	Ну, если бы я это знал, я бы бегал вверх и вниз по дорожке только раз в день для утренней зарядки.	Íó, ĺńëč áű ˙ ýňî çíŕë, ˙ áű áĺăŕë ââĺđő č âíčç ďî äîđîćęĺ ňîëüęî đŕç â äĺíü äë˙ óňđĺííĺé çŕđ˙äęč.
+28860	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_14_16"")"	SUBTITLE	Иначе я просто буду сидеть здесь и топтать капусту.	Číŕ÷ĺ ˙ ďđîńňî áóäó ńčäĺňü çäĺńü č ňîďňŕňü ęŕďóńňó.
+28861	-1	41778	DIA_VLK_3106_SALINA_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_14_17"")"	SUBTITLE	Что ж, я и раньше осваивал более сложные вещи, до встречи!	×ňî ć, ˙ č đŕíüřĺ îńâŕčâŕë áîëĺĺ ńëîćíűĺ âĺůč, äî âńňđĺ÷č!
+28862	2460	166334	DIA_VLK_3106_SALINA_HELFEN_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Салина, капустомельщик, скучает по потерянному кошельку. В этом все ее состояние, состоящее не менее чем из 5 золотых. Я ее последняя надежда в поисках пропажи. Что ж, посмотрим, что там можно сделать.	Ńŕëčíŕ, ęŕďóńňîěĺëüůčę, ńęó÷ŕĺň ďî ďîňĺđ˙ííîěó ęîřĺëüęó. Â ýňîě âńĺ ĺĺ ńîńňî˙íčĺ, ńîńňî˙ůĺĺ íĺ ěĺíĺĺ ÷ĺě čç 5 çîëîňűő. ß ĺĺ ďîńëĺäí˙˙ íŕäĺćäŕ â ďîčńęŕő ďđîďŕćč. ×ňî ć, ďîńěîňđčě, ÷ňî ňŕě ěîćíî ńäĺëŕňü.
+28863	2460	166335	DIA_VLK_3106_SALINA_HELFEN_FERTIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Вот и твой кошелек вернулся.	Âîň č ňâîé ęîřĺëĺę âĺđíóëń˙.
+28864	-1	41781	DIA_VLK_3106_SALINA_HELFEN_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_helfen_fertig_14_00"")"	SUBTITLE	Вот и твой кошелек вернулся.	Âîň č ňâîé ęîřĺëĺę âĺđíóëń˙.
+28865	-1	41781	DIA_VLK_3106_SALINA_HELFEN_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_fertig_14_01"")"	SUBTITLE	О, спасибо, я думала, что утону в нищете. Благодарю тебя, вот mы здесь...	Î, ńďŕńčáî, ˙ äóěŕëŕ, ÷ňî óňîíó â íčůĺňĺ. Áëŕăîäŕđţ ňĺá˙, âîň mű çäĺńü...
+28866	-1	41781	DIA_VLK_3106_SALINA_HELFEN_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_fertig_14_02"")"	SUBTITLE	Подождите, я такая бедная. Я ничего не могу тебе дать.	Ďîäîćäčňĺ, ˙ ňŕęŕ˙ áĺäíŕ˙. ß íč÷ĺăî íĺ ěîăó ňĺáĺ äŕňü.
+28867	-1	41781	DIA_VLK_3106_SALINA_HELFEN_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3106_Salina_helfen_fertig_14_03"")"	SUBTITLE	Но, возможно, тебе также понравятся эти три растения, которые я собрала.	Íî, âîçěîćíî, ňĺáĺ ňŕęćĺ ďîíđŕâ˙ňń˙ ýňč ňđč đŕńňĺíč˙, ęîňîđűĺ ˙ ńîáđŕëŕ.
+28868	2460	166340	DIA_VLK_3106_SALINA_HELFEN_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Старая добрая Салина теперь вернула свой ценный кошелек.	Ńňŕđŕ˙ äîáđŕ˙ Ńŕëčíŕ ňĺďĺđü âĺđíóëŕ ńâîé öĺííűé ęîřĺëĺę.
+28869	2460	166341	DIA_VLK_3106_SALINA_JOINT	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Тебя интересует хороший косяк?	Ňĺá˙ číňĺđĺńóĺň őîđîřčé ęîń˙ę?
+28870	-1	41784	DIA_VLK_3106_SALINA_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3106_Salina_joint_14_00"")"	SUBTITLE	Тебя интересует хороший косяк?	Ňĺá˙ číňĺđĺńóĺň őîđîřčé ęîń˙ę?
+28871	2460	166346	DIA_VLK_3107_ARA_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Привет!	Cześć.
+28872	-1	41790	DIA_VLK_3107_ARA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_hallo_14_00"")"	SUBTITLE	Привет!	Cześć!
+28873	-1	41790	DIA_VLK_3107_ARA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_hallo_14_01"")"	SUBTITLE	(ворчливо) Хм, привет!	(âîđ÷ëčâî) Őě, ďđčâĺň!
+28874	-1	41790	DIA_VLK_3107_ARA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_hallo_14_02"")"	SUBTITLE	Почему так серьезно?	Ďî÷ĺěó ňŕę ńĺđüĺçíî?
+28875	-1	41790	DIA_VLK_3107_ARA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_hallo_14_03"")"	SUBTITLE	А, ничего, я просто вспомнил, как я тогда вместе со своим братом Горном отправлялся в битву, чтобы сражаться с злом.	Ŕ, íč÷ĺăî, ˙ ďđîńňî âńďîěíčë, ęŕę ˙ ňîăäŕ âěĺńňĺ ńî ńâîčě áđŕňîě Ăîđíîě îňďđŕâë˙ëń˙ â áčňâó, ÷ňîáű ńđŕćŕňüń˙ ń çëîě.
+28876	-1	41790	DIA_VLK_3107_ARA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_hallo_14_04"")"	SUBTITLE	Да, ничто не могло противостоять нам, ибо вместе мы были Арагорном (Ара и Горн).	Äŕ, íč÷ňî íĺ ěîăëî ďđîňčâîńňî˙ňü íŕě, čáî âěĺńňĺ ěű áűëč Ŕđŕăîđíîě (Ŕđŕ č Ăîđí).
+28877	-1	41790	DIA_VLK_3107_ARA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_hallo_14_05"")"	SUBTITLE	Хм, похоже, вы хорошо провели время.	Őě, ďîőîćĺ, âű őîđîřî ďđîâĺëč âđĺě˙.
+28878	-1	41790	DIA_VLK_3107_ARA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_hallo_14_06"")"	SUBTITLE	Ах да, вот оно что.	Ŕő äŕ, âîň îíî ÷ňî.
+28879	2460	166354	DIA_VLK_3107_ARA_HONIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Интересует вкусный мед?	Číňĺđĺńóĺň âęóńíűé ěĺä?
+28880	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_honig_14_00"")"	SUBTITLE	Интересует вкусный мед?	Číňĺđĺńóĺň âęóńíűé ěĺä?
+28881	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_honig_14_01"")"	SUBTITLE	Тебе даже не стоит пытаться навязать мне что-нибудь.	Ňĺáĺ äŕćĺ íĺ ńňîčň ďűňŕňüń˙ íŕâ˙çŕňü ěíĺ ÷ňî-íčáóäü.
+28882	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_honig_14_02"")"	SUBTITLE	Хорошо, тогда ты не получишь этот БЕСПЛАТНЫЙ мед.	Őîđîřî, ňîăäŕ ňű íĺ ďîëó÷čřü ýňîň ÁĹŃĎËŔŇÍŰÉ ěĺä.
+28883	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_honig_14_03"")"	SUBTITLE	Хм, подожди, подожди, я это получу бесплатно?	Őě, ďîäîćäč, ďîäîćäč, ˙ ýňî ďîëó÷ó áĺńďëŕňíî?
+28884	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_honig_14_04"")"	SUBTITLE	Ах, ты же уже сказал, что не позволишь мне ничего навязывать тебе. Я уже ухожу.	Ŕő, ňű ćĺ óćĺ ńęŕçŕë, ÷ňî íĺ ďîçâîëčřü ěíĺ íč÷ĺăî íŕâ˙çűâŕňü ňĺáĺ. Właśnie wychodziłem.
+28885	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_honig_14_05"")"	SUBTITLE	Нет, нет, дай сюда, но почему ты даешь мне бесплатный мед?	Íĺň, íĺň, äŕé ńţäŕ, íî ďî÷ĺěó ňű äŕĺřü ěíĺ áĺńďëŕňíűé ěĺä?
+28886	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_honig_14_06"")"	SUBTITLE	Хорошо, вот сначала мед.	Őîđîřî, âîň ńíŕ÷ŕëŕ ěĺä.
+28887	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_honig_14_07"")"	SUBTITLE	Он от торговца Гисперта.	Îí îň ňîđăîâöŕ Ăčńďĺđňŕ.
+28888	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_honig_14_08"")"	SUBTITLE	Гисперт, Гисперт, подожди минутку. Это мне о многом говорит....	Ăčńďĺđň, Ăčńďĺđň, ďîäîćäč ěčíóňęó. Ýňî ěíĺ î ěíîăîě ăîâîđčň....
+28889	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_honig_14_09"")"	SUBTITLE	На самом деле ничего, кто этот парень?	Íŕ ńŕěîě äĺëĺ íč÷ĺăî, ęňî ýňîň ďŕđĺíü?
+28890	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_honig_14_10"")"	SUBTITLE	Хм, ты, наверное, тоже его не знаешь. Но он сейчас находится вверху у края дороги.	Őě, ňű, íŕâĺđíîĺ, ňîćĺ ĺăî íĺ çíŕĺřü. Íî îí ńĺé÷ŕń íŕőîäčňń˙ ââĺđőó ó ęđŕ˙ äîđîăč.
+28891	-1	41793	DIA_VLK_3107_ARA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_honig_14_11"")"	SUBTITLE	(улыбается) Думаю, это здорово. Он может убивать волков, если они подойдут слишком близко к деревне.	(óëűáŕĺňń˙) Äóěŕţ, ýňî çäîđîâî. Îí ěîćĺň óáčâŕňü âîëęîâ, ĺńëč îíč ďîäîéäóň ńëčřęîě áëčçęî ę äĺđĺâíĺ.
+28892	2460	166367	DIA_VLK_3107_ARA_HONIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ара обрадовался меду.	Ŕđŕ îáđŕäîâŕëń˙ ěĺäó.
+28893	2460	166368	DIA_VLK_3107_ARA_JOINT	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Ты куришь?	Ňű ęóđčřü?
+28894	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_joint_14_00"")"	SUBTITLE	Ты куришь?	Ňű ęóđčřü?
+28895	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_joint_14_01"")"	SUBTITLE	Ну, иногда.	Íó, číîăäŕ.
+28896	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_joint_14_02"")"	SUBTITLE	Я бы продал тебе косяк за три золотых монет!	ß áű ďđîäŕë ňĺáĺ ęîń˙ę çŕ ňđč çîëîňűő ěîíĺň!
+28897	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_joint_14_03"")"	SUBTITLE	Хм, ну, я обычно никого не уговариваю, но снова покурить косяк... Это было бы неплохо.	Őě, íó, ˙ îáű÷íî íčęîăî íĺ óăîâŕđčâŕţ, íî ńíîâŕ ďîęóđčňü ęîń˙ę... Ýňî áűëî áű íĺďëîőî.
+28898	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_joint_14_04"")"	SUBTITLE	Знаешь что, я дам тебе восемнадцать золотых монет, а ты мне пять косяков.	Çíŕĺřü ÷ňî, ˙ äŕě ňĺáĺ âîńĺěíŕäöŕňü çîëîňűő ěîíĺň, ŕ ňű ěíĺ ď˙ňü ęîń˙ęîâ.
+28899	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_joint_14_05"")"	SUBTITLE	Согласен?	Zgadzasz się?
+28900	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_joint_14_06"")"	SUBTITLE	Согласен!	Zgadzam się!
+28901	2460	166376	DIA_VLK_3107_ARA_JOINT_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ара купил у меня пять косяков. Это то, что я называю успехом в бизнесе.	Ŕđŕ ęóďčë ó ěĺí˙ ď˙ňü ęîń˙ęîâ. Ýňî ňî, ÷ňî ˙ íŕçűâŕţ óńďĺőîě â áčçíĺńĺ.
+28902	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_joint_14_07"")"	SUBTITLE	Нет! Извини, но у меня нет столько косяков.	Nie!... Arghhh! Čçâčíč, íî ó ěĺí˙ íĺň ńňîëüęî ęîń˙ęîâ.
+28903	-1	41798	DIA_VLK_3107_ARA_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_joint_14_08"")"	SUBTITLE	Грр, ну тогда оставь свои вещи себе. Все, что меньше пяти штук, мне не нужно.	Ăđđ, íó ňîăäŕ îńňŕâü ńâîč âĺůč ńĺáĺ. Âńĺ, ÷ňî ěĺíüřĺ ď˙ňč řňóę, ěíĺ íĺ íóćíî.
+28904	2460	166379	DIA_VLK_3107_ARA_SALINA	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Правда ли, что в этой деревне пять золотых монет...	Ďđŕâäŕ ëč, ÷ňî â ýňîé äĺđĺâíĺ ď˙ňü çîëîňűő ěîíĺň...
+28905	-1	41801	DIA_VLK_3107_ARA_SALINA_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_salina_14_00"")"	SUBTITLE	Правда ли, что в этой деревне пять золотых монет являются хорошим средним показателем богатства?	Ďđŕâäŕ ëč, ÷ňî â ýňîé äĺđĺâíĺ ď˙ňü çîëîňűő ěîíĺň ˙âë˙ţňń˙ őîđîřčě ńđĺäíčě ďîęŕçŕňĺëĺě áîăŕňńňâŕ?
+28906	-1	41801	DIA_VLK_3107_ARA_SALINA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_salina_14_01"")"	SUBTITLE	Что, ты шутишь? Это мелочь.	×ňî, ňű řóňčřü? Ýňî ěĺëî÷ü.
+28907	-1	41801	DIA_VLK_3107_ARA_SALINA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_salina_14_02"")"	SUBTITLE	Кто такое говорит?	Ęňî ňŕęîĺ ăîâîđčň?
+28908	-1	41801	DIA_VLK_3107_ARA_SALINA_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_salina_14_03"")"	SUBTITLE	Салина. Она также хотела, чтобы я забрал ее кошелек.	Ńŕëčíŕ. Îíŕ ňŕęćĺ őîňĺëŕ, ÷ňîáű ˙ çŕáđŕë ĺĺ ęîřĺëĺę.
+28909	-1	41801	DIA_VLK_3107_ARA_SALINA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_salina_14_04"")"	SUBTITLE	О, она... Если честно, у нее явно не все в порядке с головой.	Î, îíŕ... Ĺńëč ÷ĺńňíî, ó íĺĺ ˙âíî íĺ âńĺ â ďîđ˙äęĺ ń ăîëîâîé.
+28910	-1	41801	DIA_VLK_3107_ARA_SALINA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_salina_14_05"")"	SUBTITLE	Она уже совершенно не замечает своего постоянного измельчения капусты. Игнорируйте ее.	Îíŕ óćĺ ńîâĺđřĺííî íĺ çŕěĺ÷ŕĺň ńâîĺăî ďîńňî˙ííîăî čçěĺëü÷ĺíč˙ ęŕďóńňű. Čăíîđčđóéňĺ ĺĺ.
+28911	-1	41801	DIA_VLK_3107_ARA_SALINA_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_salina_14_06"")"	SUBTITLE	(улыбается) Хорошо, спасибо за информацию.	(óëűáŕĺňń˙) Őîđîřî, ńďŕńčáî çŕ číôîđěŕöčţ.
+28912	2460	166387	DIA_VLK_3107_ARA_AUFTRAG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Может быть, мне стоит что-нибудь для тебя сделать?	Ěîćĺň áűňü, ěíĺ ńňîčň ÷ňî-íčáóäü äë˙ ňĺá˙ ńäĺëŕňü?
+28913	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_auftrag_14_00"")"	SUBTITLE	Может быть, мне стоит что-нибудь для тебя сделать?	Ěîćĺň áűňü, ěíĺ ńňîčň ÷ňî-íčáóäü äë˙ ňĺá˙ ńäĺëŕňü?
+28914	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_14_01"")"	SUBTITLE	Хм, я же говорил, что мне нравилось сражаться с Горном тогда.	Őě, ˙ ćĺ ăîâîđčë, ÷ňî ěíĺ íđŕâčëîńü ńđŕćŕňüń˙ ń Ăîđíîě ňîăäŕ.
+28915	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_auftrag_14_02"")"	SUBTITLE	Да, но я, конечно, не буду его заменять.	Äŕ, íî ˙, ęîíĺ÷íî, íĺ áóäó ĺăî çŕěĺí˙ňü.
+28916	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_14_03"")"	SUBTITLE	Нет, нет, мне это тоже не нужно, но по крайней мере я хочу охотиться на животных.	Íĺň, íĺň, ěíĺ ýňî ňîćĺ íĺ íóćíî, íî ďî ęđŕéíĺé ěĺđĺ ˙ őî÷ó îőîňčňüń˙ íŕ ćčâîňíűő.
+28917	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_auftrag_14_04"")"	SUBTITLE	Ну тогда иди в лес, там много всего живет!	Íó ňîăäŕ čäč â ëĺń, ňŕě ěíîăî âńĺăî ćčâĺň!
+28918	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_14_05"")"	SUBTITLE	Нет, тогда я снова останусь один. Но есть небольшой район, где живут охотники.	Íĺň, ňîăäŕ ˙ ńíîâŕ îńňŕíóńü îäčí. Íî ĺńňü íĺáîëüřîé đŕéîí, ăäĺ ćčâóň îőîňíčęč.
+28919	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_14_06"")"	SUBTITLE	Я хотел бы присоединиться к ним.	ß őîňĺë áű ďđčńîĺäčíčňüń˙ ę íčě.
+28920	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_14_07"")"	SUBTITLE	Проблема в том, что у меня уже не так много опыта в боевых действиях.	Ďđîáëĺěŕ â ňîě, ÷ňî ó ěĺí˙ óćĺ íĺ ňŕę ěíîăî îďűňŕ â áîĺâűő äĺéńňâč˙ő.
+28921	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_14_08"")"	SUBTITLE	Я тренируюсь фехтованию каждый день, но это не заменяет настоящую охоту.	ß ňđĺíčđóţńü ôĺőňîâŕíčţ ęŕćäűé äĺíü, íî ýňî íĺ çŕěĺí˙ĺň íŕńňî˙ůóţ îőîňó.
+28922	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_auftrag_14_09"")"	SUBTITLE	И теперь я должен сопровождать тебя через лес к ним?	Č ňĺďĺđü ˙ äîëćĺí ńîďđîâîćäŕňü ňĺá˙ ÷ĺđĺç ëĺń ę íčě?
+28923	-1	41804	DIA_VLK_3107_ARA_AUFTRAG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_14_10"")"	SUBTITLE	Именно это тебе и нужно сделать! Но я попробую сделать это первым, пока мы еще здесь, в долине.	Čěĺííî ýňî ňĺáĺ č íóćíî ńäĺëŕňü! Íî ˙ ďîďđîáóţ ńäĺëŕňü ýňî ďĺđâűě, ďîęŕ ěű ĺůĺ çäĺńü, â äîëčíĺ.
+28924	2460	166400	DIA_VLK_3107_ARA_AUFTRAG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ара хочет присоединиться к охотникам в лесу. Проблема только в том, что он еще не чувствует себя достаточно хорошо, чтобы в одиночку бороться с монстрами в лесу. Вот почему я должен сопровождать его.	Ŕđŕ őî÷ĺň ďđčńîĺäčíčňüń˙ ę îőîňíčęŕě â ëĺńó. Ďđîáëĺěŕ ňîëüęî â ňîě, ÷ňî îí ĺůĺ íĺ ÷óâńňâóĺň ńĺá˙ äîńňŕňî÷íî őîđîřî, ÷ňîáű â îäčíî÷ęó áîđîňüń˙ ń ěîíńňđŕěč â ëĺńó. Âîň ďî÷ĺěó ˙ äîëćĺí ńîďđîâîćäŕňü ĺăî.
+28925	-1	41807	DIA_VLK_3107_ARA_AUFTRAG_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_auftrag_fertig_14_00"")"	SUBTITLE	Вот мы и пришли!	Âîň ěű č ďđčřëč!
+28926	-1	41807	DIA_VLK_3107_ARA_AUFTRAG_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_fertig_14_01"")"	SUBTITLE	Очень хорошо, я тебе кое-что должен.	Î÷ĺíü őîđîřî, ˙ ňĺáĺ ęîĺ-÷ňî äîëćĺí.
+28927	-1	41807	DIA_VLK_3107_ARA_AUFTRAG_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_fertig_14_02"")"	SUBTITLE	Я думаю, что если ты будешь один сражаться с монстрами, то несколько раз получишь ранения...	ß äóěŕţ, ÷ňî ĺńëč ňű áóäĺřü îäčí ńđŕćŕňüń˙ ń ěîíńňđŕěč, ňî íĺńęîëüęî đŕç ďîëó÷čřü đŕíĺíč˙...
+28928	-1	41807	DIA_VLK_3107_ARA_AUFTRAG_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3107_Ara_auftrag_fertig_14_03"")"	SUBTITLE	О чем ты думаешь? Я ведь не такой слабый, как ты.	Î ÷ĺě ňű äóěŕĺřü? ß âĺäü íĺ ňŕęîé ńëŕáűé, ęŕę ňű.
+28929	-1	41807	DIA_VLK_3107_ARA_AUFTRAG_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_fertig_14_04"")"	SUBTITLE	Хм, но это бы идеально подошло в качестве моей награды.	Őě, íî ýňî áű čäĺŕëüíî ďîäîřëî â ęŕ÷ĺńňâĺ ěîĺé íŕăđŕäű.
+28930	-1	41807	DIA_VLK_3107_ARA_AUFTRAG_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_fertig_14_05"")"	SUBTITLE	В любом случае, вот тебе несколько лечебных зелий!	Â ëţáîě ńëó÷ŕĺ, âîň ňĺáĺ íĺńęîëüęî ëĺ÷ĺáíűő çĺëčé!
+28931	2460	166412	DIA_VLK_3107_ARA_AUFTRAG_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я привел Ара к охотникам. Теперь он действительно может жить с этим.	ß ďđčâĺë Ŕđŕ ę îőîňíčęŕě. Ňĺďĺđü îí äĺéńňâčňĺëüíî ěîćĺň ćčňü ń ýňčě.
+28932	-1	41810	DIA_VLK_3107_ARA_AUFTRAG_WEG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3107_Ara_auftrag_weg_14_00"")"	SUBTITLE	Хорошо, я иду за тобой!	Őîđîřî, ˙ čäó çŕ ňîáîé!
+28933	2460	166417	DIA_VLK_3107_ARA_AUFTRAG_HEILTRANK	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	(дать лечебный напиток)	(äŕňü ëĺ÷ĺáíűé íŕďčňîę)
+28934	2460	166418	DIA_VLK_3107_ARA_AUFTRAG_HEILTRANK_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(дать слабый напиток лечения)	(äŕňü ńëŕáűé íŕďčňîę ëĺ÷ĺíč˙)
+28935	2460	166419	DIA_VLK_3107_ARA_AUFTRAG_HEILTRANK_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(дать средний напиток лечения)	(äŕňü ńđĺäíčé íŕďčňîę ëĺ÷ĺíč˙)
+28936	2460	166420	DIA_VLK_3107_ARA_AUFTRAG_HEILTRANK_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(дать сильный напиток леченя)	(äŕňü ńčëüíűé íŕďčňîę ëĺ÷ĺí˙)
+28937	2460	166421	DIA_VLK_3108_ALOE_VERA_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Привет, прекрасная женщина!	Ďđčâĺň, ďđĺęđŕńíŕ˙ ćĺíůčíŕ!
+28938	-1	41823	DIA_VLK_3108_ALOE_VERA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_hallo_14_00"")"	SUBTITLE	Привет, прекрасная женщина!	Ďđčâĺň, ďđĺęđŕńíŕ˙ ćĺíůčíŕ!
+28939	-1	41823	DIA_VLK_3108_ALOE_VERA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3108_Aloe_Vera_hallo_14_01"")"	SUBTITLE	О, добрый день! Что здесь делает такой молодой парень?	Î, äîáđűé äĺíü! ×ňî çäĺńü äĺëŕĺň ňŕęîé ěîëîäîé ďŕđĺíü?
+28940	-1	41823	DIA_VLK_3108_ALOE_VERA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_hallo_14_02"")"	SUBTITLE	Я ищу кое-что, вернее, кого-то. И для этого мне нужно обратиться к вашему деревенскому старосте.	ß čůó ęîĺ-÷ňî, âĺđíĺĺ, ęîăî-ňî. Č äë˙ ýňîăî ěíĺ íóćíî îáđŕňčňüń˙ ę âŕřĺěó äĺđĺâĺíńęîěó ńňŕđîńňĺ.
+28941	-1	41823	DIA_VLK_3108_ALOE_VERA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_hallo_14_03"")"	SUBTITLE	Но для этого мне сначала нужно показать, что я способен, и принести пользу деревне.	Íî äë˙ ýňîăî ěíĺ ńíŕ÷ŕëŕ íóćíî ďîęŕçŕňü, ÷ňî ˙ ńďîńîáĺí, č ďđčíĺńňč ďîëüçó äĺđĺâíĺ.
+28942	-1	41823	DIA_VLK_3108_ALOE_VERA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3108_Aloe_Vera_hallo_14_04"")"	SUBTITLE	Ну, в любом случае, я — Алоэ Вера.	Íó, â ëţáîě ńëó÷ŕĺ, ˙ — Ŕëîý Âĺđŕ.
+28943	-1	41823	DIA_VLK_3108_ALOE_VERA_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_hallo_14_05"")"	SUBTITLE	(смеется) Это звучит как название какого-то растения. Я бы не удивился, если бы позже появилось растение с таким названием.	(ńěĺĺňń˙) Ýňî çâó÷čň ęŕę íŕçâŕíčĺ ęŕęîăî-ňî đŕńňĺíč˙. ß áű íĺ óäčâčëń˙, ĺńëč áű ďîçćĺ ďî˙âčëîńü đŕńňĺíčĺ ń ňŕęčě íŕçâŕíčĺě.
+28944	-1	41823	DIA_VLK_3108_ALOE_VERA_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3108_Aloe_Vera_hallo_14_06"")"	SUBTITLE	Хе-хе, точно. У меня даже есть для тебя задание по этому поводу.	Őĺ-őĺ, ňî÷íî. Ó ěĺí˙ äŕćĺ ĺńňü äë˙ ňĺá˙ çŕäŕíčĺ ďî ýňîěó ďîâîäó.
+28945	2460	166429	DIA_VLK_3108_ALOE_VERA_HONIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Тебя интересует дешевый мед?	Ňĺá˙ číňĺđĺńóĺň äĺřĺâűé ěĺä?
+28946	-1	41826	DIA_VLK_3108_ALOE_VERA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_honig_14_00"")"	SUBTITLE	Тебя интересует дешевый мед?	Ňĺá˙ číňĺđĺńóĺň äĺřĺâűé ěĺä?
+28947	-1	41826	DIA_VLK_3108_ALOE_VERA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3108_Aloe_Vera_honig_14_01"")"	SUBTITLE	О, почему молодые люди всегда говорят так двусмысленно? Вы имеете в виду качество или цену?	Î, ďî÷ĺěó ěîëîäűĺ ëţäč âńĺăäŕ ăîâîđ˙ň ňŕę äâóńěűńëĺííî? Âű čěĺĺňĺ â âčäó ęŕ÷ĺńňâî čëč öĺíó?
+28948	-1	41826	DIA_VLK_3108_ALOE_VERA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_honig_14_02"")"	SUBTITLE	Оба...Но по цене это даже бесплатно.	Îáŕ...Íî ďî öĺíĺ ýňî äŕćĺ áĺńďëŕňíî.
+28949	-1	41826	DIA_VLK_3108_ALOE_VERA_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_honig_14_03"")"	SUBTITLE	Это должен быть небольшой рекламный подарок от продавца Гисперта , который находится в конце дороги.	Ýňî äîëćĺí áűňü íĺáîëüřîé đĺęëŕěíűé ďîäŕđîę îň ďđîäŕâöŕ Ăčńďĺđňŕ , ęîňîđűé íŕőîäčňń˙ â ęîíöĺ äîđîăč.
+28950	-1	41826	DIA_VLK_3108_ALOE_VERA_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3108_Aloe_Vera_honig_14_04"")"	SUBTITLE	О, хорошо, тогда дай мед сюда!	Î, őîđîřî, ňîăäŕ äŕé ěĺä ńţäŕ!
+28951	2460	166435	DIA_VLK_3108_ALOE_VERA_HONIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Алоэ вера получил мед от меня.	Ŕëîý âĺđŕ ďîëó÷čë ěĺä îň ěĺí˙.
+28952	2460	166436	DIA_VLK_3108_ALOE_VERA_JOINT	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Хочешь травку?	Őî÷ĺřü ňđŕâęó?
+28953	-1	41829	DIA_VLK_3108_ALOE_VERA_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_joint_14_00"")"	SUBTITLE	Хочешь травку?	Őî÷ĺřü ňđŕâęó?
+28954	-1	41829	DIA_VLK_3108_ALOE_VERA_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3108_Aloe_Vera_joint_14_01"")"	SUBTITLE	О, к счастью, я люблю природные компоненты!	Î, ę ń÷ŕńňüţ, ˙ ëţáëţ ďđčđîäíűĺ ęîěďîíĺíňű!
+28955	-1	41829	DIA_VLK_3108_ALOE_VERA_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3108_Aloe_Vera_joint_14_02"")"	SUBTITLE	Хорошо, за три золотых монеты ты получешь косяк.	Őîđîřî, çŕ ňđč çîëîňűő ěîíĺňű ňű ďîëó÷ĺřü ęîń˙ę.
+28956	-1	41829	DIA_VLK_3108_ALOE_VERA_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3108_Aloe_Vera_joint_14_03"")"	SUBTITLE	О, вот что ты имел в виду под травой. Ну, дай ее сюда, тебе же чем-то нужно питаться.	Î, âîň ÷ňî ňű čěĺë â âčäó ďîä ňđŕâîé. Íó, äŕé ĺĺ ńţäŕ, ňĺáĺ ćĺ ÷ĺě-ňî íóćíî ďčňŕňüń˙.
+28957	2460	166441	DIA_VLK_3108_ALOE_VERA_JOINT_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Мне удалось продать косяк Алоэ Вера.	Ěíĺ óäŕëîńü ďđîäŕňü ęîń˙ę Ŕëîý Âĺđŕ.
+28958	2460	166442	DIA_VLK_3109_RENZ_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Здравствуй, кузнец!	Çäđŕâńňâóé, ęóçíĺö!
+28959	-1	41835	DIA_VLK_3109_RENZ_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_hallo_14_00"")"	SUBTITLE	Здравствуй, кузнец!	Çäđŕâńňâóé, ęóçíĺö!
+28960	-1	41835	DIA_VLK_3109_RENZ_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_hallo_14_01"")"	SUBTITLE	Привет! Подожди, горло промочу немного.	Cześć! Ďîäîćäč, ăîđëî ďđîěî÷ó íĺěíîăî.
+28961	-1	41835	DIA_VLK_3109_RENZ_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_hallo_14_02"")"	SUBTITLE	Итак, я Ренц – кузнец. А ты что здесь делаешь?	Čňŕę, ˙ Đĺíö – ęóçíĺö. Ŕ ňű ÷ňî çäĺńü äĺëŕĺřü?
+28962	-1	41835	DIA_VLK_3109_RENZ_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_hallo_14_03"")"	SUBTITLE	Следую за своей тяжелой судьбой…	Ńëĺäóţ çŕ ńâîĺé ň˙ćĺëîé ńóäüáîé…
+28963	-1	41835	DIA_VLK_3109_RENZ_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_hallo_14_04"")"	SUBTITLE	О, сам бы я до этого не додумался.	Î, ńŕě áű ˙ äî ýňîăî íĺ äîäóěŕëń˙.
+28964	2460	166448	DIA_VLK_3109_RENZ_JOINT	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Хочешь покурить?	Őî÷ĺřü ďîęóđčňü?
+28965	-1	41838	DIA_VLK_3109_RENZ_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_joint_14_00"")"	SUBTITLE	Хочешь покурить?	Őî÷ĺřü ďîęóđčňü?
+28966	-1	41838	DIA_VLK_3109_RENZ_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_joint_14_01"")"	SUBTITLE	Сколько?	Ile?
+28967	-1	41838	DIA_VLK_3109_RENZ_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_joint_14_02"")"	SUBTITLE	Косяк за три золотых.	Ęîń˙ę çŕ ňđč çîëîňűő.
+28968	-1	41838	DIA_VLK_3109_RENZ_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_joint_14_03"")"	SUBTITLE	Да, конечно. Вот деньги.	Tak, chętnie. Oto pieniądze.
+28969	2460	166453	DIA_VLK_3109_RENZ_JOINT_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ренц купил у меня косяк.	Đĺíö ęóďčë ó ěĺí˙ ęîń˙ę.
+28970	2460	166454	DIA_VLK_3109_RENZ_HONIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Хочешь меда?	Őî÷ĺřü ěĺäŕ?
+28971	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_honig_14_00"")"	SUBTITLE	Хочешь меда?	Őî÷ĺřü ěĺäŕ?
+28972	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_honig_14_01"")"	SUBTITLE	Совершенно бесплатно!	Ńîâĺđřĺííî áĺńďëŕňíî!
+28973	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_honig_14_02"")"	SUBTITLE	Ооо, конечно, давай все что есть.	Îîî, ęîíĺ÷íî, äŕâŕé âńĺ ÷ňî ĺńňü.
+28974	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_honig_14_03"")"	SUBTITLE	Ты наверное знаешь, что мед является хорошей смазкой для мечей.	Ňű íŕâĺđíîĺ çíŕĺřü, ÷ňî ěĺä ˙âë˙ĺňń˙ őîđîřĺé ńěŕçęîé äë˙ ěĺ÷ĺé.
+28975	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_honig_14_04"")"	SUBTITLE	После того как выкованный меч остывает, его обычно протирают медом.	Ďîńëĺ ňîăî ęŕę âűęîâŕííűé ěĺ÷ îńňűâŕĺň, ĺăî îáű÷íî ďđîňčđŕţň ěĺäîě.
+28976	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_honig_14_05"")"	SUBTITLE	Ну тут его маловато, думаю не хватит.	Íó ňóň ĺăî ěŕëîâŕňî, äóěŕţ íĺ őâŕňčň.
+28977	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_honig_14_06"")"	SUBTITLE	А где ты его взял?	Ŕ ăäĺ ňű ĺăî âç˙ë?
+28978	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_honig_14_07"")"	SUBTITLE	Гисперт дал его мне. Он вон там на обочине.	Ăčńďĺđň äŕë ĺăî ěíĺ. Îí âîí ňŕě íŕ îáî÷číĺ.
+28979	-1	41842	DIA_VLK_3109_RENZ_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_honig_14_08"")"	SUBTITLE	Возьми что есть, мне он не нужен, а так только лишний груз таскать.	Âîçüěč ÷ňî ĺńňü, ěíĺ îí íĺ íóćĺí, ŕ ňŕę ňîëüęî ëčříčé ăđóç ňŕńęŕňü.
+28980	2460	166464	DIA_VLK_3109_RENZ_HONIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Отлично, Ренц купил у меня весь мед. Теперь я могу пойти к Гисперту и сказать ему, что Ренц разжевал у меня мед. что я разбрасываю мед по деревне.	Îňëč÷íî, Đĺíö ęóďčë ó ěĺí˙ âĺńü ěĺä. Ňĺďĺđü ˙ ěîăó ďîéňč ę Ăčńďĺđňó č ńęŕçŕňü ĺěó, ÷ňî Đĺíö đŕçćĺâŕë ó ěĺí˙ ěĺä. ÷ňî ˙ đŕçáđŕńűâŕţ ěĺä ďî äĺđĺâíĺ.
+28981	2460	166465	DIA_VLK_3109_RENZ_HELFEN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Могу ли я как-нибудь помочь тебе?	Ěîăó ëč ˙ ęŕę-íčáóäü ďîěî÷ü ňĺáĺ?
+28982	-1	41845	DIA_VLK_3109_RENZ_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_helfen_14_00"")"	SUBTITLE	Могу ли я как-нибудь помочь тебе?	Ěîăó ëč ˙ ęŕę-íčáóäü ďîěî÷ü ňĺáĺ?
+28983	-1	41845	DIA_VLK_3109_RENZ_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_helfen_14_01"")"	SUBTITLE	Ну даже не знаю, ты же страж?	Íó äŕćĺ íĺ çíŕţ, ňű ćĺ ńňđŕć?
+28984	-1	41845	DIA_VLK_3109_RENZ_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_helfen_14_02"")"	SUBTITLE	Нет, это не так!	Íĺň, ýňî íĺ ňŕę!
+28985	-1	41845	DIA_VLK_3109_RENZ_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_helfen_14_03"")"	SUBTITLE	Хорошо, сделаю как ты просишь.	Őîđîřî, ńäĺëŕţ ęŕę ňű ďđîńčřü.
+28986	-1	41845	DIA_VLK_3109_RENZ_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_helfen_14_04"")"	SUBTITLE	Я должен был выковать 5 мечей, староста хочет, чтобы наши жители были хорошо вооружены на всякий случай.	ß äîëćĺí áűë âűęîâŕňü 5 ěĺ÷ĺé, ńňŕđîńňŕ őî÷ĺň, ÷ňîáű íŕřč ćčňĺëč áűëč őîđîřî âîîđóćĺíű íŕ âń˙ęčé ńëó÷ŕé.
+28987	-1	41845	DIA_VLK_3109_RENZ_HELFEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_helfen_14_05"")"	SUBTITLE	Если не сложно, передай их пожалуйста за меня.	Ĺńëč íĺ ńëîćíî, ďĺđĺäŕé čő ďîćŕëóéńňŕ çŕ ěĺí˙.
+28988	-1	41845	DIA_VLK_3109_RENZ_HELFEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_helfen_14_03"")"	SUBTITLE	Хорошо, сделаю как ты просишь.	Őîđîřî, ńäĺëŕţ ęŕę ňű ďđîńčřü.
+28989	2460	166473	DIA_VLK_3109_RENZ_HELFEN_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я должен отнести связку оружия Ренца старосте деревни, вернее, охраннику.	ß äîëćĺí îňíĺńňč ńâ˙çęó îđóćč˙ Đĺíöŕ ńňŕđîńňĺ äĺđĺâíč, âĺđíĺĺ, îőđŕííčęó.
+28990	2460	166474	DIA_VLK_3109_RENZ_GRAB	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Кто лежит в могиле?	Ęňî ëĺćčň â ěîăčëĺ?
+28991	-1	41848	DIA_VLK_3109_RENZ_GRAB_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_grab_14_00"")"	SUBTITLE	Кто лежит в могиле?	Ęňî ëĺćčň â ěîăčëĺ?
+28992	-1	41848	DIA_VLK_3109_RENZ_GRAB_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_grab_14_01"")"	SUBTITLE	Моя бывшая жена. Каждый день я молюсь за нее около четырех часов.	Ěî˙ áűâřŕ˙ ćĺíŕ. Ęŕćäűé äĺíü ˙ ěîëţńü çŕ íĺĺ îęîëî ÷ĺňűđĺő ÷ŕńîâ.
+28993	-1	41848	DIA_VLK_3109_RENZ_GRAB_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_grab_14_02"")"	SUBTITLE	Извини, тогда я оставлю тебя в покое.	Čçâčíč, ňîăäŕ ˙ îńňŕâëţ ňĺá˙ â ďîęîĺ.
+28994	2460	166478	DIA_VLK_3109_RENZ_STAERKE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Можешь увеличить мою силу?	Ěîćĺřü óâĺëč÷čňü ěîţ ńčëó?
+28995	-1	41852	DIA_VLK_3109_RENZ_STAERKE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_staerke_14_00"")"	SUBTITLE	Можешь увеличить мою силу?	Ěîćĺřü óâĺëč÷čňü ěîţ ńčëó?
+28996	-1	41852	DIA_VLK_3109_RENZ_STAERKE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_staerke_14_01"")"	SUBTITLE	Да, ты помог мне, поэтому я буду учить тебя.	Äŕ, ňű ďîěîă ěíĺ, ďîýňîěó ˙ áóäó ó÷čňü ňĺá˙.
+28997	-1	41852	DIA_VLK_3109_RENZ_STAERKE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_staerke_14_02"")"	SUBTITLE	Нет, ты должен выполнить для меня задание!	Íĺň, ňű äîëćĺí âűďîëíčňü äë˙ ěĺí˙ çŕäŕíčĺ!
+28998	2460	166482	DIA_VLK_3109_RENZ_TRAINIEREN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Тренируй меня!	Ňđĺíčđóé ěĺí˙!
+28999	-1	41855	DIA_VLK_3109_RENZ_TRAINIEREN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_trainieren_14_00"")"	SUBTITLE	Тренируй меня!	Ňđĺíčđóé ěĺí˙!
+29000	2460	166484	DIA_VLK_3109_RENZ_SAEGE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	У меня есть для тебя задание!	Ó ěĺí˙ ĺńňü äë˙ ňĺá˙ çŕäŕíčĺ!
+29001	-1	41862	DIA_VLK_3109_RENZ_SAEGE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_saege_14_00"")"	SUBTITLE	У меня есть для тебя задание!	Ó ěĺí˙ ĺńňü äë˙ ňĺá˙ çŕäŕíčĺ!
+29002	-1	41862	DIA_VLK_3109_RENZ_SAEGE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_saege_14_01"")"	SUBTITLE	Какое?	Jakie rozwiązanie?
+29003	-1	41862	DIA_VLK_3109_RENZ_SAEGE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_saege_14_02"")"	SUBTITLE	Рэндольф дал мне свою пилу. Надо будет удалить ручку и выпрямить лезвие.	Đýíäîëüô äŕë ěíĺ ńâîţ ďčëó. Íŕäî áóäĺň óäŕëčňü đó÷ęó č âűďđ˙ěčňü ëĺçâčĺ.
+29004	-1	41862	DIA_VLK_3109_RENZ_SAEGE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_saege_14_03"")"	SUBTITLE	Надеюсь это не займет много времени!	Íŕäĺţńü ýňî íĺ çŕéěĺň ěíîăî âđĺěĺíč!
+29005	-1	41862	DIA_VLK_3109_RENZ_SAEGE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_saege_14_04"")"	SUBTITLE	Она будет готова завтра. Тогда и приходи.	Îíŕ áóäĺň ăîňîâŕ çŕâňđŕ. Ňîăäŕ č ďđčőîäč.
+29006	2460	166490	DIA_VLK_3109_RENZ_SAEGE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я передал пилу Ренцу. Он сказал, что закончит ремонт завтра, и я должен забрать пилу тогда.	ß ďĺđĺäŕë ďčëó Đĺíöó. Îí ńęŕçŕë, ÷ňî çŕęîí÷čň đĺěîíň çŕâňđŕ, č ˙ äîëćĺí çŕáđŕňü ďčëó ňîăäŕ.
+29007	-1	41866	DIA_VLK_3109_RENZ_SAEGE_HALBFERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_saege_halbfertig_14_00"")"	SUBTITLE	Так, вот твоя пила, ручку я заменил.	Ňŕę, âîň ňâî˙ ďčëŕ, đó÷ęó ˙ çŕěĺíčë.
+29008	-1	41866	DIA_VLK_3109_RENZ_SAEGE_HALBFERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_saege_halbfertig_14_01"")"	SUBTITLE	А зубицы заточил?	Ŕ çóáčöű çŕňî÷čë?
+29009	-1	41866	DIA_VLK_3109_RENZ_SAEGE_HALBFERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_saege_halbfertig_14_02"")"	SUBTITLE	Вот дерьмо, это все чертов староста с его новыми заказами.	Âîň äĺđüěî, ýňî âńĺ ÷ĺđňîâ ńňŕđîńňŕ ń ĺăî íîâűěč çŕęŕçŕěč.
+29010	-1	41866	DIA_VLK_3109_RENZ_SAEGE_HALBFERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_saege_halbfertig_14_03"")"	SUBTITLE	Я совсем забыл про заточку. Мне жаль, приходи завтра.	ß ńîâńĺě çŕáűë ďđî çŕňî÷ęó. Ěíĺ ćŕëü, ďđčőîäč çŕâňđŕ.
+29011	2460	166495	DIA_VLK_3109_RENZ_SAEGE_HALBFERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	О, отлично, Ренц совсем забыл заточить пилу от напряжения. Теперь мне придется подождать еще один день...	Î, îňëč÷íî, Đĺíö ńîâńĺě çŕáűë çŕňî÷čňü ďčëó îň íŕďđ˙ćĺíč˙. Ňĺďĺđü ěíĺ ďđčäĺňń˙ ďîäîćäŕňü ĺůĺ îäčí äĺíü...
+29012	-1	41869	DIA_VLK_3109_RENZ_SAEGE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_saege_fertig_14_00"")"	SUBTITLE	Вот твоя пила, как новенькая.	Âîň ňâî˙ ďčëŕ, ęŕę íîâĺíüęŕ˙.
+29013	-1	41869	DIA_VLK_3109_RENZ_SAEGE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_saege_fertig_14_01"")"	SUBTITLE	Это будет стоить 30 золотых..	Ýňî áóäĺň ńňîčňü 30 çîëîňűő..
+29014	-1	41869	DIA_VLK_3109_RENZ_SAEGE_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_saege_fertig_14_02"")"	SUBTITLE	И извини что Рэндольфу пришлось столько ждать...	Č čçâčíč ÷ňî Đýíäîëüôó ďđčřëîńü ńňîëüęî ćäŕňü...
+29015	-1	41869	DIA_VLK_3109_RENZ_SAEGE_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_saege_fertig_14_03"")"	SUBTITLE	Да ничего страшного, отличная работа!	Äŕ íč÷ĺăî ńňđŕříîăî, îňëč÷íŕ˙ đŕáîňŕ!
+29016	2460	166500	DIA_VLK_3109_RENZ_SAEGE_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ренц наконец-то отдал мне отремонтированную пилу.	Đĺíö íŕęîíĺö-ňî îňäŕë ěíĺ îňđĺěîíňčđîâŕííóţ ďčëó.
+29017	2460	166501	DIA_VLK_3109_RENZ_HELFEN_FERTIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Твои мечи доставлены!	Ňâîč ěĺ÷č äîńňŕâëĺíű!
+29018	-1	41872	DIA_VLK_3109_RENZ_HELFEN_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_helfen_fertig_14_00"")"	SUBTITLE	Твои мечи доставлены!	Ňâîč ěĺ÷č äîńňŕâëĺíű!
+29019	-1	41872	DIA_VLK_3109_RENZ_HELFEN_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_helfen_fertig_14_01"")"	SUBTITLE	Рад это слышать, возьми в награду этот Рунный Меч.	Đŕä ýňî ńëűřŕňü, âîçüěč â íŕăđŕäó ýňîň Đóííűé Ěĺ÷.
+29020	-1	41872	DIA_VLK_3109_RENZ_HELFEN_FERTIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_helfen_fertig_14_02"")"	SUBTITLE	Ооо, зачем ты даешь мне меч за такое пустяковое задание, да еще и не простой меч?	Îîî, çŕ÷ĺě ňű äŕĺřü ěíĺ ěĺ÷ çŕ ňŕęîĺ ďóńň˙ęîâîĺ çŕäŕíčĺ, äŕ ĺůĺ č íĺ ďđîńňîé ěĺ÷?
+29021	-1	41872	DIA_VLK_3109_RENZ_HELFEN_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_helfen_fertig_14_03"")"	SUBTITLE	Нам понадобится каждый вооруженный человек, а твой меч никуда не годится.	Íŕě ďîíŕäîáčňń˙ ęŕćäűé âîîđóćĺííűé ÷ĺëîâĺę, ŕ ňâîé ěĺ÷ íčęóäŕ íĺ ăîäčňń˙.
+29022	-1	41872	DIA_VLK_3109_RENZ_HELFEN_FERTIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_helfen_fertig_14_04"")"	SUBTITLE	К тому же я не привык оставаться в долгу!	Ę ňîěó ćĺ ˙ íĺ ďđčâűę îńňŕâŕňüń˙ â äîëăó!
+29023	2460	166507	DIA_VLK_3109_RENZ_HELFEN_FERTIG_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ренц подарил мне меч за выполнение его задания.	Đĺíö ďîäŕđčë ěíĺ ěĺ÷ çŕ âűďîëíĺíčĺ ĺăî çŕäŕíč˙.
+29024	2460	166508	DIA_VLK_3109_RENZ_LAGERHUETTE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Если мне понадобится помощь, к кому мне обратиться?	Ĺńëč ěíĺ ďîíŕäîáčňń˙ ďîěîůü, ę ęîěó ěíĺ îáđŕňčňüń˙?
+29025	-1	41875	DIA_VLK_3109_RENZ_LAGERHUETTE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_lagerhuette_14_00"")"	SUBTITLE	Если мне понадобится помощь, к кому мне обратиться?	Ĺńëč ěíĺ ďîíŕäîáčňń˙ ďîěîůü, ę ęîěó ěíĺ îáđŕňčňüń˙?
+29026	-1	41875	DIA_VLK_3109_RENZ_LAGERHUETTE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_lagerhuette_14_01"")"	SUBTITLE	Наверное, лучше к Лисанне. Она жена нашего старосты.	Íŕâĺđíîĺ, ëó÷řĺ ę Ëčńŕííĺ. Îíŕ ćĺíŕ íŕřĺăî ńňŕđîńňű.
+29027	2460	166511	DIA_VLK_3109_RENZ_LAGERHUETTE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Лисанн, жена деревенского старосты Риффа, присматривает за лагерной хижиной.	Ëčńŕíí, ćĺíŕ äĺđĺâĺíńęîăî ńňŕđîńňű Đčôôŕ, ďđčńěŕňđčâŕĺň çŕ ëŕăĺđíîé őčćčíîé.
+29028	2460	166512	DIA_VLK_3109_RENZ_FASKO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я принес тебе кирку!	ß ďđčíĺń ňĺáĺ ęčđęó!
+29029	-1	41879	DIA_VLK_3109_RENZ_FASKO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_fasko_14_00"")"	SUBTITLE	Я принес тебе кирку!	ß ďđčíĺń ňĺáĺ ęčđęó!
+29030	-1	41879	DIA_VLK_3109_RENZ_FASKO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_fasko_14_01"")"	SUBTITLE	Хорошо, но зачем она мне?	Őîđîřî, íî çŕ÷ĺě îíŕ ěíĺ?
+29031	-1	41879	DIA_VLK_3109_RENZ_FASKO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_fasko_14_02"")"	SUBTITLE	У одного из рабов затупилось кайло, его надо починить или заточить.	Ó îäíîăî čç đŕáîâ çŕňóďčëîńü ęŕéëî, ĺăî íŕäî ďî÷číčňü čëč çŕňî÷čňü.
+29032	-1	41879	DIA_VLK_3109_RENZ_FASKO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_fasko_14_03"")"	SUBTITLE	Хм, такое не чинится, можешь купить новое кайло, но с тебя 10 золотых.	Őě, ňŕęîĺ íĺ ÷číčňń˙, ěîćĺřü ęóďčňü íîâîĺ ęŕéëî, íî ń ňĺá˙ 10 çîëîňűő.
+29033	-1	41879	DIA_VLK_3109_RENZ_FASKO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_fasko_14_04"")"	SUBTITLE	Вот деньги.	Oto pieniądze.
+29034	-1	41879	DIA_VLK_3109_RENZ_FASKO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3109_Renz_fasko_14_05"")"	SUBTITLE	Спасибо, вот новая кирка!	Ńďŕńčáî, âîň íîâŕ˙ ęčđęŕ!
+29035	2460	166519	DIA_VLK_3109_RENZ_FASKO_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Ренц дал мне кирку для Фаско.	Đĺíö äŕë ěíĺ ęčđęó äë˙ Ôŕńęî.
+29036	-1	41879	DIA_VLK_3109_RENZ_FASKO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3109_Renz_fasko_14_06"")"	SUBTITLE	Ох, у меня нет столько денег, подожди, я зайду позже.	Îő, ó ěĺí˙ íĺň ńňîëüęî äĺíĺă, ďîäîćäč, ˙ çŕéäó ďîçćĺ.
+29037	2460	166521	DIA_VLK_3109_RENZ_FASKO_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	У меня пока недостаточно золота, чтобы купить кирку для Фаско.	Ó ěĺí˙ ďîęŕ íĺäîńňŕňî÷íî çîëîňŕ, ÷ňîáű ęóďčňü ęčđęó äë˙ Ôŕńęî.
+29038	2460	166522	DIA_VLK_3123_RANDOLPH_HALLO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Что представляет собой эта работа?	×ňî ďđĺäńňŕâë˙ĺň ńîáîé ýňŕ đŕáîňŕ?
+29039	-1	41885	DIA_VLK_3123_RANDOLPH_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3123_Randolph_hallo_14_00"")"	SUBTITLE	Что представляет собой эта работа?	×ňî ďđĺäńňŕâë˙ĺň ńîáîé ýňŕ đŕáîňŕ?
+29040	-1	41885	DIA_VLK_3123_RANDOLPH_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_hallo_14_01"")"	SUBTITLE	Она работает. Каждый день я рублю дрова, и все равно никогда не успеваю закончить	Îíŕ đŕáîňŕĺň. Ęŕćäűé äĺíü ˙ đóáëţ äđîâŕ, č âńĺ đŕâíî íčęîăäŕ íĺ óńďĺâŕţ çŕęîí÷čňü
+29041	-1	41885	DIA_VLK_3123_RANDOLPH_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_hallo_14_02"")"	SUBTITLE	Ну, почему тебя вообще интересует работа? Тебя наверняка интересуют только женщины и пиво.	Íó, ďî÷ĺěó ňĺá˙ âîîáůĺ číňĺđĺńóĺň đŕáîňŕ? Ňĺá˙ íŕâĺđí˙ęŕ číňĺđĺńóţň ňîëüęî ćĺíůčíű č ďčâî.
+29042	-1	41885	DIA_VLK_3123_RANDOLPH_HALLO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3123_Randolph_hallo_14_03"")"	SUBTITLE	Ты меня знаешь?	Ňű ěĺí˙ çíŕĺřü?
+29043	-1	41885	DIA_VLK_3123_RANDOLPH_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_hallo_14_04"")"	SUBTITLE	Нет, но у таких молодых парней часто нет ничего лучшего в голове.	Íĺň, íî ó ňŕęčő ěîëîäűő ďŕđíĺé ÷ŕńňî íĺň íč÷ĺăî ëó÷řĺăî â ăîëîâĺ.
+29044	-1	41885	DIA_VLK_3123_RANDOLPH_HALLO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_hallo_14_05"")"	SUBTITLE	В любом случае, я Рэндольф.	Â ëţáîě ńëó÷ŕĺ, ˙ Đýíäîëüô.
+29045	2460	166529	DIA_VLK_3123_RANDOLPH_JOINT	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Косяк?	Ęîń˙ę?
+29046	-1	41888	DIA_VLK_3123_RANDOLPH_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3123_Randolph_joint_14_00"")"	SUBTITLE	Косяк?	Ęîń˙ę?
+29047	-1	41888	DIA_VLK_3123_RANDOLPH_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_joint_14_01"")"	SUBTITLE	Kосяк может быть очень полезен...	Kîń˙ę ěîćĺň áűňü î÷ĺíü ďîëĺçĺí...
+29048	-1	41888	DIA_VLK_3123_RANDOLPH_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_joint_14_02"")"	SUBTITLE	Сколько стоит?	Ńęîëüęî ńňîčň?
+29049	-1	41888	DIA_VLK_3123_RANDOLPH_JOINT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3123_Randolph_joint_14_03"")"	SUBTITLE	Один косяк за три золотых монеты!	Îäčí ęîń˙ę çŕ ňđč çîëîňűő ěîíĺňű!
+29050	-1	41888	DIA_VLK_3123_RANDOLPH_JOINT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_joint_14_04"")"	SUBTITLE	Да, это подойдет. Дай один!	Äŕ, ýňî ďîäîéäĺň. Äŕé îäčí!
+29051	2460	166535	DIA_VLK_3123_RANDOLPH_JOINT_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я смог продать Рэндольфу косяк.	ß ńěîă ďđîäŕňü Đýíäîëüôó ęîń˙ę.
+29052	2460	166536	DIA_VLK_3123_RANDOLPH_HONIG	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Хочешь немного меда?	Őî÷ĺřü íĺěíîăî ěĺäŕ?
+29053	-1	41891	DIA_VLK_3123_RANDOLPH_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3123_Randolph_honig_14_00"")"	SUBTITLE	Хочешь немного меда?	Őî÷ĺřü íĺěíîăî ěĺäŕ?
+29054	-1	41891	DIA_VLK_3123_RANDOLPH_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_honig_14_01"")"	SUBTITLE	Ну, Бок сказал слишком много. В конце концов, мед - это не наркотик.	Íó, Áîę ńęŕçŕë ńëčřęîě ěíîăî. Â ęîíöĺ ęîíöîâ, ěĺä - ýňî íĺ íŕđęîňčę.
+29055	-1	41891	DIA_VLK_3123_RANDOLPH_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_honig_14_02"")"	SUBTITLE	Но все же я не против выпить стакан меда.	Íî âńĺ ćĺ ˙ íĺ ďđîňčâ âűďčňü ńňŕęŕí ěĺäŕ.
+29056	-1	41891	DIA_VLK_3123_RANDOLPH_HONIG_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_VLK_3123_Randolph_honig_14_03"")"	SUBTITLE	Ладно, вот он, он даже бесплатно. .	Ëŕäíî, âîň îí, îí äŕćĺ áĺńďëŕňíî. .
+29057	-1	41891	DIA_VLK_3123_RANDOLPH_HONIG_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_VLK_3123_Randolph_honig_14_04"")"	SUBTITLE	Да, можно. Дай сюда!	Äŕ, ěîćíî. Äŕé ńţäŕ!

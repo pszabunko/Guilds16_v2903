@@ -1,0 +1,1001 @@
+NR	FILENR	ID	SYMBOL	USE	TRACE	RU	PL
+64445	-1	57696	DIA_WAPPEN_GERLACH_BOT_NEIN	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Bot_01_05"")"	SUBTITLE	За свою верность ты можешь приобрести хорошие доспехи.	Çŕ ńâîţ âĺđíîńňü ňű ěîćĺřü ďđčîáđĺńňč őîđîřčĺ äîńďĺőč.
+64454	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Diener_01_01"")"	SUBTITLE	Галлус взялся тебя обучать магии?	Ăŕëëóń âç˙ëń˙ ňĺá˙ îáó÷ŕňü ěŕăčč?
+64455	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_WAPPEN_Gerlach_Diener_15_01"")"	SUBTITLE	Да.	Tak.
+64456	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Diener_01_02"")"	SUBTITLE	Отлично! Нам нужны всесторонне развитые стражники!	Doskonale! Íŕě íóćíű âńĺńňîđîííĺ đŕçâčňűĺ ńňđŕćíčęč!
+64457	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Diener_01_03"")"	SUBTITLE	Это отличное дополнение для армии! За короля!	Ýňî îňëč÷íîĺ äîďîëíĺíčĺ äë˙ ŕđěčč! Niech żyje Król!
+64458	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Diener_01_04"")"	SUBTITLE	Хм. Надеюсь, нам это не выйдет боком.	Hmm. Íŕäĺţńü, íŕě ýňî íĺ âűéäĺň áîęîě.
+64459	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Diener_01_05"")"	SUBTITLE	Я надеюсь, ты уделишь хоть часть своей силы нашей страже, о, достопочтенный маг.	ß íŕäĺţńü, ňű óäĺëčřü őîňü ÷ŕńňü ńâîĺé ńčëű íŕřĺé ńňđŕćĺ, î, äîńňîďî÷ňĺííűé ěŕă.
+64460	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Diener_01_06"")"	SUBTITLE	Твой дух и поддержка укрепит любого из нас.	Ňâîé äóő č ďîääĺđćęŕ óęđĺďčň ëţáîăî čç íŕń.
+64461	-1	57705	DIA_WAPPEN_GERLACH_DIENER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_WAPPEN_Gerlach_Diener_01_07"")"	SUBTITLE	В любом случае твой выбор был мудрым.	Hmm... Jak zawsze, twój wybór był z pewnością słuszny.
+64810	2836	205424	DIA_EX_MIKE_ABOUTERZTAL	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Куда именно ушел ваш командир?	Ęóäŕ čěĺííî óřĺë âŕř ęîěŕíäčđ?
+64811	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Mike_AboutERZTAL_15_00"")"	SUBTITLE	Куда именно ушел ваш командир?	Ęóäŕ čěĺííî óřĺë âŕř ęîěŕíäčđ?
+64812	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_01"")"	SUBTITLE	В соседнюю долину. Туда отправились рабочие для добычи руды.	Â ńîńĺäíţţ äîëčíó. Ňóäŕ îňďđŕâčëčńü đŕáî÷čĺ äë˙ äîáű÷č đóäű.
+64813	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Mike_AboutERZTAL_15_01"")"	SUBTITLE	Странно, что командир гарнизона занялся охраной добычи руды.	Ńňđŕííî, ÷ňî ęîěŕíäčđ ăŕđíčçîíŕ çŕí˙ëń˙ îőđŕíîé äîáű÷č đóäű.
+64814	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_02"")"	SUBTITLE	Ничего странного нет. Горняки докопались до входа в древние сооружения, поэтому туда отправились маги.	Íč÷ĺăî ńňđŕííîăî íĺň. Ăîđí˙ęč äîęîďŕëčńü äî âőîäŕ â äđĺâíčĺ ńîîđóćĺíč˙, ďîýňîěó ňóäŕ îňďđŕâčëčńü ěŕăč.
+64815	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_03"")"	SUBTITLE	Наш командир, Марик, присматривает за ситуацией в целом.	Íŕř ęîěŕíäčđ, Ěŕđčę, ďđčńěŕňđčâŕĺň çŕ ńčňóŕöčĺé â öĺëîě.
+64816	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Mike_AboutERZTAL_15_02"")"	SUBTITLE	Мне любопытно, где именно все это происходит. Как туда добраться?	Ěíĺ ëţáîďűňíî, ăäĺ čěĺííî âńĺ ýňî ďđîčńőîäčň. Jak się tam dostać?
+64817	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_04"")"	SUBTITLE	Выйди из крепости, обойди ее по правой стороне, пока не упрешься в стену. Дорога налево до упора приведет тебя к проходу.	Âűéäč čç ęđĺďîńňč, îáîéäč ĺĺ ďî ďđŕâîé ńňîđîíĺ, ďîęŕ íĺ óďđĺřüń˙ â ńňĺíó. Äîđîăŕ íŕëĺâî äî óďîđŕ ďđčâĺäĺň ňĺá˙ ę ďđîőîäó.
+64818	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_05"")"	SUBTITLE	Только по подземным коридорам ты долго будешь плутать без карты.	Ňîëüęî ďî ďîäçĺěíűě ęîđčäîđŕě ňű äîëăî áóäĺřü ďëóňŕňü áĺç ęŕđňű.
+64819	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Mike_AboutERZTAL_15_03"")"	SUBTITLE	И как быть?	I co zrobisz?!
+64820	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_06"")"	SUBTITLE	Я дам тебе схему проходов. Так точно не заблудишься. На месте спроси у Марика, нужна ли помощь с доставкой руды или припасами для экспедиции.	ß äŕě ňĺáĺ ńőĺěó ďđîőîäîâ. Ňŕę ňî÷íî íĺ çŕáëóäčřüń˙. Íŕ ěĺńňĺ ńďđîńč ó Ěŕđčęŕ, íóćíŕ ëč ďîěîůü ń äîńňŕâęîé đóäű čëč ďđčďŕńŕěč äë˙ ýęńďĺäčöčč.
+64821	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Mike_AboutERZTAL_15_04"")"	SUBTITLE	Почему ты мне доверяешь?	Ďî÷ĺěó ňű ěíĺ äîâĺđ˙ĺřü?
+64822	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_07"")"	SUBTITLE	К нам недавно пришло письмо из Хориниса с требованием отчета для лорда Хагена по поводу добычи из всех шахт.	Ę íŕě íĺäŕâíî ďđčřëî ďčńüěî čç Őîđčíčńŕ ń ňđĺáîâŕíčĺě îň÷ĺňŕ äë˙ ëîđäŕ Őŕăĺíŕ ďî ďîâîäó äîáű÷č čç âńĺő řŕőň.
+64823	-1	57856	DIA_EX_MIKE_ABOUTERZTAL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Mike_AboutERZTAL_12_08"")"	SUBTITLE	Ты - тот, кто может выполнить это задание не ослабляя замковый гарнизон.	Ňű - ňîň, ęňî ěîćĺň âűďîëíčňü ýňî çŕäŕíčĺ íĺ îńëŕáë˙˙ çŕěęîâűé ăŕđíčçîí.
+64824	2836	205438	DIA_EX_MIKE_ABOUTERZTAL_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Майк рассказал, что его командир Марик отправился в соседнюю долину присматривать за добычей руды в шахте и экспедицией магов. Я должен выйти из крепости, обойти ее по правой стороне, пока не упрусь в стену. Дорога налево до упора приведет меня к проходу, позволяющему перейти в долину. Я должен поговорить с Мариком, чтобы составить отчет о добыче в Хоринис для лорда Хагена.	Ěŕéę đŕńńęŕçŕë, ÷ňî ĺăî ęîěŕíäčđ Ěŕđčę îňďđŕâčëń˙ â ńîńĺäíţţ äîëčíó ďđčńěŕňđčâŕňü çŕ äîáű÷ĺé đóäű â řŕőňĺ č ýęńďĺäčöčĺé ěŕăîâ. ß äîëćĺí âűéňč čç ęđĺďîńňč, îáîéňč ĺĺ ďî ďđŕâîé ńňîđîíĺ, ďîęŕ íĺ óďđóńü â ńňĺíó. Äîđîăŕ íŕëĺâî äî óďîđŕ ďđčâĺäĺň ěĺí˙ ę ďđîőîäó, ďîçâîë˙ţůĺěó ďĺđĺéňč â äîëčíó. ß äîëćĺí ďîăîâîđčňü ń Ěŕđčęîě, ÷ňîáű ńîńňŕâčňü îň÷ĺň î äîáű÷ĺ â Őîđčíčń äë˙ ëîđäŕ Őŕăĺíŕ.
+65133	-1	58006	DIA_EX_RHODOS_HI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_08_00"")"	SUBTITLE	О, новенький в городе. Я никогда не видел тебя здесь.	Î, íîâĺíüęčé â ăîđîäĺ. ß íčęîăäŕ íĺ âčäĺë ňĺá˙ çäĺńü.
+65134	2839	205791	DIA_EX_RHODOS_HI_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Хорошо подметил.	Őîđîřî ďîäěĺňčë.
+65135	2839	205792	DIA_EX_RHODOS_HI_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Что ты здесь охраняешь?	×ňî ňű çäĺńü îőđŕí˙ĺřü?
+65136	-1	58007	DIA_EX_RHODOS_HI_GOOD	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_Hi_good_15_00"")"	SUBTITLE	Хорошо подметил.	Őîđîřî ďîäěĺňčë.
+65137	-1	58007	DIA_EX_RHODOS_HI_GOOD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_good_08_01"")"	SUBTITLE	Да ладно.	Nie ma sprawy.
+65138	-1	58008	DIA_EX_RHODOS_HI_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_Hi_what_15_00"")"	SUBTITLE	Что ты здесь охраняешь?	×ňî ňű çäĺńü îőđŕí˙ĺřü?
+65139	-1	58008	DIA_EX_RHODOS_HI_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_what_08_01"")"	SUBTITLE	Не что, а кого.	Íĺ ÷ňî, ŕ ęîăî.
+65140	-1	58008	DIA_EX_RHODOS_HI_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_what_08_02"")"	SUBTITLE	Я правая рука Соломона.	ß ďđŕâŕ˙ đóęŕ Ńîëîěîíŕ.
+65141	-1	58008	DIA_EX_RHODOS_HI_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_what_08_03"")"	SUBTITLE	Соломон наш босс.	Ńîëîěîí íŕř áîńń.
+65142	-1	58008	DIA_EX_RHODOS_HI_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_what_08_04"")"	SUBTITLE	Он правит всем пригородом.	Îí ďđŕâčň âńĺě ďđčăîđîäîě.
+65143	2839	205800	DIA_EX_RHODOS_HI_WHAT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Хочешь остановить меня?	Őî÷ĺřü îńňŕíîâčňü ěĺí˙?
+65144	2839	205801	DIA_EX_RHODOS_HI_WHAT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	А какие обязанности у тебя?	Ŕ ęŕęčĺ îá˙çŕííîńňč ó ňĺá˙?
+65145	-1	58009	DIA_EX_RHODOS_HI_AUFHALTEN	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_Hi_aufhalten_15_00"")"	SUBTITLE	Хочешь остановить меня?	Őî÷ĺřü îńňŕíîâčňü ěĺí˙?
+65146	-1	58009	DIA_EX_RHODOS_HI_AUFHALTEN	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_aufhalten_08_01"")"	SUBTITLE	Нет.	Nie.
+65147	-1	58010	DIA_EX_RHODOS_HI_RIGHTHAND	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_Hi_righthand_15_00"")"	SUBTITLE	А какие обязанности у тебя?	Ŕ ęŕęčĺ îá˙çŕííîńňč ó ňĺá˙?
+65148	-1	58010	DIA_EX_RHODOS_HI_RIGHTHAND	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_righthand_08_01"")"	SUBTITLE	Я убеждаюсь, что приказы Соломона доходят до общественности и наших людей.	ß óáĺćäŕţńü, ÷ňî ďđčęŕçű Ńîëîěîíŕ äîőîä˙ň äî îáůĺńňâĺííîńňč č íŕřčő ëţäĺé.
+65149	-1	58010	DIA_EX_RHODOS_HI_RIGHTHAND	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Hi_righthand_08_02"")"	SUBTITLE	Я также даю советы Соломону и снабжаю команду оружием, доспехами и спиртными напитками.	ß ňŕęćĺ äŕţ ńîâĺňű Ńîëîěîíó č ńíŕáćŕţ ęîěŕíäó îđóćčĺě, äîńďĺőŕěč č ńďčđňíűěč íŕďčňęŕěč.
+65150	2839	205807	DIA_EX_RHODOS_PRETRADE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Ты можешь что-нибудь продать?	Masz może coś do sprzedania?
+65151	-1	58013	DIA_EX_RHODOS_PRETRADE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_pretrade_15_00"")"	SUBTITLE	Ты можешь что-нибудь продать?	Masz coś do sprzedania?
+65152	-1	58013	DIA_EX_RHODOS_PRETRADE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_pretrade_08_01"")"	SUBTITLE	Конечно, я продаю всем, кто платит.	Ęîíĺ÷íî, ˙ ďđîäŕţ âńĺě, ęňî ďëŕňčň.
+65153	2839	205810	DIA_EX_RHODOS_PRETRADE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я получаю мечи, доспехи и ликер с Родоса.	ß ďîëó÷ŕţ ěĺ÷č, äîńďĺőč č ëčęĺđ ń Đîäîńŕ.
+65154	2839	205811	DIA_EX_RHODOS_ARMORS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	А доспехи продаешь?	Ŕ äîńďĺőč ďđîäŕĺřü?
+65155	-1	58016	DIA_EX_RHODOS_ARMORS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_armors_15_00"")"	SUBTITLE	А доспехи продаешь?	Ŕ äîńďĺőč ďđîäŕĺřü?
+65156	-1	58016	DIA_EX_RHODOS_ARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_armors_08_01"")"	SUBTITLE	Хм... А у тебя деньги найдутся?	Hmm... Ŕ ó ňĺá˙ äĺíüăč íŕéäóňń˙?
+65157	-1	58016	DIA_EX_RHODOS_ARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_armors_08_02"")"	SUBTITLE	У меня есть легкая броня, но как и говорил, она дорогая.	Ó ěĺí˙ ĺńňü ëĺăęŕ˙ áđîí˙, íî ęŕę č ăîâîđčë, îíŕ äîđîăŕ˙.
+65158	2839	205815	DIA_EX_RHODOS_BUYARMORS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Дай мне доспехи.	Daj mi tę zbroję.
+65159	-1	58019	DIA_EX_RHODOS_BUYARMORS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_buyarmors_15_00"")"	SUBTITLE	Дай мне доспехи.	Daj mi jakąś zbroję.
+65160	-1	58019	DIA_EX_RHODOS_BUYARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_08_01"")"	SUBTITLE	Чего тебе?	Czego chcesz?
+65161	-1	58019	DIA_EX_RHODOS_BUYARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_08_02"")"	SUBTITLE	Если у тебя уже есть доспехи и ты хочешь их продать, я могу обменять новую броню немного дешевле.	Ĺńëč ó ňĺá˙ óćĺ ĺńňü äîńďĺőč č ňű őî÷ĺřü čő ďđîäŕňü, ˙ ěîăó îáěĺí˙ňü íîâóţ áđîíţ íĺěíîăî äĺřĺâëĺ.
+65162	-1	58019	DIA_EX_RHODOS_BUYARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_08_03"")"	SUBTITLE	Этот кожаный доспех стоит 200 золотых.	Ýňîň ęîćŕíűé äîńďĺő ńňîčň 200 çîëîňűő.
+65163	-1	58019	DIA_EX_RHODOS_BUYARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_08_04"")"	SUBTITLE	Ничего не могу сделать с тряпками, которые сейчас на тебе, но может у тебя есть другие.	Íč÷ĺăî íĺ ěîăó ńäĺëŕňü ń ňđ˙ďęŕěč, ęîňîđűĺ ńĺé÷ŕń íŕ ňĺáĺ, íî ěîćĺň ó ňĺá˙ ĺńňü äđóăčĺ.
+65164	-1	58019	DIA_EX_RHODOS_BUYARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_08_05"")"	SUBTITLE	О чем я говорю. Сначала реши, какую броню ты хотешь иметь.	Î ÷ĺě ˙ ăîâîđţ. Ńíŕ÷ŕëŕ đĺřč, ęŕęóţ áđîíţ ňű őîňĺřü čěĺňü.
+65165	-1	58019	DIA_EX_RHODOS_BUYARMORS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_08_06"")"	SUBTITLE	У меня красивая кожаная броня, высококачественная меховая броня и даже кольчуга.	Ó ěĺí˙ ęđŕńčâŕ˙ ęîćŕíŕ˙ áđîí˙, âűńîęîęŕ÷ĺńňâĺííŕ˙ ěĺőîâŕ˙ áđîí˙ č äŕćĺ ęîëü÷óăŕ.
+65166	2839	205823	DIA_EX_RHODOS_BUYARMORS_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Дай мне охотничий доспех.	Äŕé ěíĺ îőîňíč÷čé äîńďĺő.
+65167	2839	205824	DIA_EX_RHODOS_BUYARMORS_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Усиленный охотничий доспех - именно то, что я ищу.	Wzmocniony pancerz myśliwski - Wzmocniony pancerz myśliwski
+65168	2839	205825	DIA_EX_RHODOS_BUYARMORS_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я беру одежду охотника.	ß áĺđó îäĺćäó îőîňíčęŕ.
+65169	-1	58021	B_RHODOS_ARMOR_RABBATT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_Rabbatt_08_00"")"	SUBTITLE	Я хочу сохранить мои нынешние доспехи.	ß őî÷ó ńîőđŕíčňü ěîč íűíĺříčĺ äîńďĺőč.
+65170	-1	58021	B_RHODOS_ARMOR_RABBATT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_Rabbatt_08_01"")"	SUBTITLE	Оставляешь мне свой меховой доспех, и получаешь кольчугу на 200 золотых дешевле. Ну, что скажешь?	Îńňŕâë˙ĺřü ěíĺ ńâîé ěĺőîâîé äîńďĺő, č ďîëó÷ŕĺřü ęîëü÷óăó íŕ 200 çîëîňűő äĺřĺâëĺ. No i co ty na to?
+65171	-1	58021	B_RHODOS_ARMOR_RABBATT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_Rabbatt_08_02"")"	SUBTITLE	Что же, если ты дашь мне свою старую кожаную броню, то я скину 100 золотых. Ну, что решил?	×ňî ćĺ, ĺńëč ňű äŕřü ěíĺ ńâîţ ńňŕđóţ ęîćŕíóţ áđîíţ, ňî ˙ ńęčíó 100 çîëîňűő. Tak więc, co zdecydowałeś?
+65172	-1	58021	B_RHODOS_ARMOR_RABBATT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_Rabbatt_08_03"")"	SUBTITLE	Ладно, но это не дешево.	Ëŕäíî, íî ýňî íĺ äĺřĺâî.
+65173	2839	205830	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Купить охотничий доспех 30-20-40 (250 золотых))	(Ęóďčňü îőîňíč÷čé äîńďĺő 30-20-40 (250 çîëîňűő))
+65174	2839	205831	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Купить усиленный охотничий доспех 50-30-50-10-10 (500 золотых)	(Ęóďčňü óńčëĺííűé îőîňíč÷čé äîńďĺő 50-30-50-10-10 (500 sztuk złota)
+65175	2839	205832	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я беру доспехи, вот старые. (500 золотых)	ß áĺđó äîńďĺőč, âîň ńňŕđűĺ. (500 sztuk złota)
+65176	2839	205833	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я принимаю твое предложение! (400 золотых)	ß ďđčíčěŕţ ňâîĺ ďđĺäëîćĺíčĺ! (400 çîëîňűő)
+65177	2839	205834	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Купить одежду охотника 30-30-30-10-10 (750 золотых)	(Ęóďčňü îäĺćäó îőîňíčęŕ 30-30-30-10-10 (750 çîëîňűő)
+65178	2839	205835	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я беру доспехи, вот мой старый. (750 золотых)	ß áĺđó äîńďĺőč, âîň ěîé ńňŕđűé. (750 çîëîňűő)
+65179	2839	205836	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я принимаю твое предложение! (650 золотых)	ß ďđčíčěŕţ ňâîĺ ďđĺäëîćĺíčĺ! (650 çîëîňűő)
+65180	2839	205837	B_RHODOS_ARMOR_RABBATT	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я принимаю твое предложение! (550 золотых)	ß ďđčíčěŕţ ňâîĺ ďđĺäëîćĺíčĺ! (550 çîëîňűő)
+65181	-1	58023	B_RHODOS_GIVE_ARMOR	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_buyarmors_give_15_00"")"	SUBTITLE	Вот твое золото.	Oto twoje złoto.
+65182	-1	58023	B_RHODOS_GIVE_ARMOR	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_give_08_01"")"	SUBTITLE	Ну, желаю тебя удачи с твоей новой броней.	Íó, ćĺëŕţ ňĺá˙ óäŕ÷č ń ňâîĺé íîâîé áđîíĺé.
+65183	-1	58024	B_RHODOS_NO_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_buyarmors_nogold_08_00"")"	SUBTITLE	Тебе не хватает золота. Я не могу продать тебе доспехи за меньшие деньги.	Ňĺáĺ íĺ őâŕňŕĺň çîëîňŕ. ß íĺ ěîăó ďđîäŕňü ňĺáĺ äîńďĺőč çŕ ěĺíüřčĺ äĺíüăč.
+65184	-1	58025	DIA_EX_RHODOS_BUYARMORS_BUY	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_buyarmors_buy_15_00"")"	SUBTITLE	Я беру доспехи, вот мой старый.	ß áĺđó äîńďĺőč, âîň ěîé ńňŕđűé.
+65185	-1	58026	DIA_EX_RHODOS_BUYARMORS_RABATT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_buyarmors_rabatt_15_00"")"	SUBTITLE	Я принимаю твое предложение.	ß ďđčíčěŕţ ňâîĺ ďđĺäëîćĺíčĺ.
+65186	-1	58027	DIA_EX_RHODOS_BUYARMORS_LIGHT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_buyarmors_light_15_00"")"	SUBTITLE	Дай мне кожаную броню.	Äŕé ěíĺ ęîćŕíóţ áđîíţ.
+65187	-1	58028	DIA_EX_RHODOS_BUYARMORS_MEDIUM	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_buyarmors_medium_15_00"")"	SUBTITLE	Меховая броня - именно то, что я ищу.	Ěĺőîâŕ˙ áđîí˙ - čěĺííî ňî, ÷ňî ˙ čůó.
+65188	-1	58029	DIA_EX_RHODOS_BUYARMORS_HEAVY	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_buyarmors_heavy_15_00"")"	SUBTITLE	Я беру кольчугу.	ß áĺđó ęîëü÷óăó.
+65189	2839	205846	DIA_EX_RHODOS_TRADE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Покажи свои товары.	Pokaż swoje towary.
+65190	-1	58033	DIA_EX_RHODOS_TRADE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_trade_15_00"")"	SUBTITLE	Покажи свои товары.	Pokaż mi swoje towary.
+65191	-1	58033	DIA_EX_RHODOS_TRADE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_trade_08_01"")"	SUBTITLE	Конечно, выбирай.	Oczywiście, wybieraj.
+65192	2839	205849	DIA_EX_RHODOS_NOTRADE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Покажи свои товары.	Pokaż swoje towary.
+65193	-1	58036	DIA_EX_RHODOS_NOTRADE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_notrade_15_00"")"	SUBTITLE	Покажи свои товары.	Pokaż mi swoje towary.
+65194	-1	58036	DIA_EX_RHODOS_NOTRADE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_notrade_08_01"")"	SUBTITLE	Еще спрашиваешь о торговле? Да ты наглый!	Ĺůĺ ńďđŕřčâŕĺřü î ňîđăîâëĺ? Äŕ ňű íŕăëűé!
+65195	-1	58036	DIA_EX_RHODOS_NOTRADE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_notrade_08_02"")"	SUBTITLE	Ты думаешь, я взял вещи?	Ňű äóěŕĺřü, ˙ âç˙ë âĺůč?
+65196	-1	58036	DIA_EX_RHODOS_NOTRADE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_notrade_08_03"")"	SUBTITLE	Как думаешь, у меня хватит терпения не побить тебя?	Ęŕę äóěŕĺřü, ó ěĺí˙ őâŕňčň ňĺđďĺíč˙ íĺ ďîáčňü ňĺá˙?
+65197	-1	58036	DIA_EX_RHODOS_NOTRADE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_notrade_15_04"")"	SUBTITLE	Может быть...	Ěîćĺň áűňü...
+65198	-1	58036	DIA_EX_RHODOS_NOTRADE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_notrade_08_05"")"	SUBTITLE	Не думаю. Если еще раз спросишь о товарах.	Íĺ äóěŕţ. Ĺńëč ĺůĺ đŕç ńďđîńčřü î ňîâŕđŕő.
+65199	2839	205856	DIA_EX_RHODOS_NEWS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Есть какие-нибудь новости?	Co nowego?
+65200	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_news_15_00"")"	SUBTITLE	Есть какие-нибудь новости?	Co nowego?
+65201	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_01"")"	SUBTITLE	На данный момент у нас проблемы с несколькими упрямыми гражданами.	Íŕ äŕííűé ěîěĺíň ó íŕń ďđîáëĺěű ń íĺńęîëüęčěč óďđ˙ěűěč ăđŕćäŕíŕěč.
+65202	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_02"")"	SUBTITLE	Они отказываются платить налоги.	Îíč îňęŕçűâŕţňń˙ ďëŕňčňü íŕëîăč.
+65203	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_03"")"	SUBTITLE	Тут не было убийств уже много лет.	Ňóň íĺ áűëî óáčéńňâ óćĺ ěíîăî ëĺň.
+65204	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_04"")"	SUBTITLE	Можем надеяться, что это лишь исключение.	Ěîćĺě íŕäĺ˙ňüń˙, ÷ňî ýňî ëčřü čńęëţ÷ĺíčĺ.
+65205	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_05"")"	SUBTITLE	А теперь два убийства происходят подряд!	Ŕ ňĺďĺđü äâŕ óáčéńňâŕ ďđîčńőîä˙ň ďîäđ˙ä!
+65206	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_06"")"	SUBTITLE	Я постепенно начинаю бояться, что группа убийц захочет бросить нам вызов за господство в городе.	ß ďîńňĺďĺííî íŕ÷číŕţ áî˙ňüń˙, ÷ňî ăđóďďŕ óáčéö çŕőî÷ĺň áđîńčňü íŕě âűçîâ çŕ ăîńďîäńňâî â ăîđîäĺ.
+65207	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_07"")"	SUBTITLE	Какой смысл наводить здесь хаос?	Ęŕęîé ńěűńë íŕâîäčňü çäĺńü őŕîń?
+65208	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_08"")"	SUBTITLE	Мы глубоко потрясены.	Ěű ăëóáîęî ďîňđ˙ńĺíű.
+65209	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_09"")"	SUBTITLE	Я надеюсь, что Соломон знает, что делать.	ß íŕäĺţńü, ÷ňî Ńîëîěîí çíŕĺň, ÷ňî äĺëŕňü.
+65210	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_10"")"	SUBTITLE	Соломон мертв!	Ńîëîěîí ěĺđňâ!
+65211	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_11"")"	SUBTITLE	Это наш конец.	Ýňî íŕř ęîíĺö.
+65212	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_12"")"	SUBTITLE	Мы должны бежать.	Ěű äîëćíű áĺćŕňü.
+65213	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_13"")"	SUBTITLE	Пока нет, но все в напряжении.	Ďîęŕ íĺň, íî âńĺ â íŕďđ˙ćĺíčč.
+65214	-1	58039	DIA_EX_RHODOS_NEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_news_08_14"")"	SUBTITLE	Такое затишье не к добру.	Ňŕęîĺ çŕňčřüĺ íĺ ę äîáđó.
+65215	2839	205872	DIA_EX_RHODOS_SALOMO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Что ты можешь рассказать мне о Соломоне?	×ňî ňű ěîćĺřü đŕńńęŕçŕňü ěíĺ î Ńîëîěîíĺ?
+65216	-1	58042	DIA_EX_RHODOS_SALOMO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_Salomo_15_00"")"	SUBTITLE	Что ты можешь рассказать мне о Соломоне?	×ňî ňű ěîćĺřü đŕńńęŕçŕňü ěíĺ î Ńîëîěîíĺ?
+65217	-1	58042	DIA_EX_RHODOS_SALOMO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Salomo_08_01"")"	SUBTITLE	Он сильный человек.	Îí ńčëüíűé ÷ĺëîâĺę.
+65218	-1	58042	DIA_EX_RHODOS_SALOMO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Salomo_08_02"")"	SUBTITLE	Самый лучший лидер, которого я когда-либо встречал.	Ńŕěűé ëó÷řčé ëčäĺđ, ęîňîđîăî ˙ ęîăäŕ-ëčáî âńňđĺ÷ŕë.
+65219	-1	58042	DIA_EX_RHODOS_SALOMO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Salomo_08_03"")"	SUBTITLE	Он стал нашим боссом, он живет только ради города.	Îí ńňŕë íŕřčě áîńńîě, îí ćčâĺň ňîëüęî đŕäč ăîđîäŕ.
+65220	-1	58042	DIA_EX_RHODOS_SALOMO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Salomo_08_04"")"	SUBTITLE	Его авторитет неоспорим.	Ĺăî ŕâňîđčňĺň íĺîńďîđčě.
+65221	-1	58042	DIA_EX_RHODOS_SALOMO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_Salomo_08_05"")"	SUBTITLE	Он почти заменил нам отца.	Îí ďî÷ňč çŕěĺíčë íŕě îňöŕ.
+65222	-1	58045	DIA_EX_RHODOS_TROUBLE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_trouble_08_00"")"	SUBTITLE	Ты выглядишь потерянным, есть проблемы?	Ňű âűăë˙äčřü ďîňĺđ˙ííűě, ĺńňü ďđîáëĺěű?
+65223	2839	205880	DIA_EX_RHODOS_TROUBLE_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Нет...	Hmm...
+65224	2839	205881	DIA_EX_RHODOS_TROUBLE_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я видел убийство!	ß âčäĺë óáčéńňâî!
+65225	-1	58046	DIA_EX_RHODOS_TROUBLE_NOTHING	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_trouble_nothing_15_00"")"	SUBTITLE	Нет...	Nie... (warczy)
+65226	-1	58046	DIA_EX_RHODOS_TROUBLE_NOTHING	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_trouble_nothing_08_00"")"	SUBTITLE	Хм... Ладно.	Hmm... W porządku.
+65227	-1	58047	DIA_EX_RHODOS_TROUBLE_MURDER	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_trouble_murder_15_00"")"	SUBTITLE	Я видел убийство!	ß âčäĺë óáčéńňâî!
+65228	-1	58047	DIA_EX_RHODOS_TROUBLE_MURDER	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_trouble_murder_08_01"")"	SUBTITLE	Убийство?! (раздраженный) Что...	Óáčéńňâî?! (đŕçäđŕćĺííűé) ×ňî...
+65229	-1	58047	DIA_EX_RHODOS_TROUBLE_MURDER	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_trouble_murder_08_02"")"	SUBTITLE	Иди к Соломону немедленно!	Čäč ę Ńîëîěîíó íĺěĺäëĺííî!
+65230	-1	58047	DIA_EX_RHODOS_TROUBLE_MURDER	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_trouble_murder_08_03"")"	SUBTITLE	Это очень важно.	Ýňî î÷ĺíü âŕćíî.
+65231	-1	58050	DIA_EX_RHODOS_ANOTHERMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anothermurder_08_00"")"	SUBTITLE	Еще один труп...	Ĺůĺ îäčí ňđóď...
+65232	-1	58050	DIA_EX_RHODOS_ANOTHERMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anothermurder_08_01"")"	SUBTITLE	Грон был найден мертвым.	Ăđîí áűë íŕéäĺí ěĺđňâűě.
+65233	-1	58050	DIA_EX_RHODOS_ANOTHERMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anothermurder_08_02"")"	SUBTITLE	На этот раз Грон был убит.	Íŕ ýňîň đŕç Ăđîí áűë óáčň.
+65234	-1	58050	DIA_EX_RHODOS_ANOTHERMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anothermurder_08_03"")"	SUBTITLE	Что, черт возьми, это значит?	×ňî, ÷ĺđň âîçüěč, ýňî çíŕ÷čň?
+65235	-1	58050	DIA_EX_RHODOS_ANOTHERMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anothermurder_08_04"")"	SUBTITLE	Иди к Соломону. Он уже ждет тебя.	Čäč ę Ńîëîěîíó. Îí óćĺ ćäĺň ňĺá˙.
+65236	2839	205893	DIA_EX_RHODOS_ANOTHERMURDER_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Еще одно убийство! На этот раз он мертв Грон! Я должен отправиться к Соломону прямо сейчас!	Ĺůĺ îäíî óáčéńňâî! Íŕ ýňîň đŕç îí ěĺđňâ Ăđîí! ß äîëćĺí îňďđŕâčňüń˙ ę Ńîëîěîíó ďđ˙ěî ńĺé÷ŕń!
+65237	-1	58050	DIA_EX_RHODOS_ANOTHERMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anothermurder_08_05"")"	SUBTITLE	Грон был уже преклонного возраста, но то что он умер сейчас, когда когда происходят...	Ăđîí áűë óćĺ ďđĺęëîííîăî âîçđŕńňŕ, íî ňî ÷ňî îí óěĺđ ńĺé÷ŕń, ęîăäŕ ęîăäŕ ďđîčńőîä˙ň...
+65238	-1	58050	DIA_EX_RHODOS_ANOTHERMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anothermurder_08_06"")"	SUBTITLE	Я не верю, что это совпадение.	ß íĺ âĺđţ, ÷ňî ýňî ńîâďŕäĺíčĺ.
+65239	-1	58053	DIA_EX_RHODOS_CATASTROPHE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_catastrophe_08_00"")"	SUBTITLE	Катастрофа!	Ęŕňŕńňđîôŕ!
+65240	-1	58053	DIA_EX_RHODOS_CATASTROPHE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_catastrophe_08_01"")"	SUBTITLE	Иди к Соломону немедленно, он хочет поговорить с тобой!	Čäč ę Ńîëîěîíó íĺěĺäëĺííî, îí őî÷ĺň ďîăîâîđčňü ń ňîáîé!
+65241	-1	58053	DIA_EX_RHODOS_CATASTROPHE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_catastrophe_08_02"")"	SUBTITLE	О, Иннос! У нас и так много проблем, оставь нас в покое.	Î, Čííîń! Ó íŕń č ňŕę ěíîăî ďđîáëĺě, îńňŕâü íŕń â ďîęîĺ.
+65242	-1	58053	DIA_EX_RHODOS_CATASTROPHE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_catastrophe_08_03"")"	SUBTITLE	Несмотря на все, ты все равно проявляешь энтузиазм, чтобы помочь нам.	Íĺńěîňđ˙ íŕ âńĺ, ňű âńĺ đŕâíî ďđî˙âë˙ĺřü ýíňóçčŕçě, ÷ňîáű ďîěî÷ü íŕě.
+65243	-1	58056	DIA_EX_RHODOS_FIRERINGSQUAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_fireringsquad_08_00"")"	SUBTITLE	Да, Босс.	Äŕ, Áîńń.
+65244	-1	58056	DIA_EX_RHODOS_FIRERINGSQUAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_fireringsquad_08_01"")"	SUBTITLE	Идем со мной. Дождемся ночи.	Chodź ze mną. Äîćäĺěń˙ íî÷č.
+65245	-1	58059	DIA_EX_RHODOS_KILLHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killhim_08_00"")"	SUBTITLE	Да начнется шоу!	Äŕ íŕ÷íĺňń˙ řîó!
+65246	-1	58059	DIA_EX_RHODOS_KILLHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killhim_08_01"")"	SUBTITLE	Вайперус!	Âŕéďĺđóń!
+65247	-1	58059	DIA_EX_RHODOS_KILLHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killhim_08_02"")"	SUBTITLE	Это ты виновен в убийстве Грона.	Ýňî ňű âčíîâĺí â óáčéńňâĺ Ăđîíŕ.
+65248	-1	58059	DIA_EX_RHODOS_KILLHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killhim_08_03"")"	SUBTITLE	Сейчас ты умрешь!	Ńĺé÷ŕń ňű óěđĺřü!
+65249	-1	58059	DIA_EX_RHODOS_KILLHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killhim_08_04"")"	SUBTITLE	Бери меч в руки и дерись как мужчина!	Áĺđč ěĺ÷ â đóęč č äĺđčńü ęŕę ěóć÷číŕ!
+65250	2839	205910	DIA_EX_RHODOS_KILLEDHIM_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Мы нашли Вайперуса на его обычном месте. У него не было шансов. Теперь я должен вернуться к Соломону и рассказать ему о нашем успехе.	Ěű íŕřëč Âŕéďĺđóńŕ íŕ ĺăî îáű÷íîě ěĺńňĺ. Ó íĺăî íĺ áűëî řŕíńîâ. Ňĺďĺđü ˙ äîëćĺí âĺđíóňüń˙ ę Ńîëîěîíó č đŕńńęŕçŕňü ĺěó î íŕřĺě óńďĺőĺ.
+65251	-1	58063	DIA_EX_RHODOS_KILLEDHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killedhim_08_00"")"	SUBTITLE	Работа закончена.	Đŕáîňŕ çŕęîí÷ĺíŕ.
+65252	-1	58063	DIA_EX_RHODOS_KILLEDHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killedhim_08_01"")"	SUBTITLE	Возвращайся к Соломону.	Âîçâđŕůŕéń˙ ę Ńîëîěîíó.
+65253	-1	58063	DIA_EX_RHODOS_KILLEDHIM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_killedhim_08_02"")"	SUBTITLE	Я позабочусь о теле.	ß ďîçŕáî÷óńü î ňĺëĺ.
+65254	2839	205914	DIA_EX_RHODOS_KILLEDHIM_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я помог Родосу убить Вайперуса - отравителя Грона.	ß ďîěîă Đîäîńó óáčňü Âŕéďĺđóńŕ - îňđŕâčňĺë˙ Ăđîíŕ.
+65255	-1	58066	DIA_EX_RHODOS_ANOTHERHEAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_08_00"")"	SUBTITLE	Эй, парень, что-то случилось...	Ýé, ďŕđĺíü, ÷ňî-ňî ńëó÷čëîńü...
+65256	-1	58066	DIA_EX_RHODOS_ANOTHERHEAD_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_anotherhead_15_01"")"	SUBTITLE	У меня есть новости об убийстве Адама!	Ó ěĺí˙ ĺńňü íîâîńňč îá óáčéńňâĺ Ŕäŕěŕ!
+65257	-1	58066	DIA_EX_RHODOS_ANOTHERHEAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_08_02"")"	SUBTITLE	А?.. Ладно... Говори.	Ŕ?.. Ëŕäíî... Ăîâîđč.
+65258	2839	205918	DIA_EX_RHODOS_ANOTHERHEAD_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я принес Родосу улики убийцы Адама.	ß ďđčíĺń Đîäîńó óëčęč óáčéöű Ŕäŕěŕ.
+65259	2839	205919	DIA_EX_RHODOS_ANOTHERHEAD_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я помог Родосу наказать убийцу Адама.	ß ďîěîă Đîäîńó íŕęŕçŕňü óáčéöó Ŕäŕěŕ.
+65260	2839	205920	DIA_EX_RHODOS_ANOTHERHEAD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	У меня есть золото!	Ó ěĺí˙ ĺńňü çîëîňî!
+65261	2839	205921	DIA_EX_RHODOS_ANOTHERHEAD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	У меня голова убийцы!	Ó ěĺí˙ ăîëîâŕ óáčéöű!
+65262	2839	205922	DIA_EX_RHODOS_ANOTHERHEAD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я выследил убийцу!	ß âűńëĺäčë óáčéöó!
+65263	-1	58066	DIA_EX_RHODOS_ANOTHERHEAD_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_anotherhead_15_03"")"	SUBTITLE	Я знаю!	ß çíŕţ!
+65264	-1	58066	DIA_EX_RHODOS_ANOTHERHEAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_08_04"")"	SUBTITLE	Откуда?	Skąd?
+65265	2839	205925	DIA_EX_RHODOS_ANOTHERHEAD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Почему ты так повесил голову?	Ďî÷ĺěó ňű ňŕę ďîâĺńčë ăîëîâó?
+65266	-1	58067	DIA_EX_RHODOS_ANOTHERHEAD_FOUND	"AI_OUTPUT(OTHER,SELF,""DIA_Ex_Rhodos_anotherhead_found_15_00"")"	SUBTITLE	Я выследил убийцу! Но он сбежал!	ß âűńëĺäčë óáčéöó! Íî îí ńáĺćŕë!
+65267	-1	58067	DIA_EX_RHODOS_ANOTHERHEAD_FOUND	"AI_OUTPUT(SELF,OTHER,""DIA_Ex_Rhodos_anotherhead_found_08_01"")"	SUBTITLE	Так, кто он?	Ňŕę, ęňî îí?
+65268	-1	58067	DIA_EX_RHODOS_ANOTHERHEAD_FOUND	"AI_OUTPUT(OTHER,SELF,""DIA_Ex_Rhodos_anotherhead_found_15_02"")"	SUBTITLE	Менс! Это один из постоянных клиентов Косты.	Ěĺíń! Ýňî îäčí čç ďîńňî˙ííűő ęëčĺíňîâ Ęîńňű.
+65269	-1	58067	DIA_EX_RHODOS_ANOTHERHEAD_FOUND	"AI_OUTPUT(SELF,OTHER,""DIA_Ex_Rhodos_anotherhead_found_08_03"")"	SUBTITLE	Эта свинья точно имеет какое-то отношение к убийствам.	Ýňŕ ńâčíü˙ ňî÷íî čěĺĺň ęŕęîĺ-ňî îňíîřĺíčĺ ę óáčéńňâŕě.
+65270	-1	58068	DIA_EX_RHODOS_ANOTHERHEAD_GIVEHEAD	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_anotherhead_Givehead_15_04"")"	SUBTITLE	У меня голова убийцы!	Ó ěĺí˙ ăîëîâŕ óáčéöű!
+65271	-1	58068	DIA_EX_RHODOS_ANOTHERHEAD_GIVEHEAD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_Givehead_08_05"")"	SUBTITLE	Да?	Tak?
+65272	-1	58068	DIA_EX_RHODOS_ANOTHERHEAD_GIVEHEAD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_Givehead_08_06"")"	SUBTITLE	Тогда я положу ее рядом с головой Вайперуса.	Ňîăäŕ ˙ ďîëîćó ĺĺ đ˙äîě ń ăîëîâîé Âŕéďĺđóńŕ.
+65273	-1	58068	DIA_EX_RHODOS_ANOTHERHEAD_GIVEHEAD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_Givehead_08_07"")"	SUBTITLE	Нам не стоит расслабляться, пока мы их всех не прикончим.	Íŕě íĺ ńňîčň đŕńńëŕáë˙ňüń˙, ďîęŕ ěű čő âńĺő íĺ ďđčęîí÷čě.
+65274	-1	58069	DIA_EX_RHODOS_ANOTHERHEAD_GOLD	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_anotherhead_gold_15_00"")"	SUBTITLE	У меня есть золото!	Ó ěĺí˙ ĺńňü çîëîňî!
+65275	-1	58069	DIA_EX_RHODOS_ANOTHERHEAD_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_gold_08_01"")"	SUBTITLE	Хорошо, давай его сюда.	Őîđîřî, äŕâŕé ĺăî ńţäŕ.
+65276	-1	58069	DIA_EX_RHODOS_ANOTHERHEAD_GOLD	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_anotherhead_gold_15_02"")"	SUBTITLE	Держи.	Bierz.
+65277	-1	58069	DIA_EX_RHODOS_ANOTHERHEAD_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_gold_08_03"")"	SUBTITLE	Ты настоящий герой.	Ňű íŕńňî˙ůčé ăĺđîé.
+65278	-1	58069	DIA_EX_RHODOS_ANOTHERHEAD_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_gold_08_04"")"	SUBTITLE	Ты сделал для нас больше, чем кто-либо другой.	Ňű ńäĺëŕë äë˙ íŕń áîëüřĺ, ÷ĺě ęňî-ëčáî äđóăîé.
+65279	-1	58070	B_SALOMOS_LAST_TASK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_lasttask_08_00"")"	SUBTITLE	Иди к Соломону.	Čäč ę Ńîëîěîíó.
+65280	-1	58070	B_SALOMOS_LAST_TASK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_lasttask_08_01"")"	SUBTITLE	У него есть для тебя последнее задание.	Ó íĺăî ĺńňü äë˙ ňĺá˙ ďîńëĺäíĺĺ çŕäŕíčĺ.
+65281	-1	58071	DIA_EX_RHODOS_ANOTHERHEAD_BACK	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_anotherhead_back_15_00"")"	SUBTITLE	Почему ты так повесил голову?	Ďî÷ĺěó ňű ňŕę ďîâĺńčë ăîëîâó?
+65282	-1	58071	DIA_EX_RHODOS_ANOTHERHEAD_BACK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_back_08_01"")"	SUBTITLE	Мы нанесли сильный удар по врагу.	Ěű íŕíĺńëč ńčëüíűé óäŕđ ďî âđŕăó.
+65283	-1	58071	DIA_EX_RHODOS_ANOTHERHEAD_BACK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_anotherhead_back_08_02"")"	SUBTITLE	Но сейчас идем к дну.	Íî ńĺé÷ŕń čäĺě ę äíó.
+65284	2839	205945	DIA_EX_RHODOS_FALGOSDEAD	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Фальго мертв!	Ôŕëüăî ěĺđňâ!
+65285	-1	58074	DIA_EX_RHODOS_FALGOSDEAD_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_falgosdead_15_00"")"	SUBTITLE	Фальго мертв!	Ôŕëüăî ěĺđňâ!
+65286	-1	58074	DIA_EX_RHODOS_FALGOSDEAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_falgosdead_08_01"")"	SUBTITLE	Да. И очень сожалею об этом.	Tak. Č î÷ĺíü ńîćŕëĺţ îá ýňîě.
+65287	-1	58074	DIA_EX_RHODOS_FALGOSDEAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_falgosdead_08_02"")"	SUBTITLE	Мы потеряли сильного человека, и без него мы больше не можем оставаться здесь, после всего произошедшего.	Ěű ďîňĺđ˙ëč ńčëüíîăî ÷ĺëîâĺęŕ, č áĺç íĺăî ěű áîëüřĺ íĺ ěîćĺě îńňŕâŕňüń˙ çäĺńü, ďîńëĺ âńĺăî ďđîčçîřĺäřĺăî.
+65288	-1	58074	DIA_EX_RHODOS_FALGOSDEAD_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_falgosdead_08_03"")"	SUBTITLE	Может у тебя есть более приятное сообщение, которое осветит этот черный день?	Ěîćĺň ó ňĺá˙ ĺńňü áîëĺĺ ďđč˙ňíîĺ ńîîáůĺíčĺ, ęîňîđîĺ îńâĺňčň ýňîň ÷ĺđíűé äĺíü?
+65289	2839	205950	DIA_EX_RHODOS_FALGOSDEAD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Нет	Niestety nie.
+65290	2839	205951	DIA_EX_RHODOS_FALGOSDEAD_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Ну да... Из-за убийства Адама...	Íó äŕ... Čç-çŕ óáčéńňâŕ Ŕäŕěŕ...
+65291	-1	58075	DIA_EX_RHODOS_FALGOSDEAD_BACK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_falgosdead_back_08_00"")"	SUBTITLE	Как я уже сказал... иди к Соломону. Он ждет тебя.	Ęŕę ˙ óćĺ ńęŕçŕë... čäč ę Ńîëîěîíó. Îí ćäĺň ňĺá˙.
+65292	-1	58076	DIA_EX_RHODOS_FALGOSDEAD_ADAM	"AI_OUTPUT(OTHER,SELF,""DIA_Ex_Rhodos_falgosdead_adam_15_00"")"	SUBTITLE	Из-за убийства Адама...	Čç-çŕ óáčéńňâŕ Ŕäŕěŕ...
+65293	-1	58076	DIA_EX_RHODOS_FALGOSDEAD_ADAM	"AI_OUTPUT(SELF,OTHER,""DIA_Ex_Rhodos_falgosdead_adam_08_01"")"	SUBTITLE	Отчет!	Îň÷ĺň!
+65294	2839	205955	DIA_EX_RHODOS_FALGOSDEAD_ADAM	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	У меня есть золото!	Ó ěĺí˙ ĺńňü çîëîňî!
+65295	2839	205956	DIA_EX_RHODOS_FALGOSDEAD_ADAM	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	У меня голова убийцы!	Ó ěĺí˙ ăîëîâŕ óáčéöű!
+65296	2839	205957	DIA_EX_RHODOS_FALGOSDEAD_ADAM	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я выследил убийцу!	ß âűńëĺäčë óáčéöó!
+65297	-1	58079	DIA_EX_RHODOS_BROUGHTNEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_08_00"")"	SUBTITLE	Ты доставил сообщение?	Ňű äîńňŕâčë ńîîáůĺíčĺ?
+65298	-1	58079	DIA_EX_RHODOS_BROUGHTNEWS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_broughtnews_15_01"")"	SUBTITLE	Да.	Tak.
+65299	-1	58079	DIA_EX_RHODOS_BROUGHTNEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_08_02"")"	SUBTITLE	Слушай, нам нужно сейчас убираться отсюда.	Ńëóřŕé, íŕě íóćíî ńĺé÷ŕń óáčđŕňüń˙ îňńţäŕ.
+65300	-1	58079	DIA_EX_RHODOS_BROUGHTNEWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_08_03"")"	SUBTITLE	Если ты последуешь за нами, то сможешь присоединиться к честному и праведному сообществу.	Ĺńëč ňű ďîńëĺäóĺřü çŕ íŕěč, ňî ńěîćĺřü ďđčńîĺäčíčňüń˙ ę ÷ĺńňíîěó č ďđŕâĺäíîěó ńîîáůĺńňâó.
+65301	2839	205962	DIA_EX_RHODOS_BROUGHTNEWS_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	А что насчет Соломона?	Ŕ ÷ňî íŕń÷ĺň Ńîëîěîíŕ?
+65302	2839	205963	DIA_EX_RHODOS_BROUGHTNEWS_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Что это за сообщество?	×ňî ýňî çŕ ńîîáůĺńňâî?
+65303	-1	58080	DIA_EX_RHODOS_BROUGHTNEWS_COMMUNITY	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_broughtnews_community_15_00"")"	SUBTITLE	Что это за сообщество?	×ňî ýňî çŕ ńîîáůĺńňâî?
+65304	-1	58080	DIA_EX_RHODOS_BROUGHTNEWS_COMMUNITY	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_community_08_01"")"	SUBTITLE	Рыцари Меренса - это старое сообщество ветеранов.	Đűöŕđč Ěĺđĺíńŕ - ýňî ńňŕđîĺ ńîîáůĺńňâî âĺňĺđŕíîâ.
+65305	-1	58080	DIA_EX_RHODOS_BROUGHTNEWS_COMMUNITY	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_community_08_02"")"	SUBTITLE	Их великие часы закончились, но однажды они смело защитили эти земли от внешних врагов.	Čő âĺëčęčĺ ÷ŕńű çŕęîí÷čëčńü, íî îäíŕćäű îíč ńěĺëî çŕůčňčëč ýňč çĺěëč îň âíĺříčő âđŕăîâ.
+65306	-1	58080	DIA_EX_RHODOS_BROUGHTNEWS_COMMUNITY	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_community_08_03"")"	SUBTITLE	Может быть, они впустят нас в их крепость.	Ěîćĺň áűňü, îíč âďóńň˙ň íŕń â čő ęđĺďîńňü.
+65307	-1	58080	DIA_EX_RHODOS_BROUGHTNEWS_COMMUNITY	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_community_08_04"")"	SUBTITLE	Даже сегодня они живут независимо от всех других правителей, кроме их лидера г-на Меренса, и могут сами себя защитить.	Äŕćĺ ńĺăîäí˙ îíč ćčâóň íĺçŕâčńčěî îň âńĺő äđóăčő ďđŕâčňĺëĺé, ęđîěĺ čő ëčäĺđŕ ă-íŕ Ěĺđĺíńŕ, č ěîăóň ńŕěč ńĺá˙ çŕůčňčňü.
+65308	2839	205969	DIA_EX_RHODOS_BROUGHTNEWS_COMMUNITY	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Что ты будешь делать там, в крепости?	×ňî ňű áóäĺřü äĺëŕňü ňŕě, â ęđĺďîńňč?
+65309	-1	58081	DIA_EX_RHODOS_BROUGHTNEWS_SALOMO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_broughtnews_Salomo_15_00"")"	SUBTITLE	А что насчет Соломона?	Ŕ ÷ňî íŕń÷ĺň Ńîëîěîíŕ?
+65310	-1	58081	DIA_EX_RHODOS_BROUGHTNEWS_SALOMO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_Salomo_08_01"")"	SUBTITLE	Он решил остаться здесь, в городе.	Îí đĺřčë îńňŕňüń˙ çäĺńü, â ăîđîäĺ.
+65311	-1	58081	DIA_EX_RHODOS_BROUGHTNEWS_SALOMO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_Salomo_08_02"")"	SUBTITLE	Он был груб и печален.	Îí áűë ăđóá č ďĺ÷ŕëĺí.
+65312	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_broughtnews_what_15_00"")"	SUBTITLE	И что ты будешь делать в крепости?	Č ÷ňî ňű áóäĺřü äĺëŕňü â ęđĺďîńňč?
+65313	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_what_08_01"")"	SUBTITLE	Мы останемся там, если это возможно.	Ěű îńňŕíĺěń˙ ňŕě, ĺńëč ýňî âîçěîćíî.
+65314	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_what_08_02"")"	SUBTITLE	Каждый сам выбираем как жить.	Ęŕćäűé ńŕě âűáčđŕĺě ęŕę ćčňü.
+65315	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_what_08_03"")"	SUBTITLE	Может ты и не сможешь провести там всю жизнь.	Ěîćĺň ňű č íĺ ńěîćĺřü ďđîâĺńňč ňŕě âńţ ćčçíü.
+65316	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_what_08_04"")"	SUBTITLE	Ты тоже можешь пойти в монастырь.	Ňű ňîćĺ ěîćĺřü ďîéňč â ěîíŕńňűđü.
+65317	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_what_08_05"")"	SUBTITLE	Или, если повезет, то будешь приняты властями здесь, хоть и работал на нас.	Čëč, ĺńëč ďîâĺçĺň, ňî áóäĺřü ďđčí˙ňű âëŕńň˙ěč çäĺńü, őîňü č đŕáîňŕë íŕ íŕń.
+65318	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_what_08_06"")"	SUBTITLE	Крепость Меренс для тебя не станет концом пути.	Ęđĺďîńňü Ěĺđĺíń äë˙ ňĺá˙ íĺ ńňŕíĺň ęîíöîě ďóňč.
+65319	-1	58082	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_broughtnews_what_08_07"")"	SUBTITLE	Ты сможешь узнать там много, и я уверен, что это даст тебе некоторую поддержку особенно сейчас.	Ňű ńěîćĺřü óçíŕňü ňŕě ěíîăî, č ˙ óâĺđĺí, ÷ňî ýňî äŕńň ňĺáĺ íĺęîňîđóţ ďîääĺđćęó îńîáĺííî ńĺé÷ŕń.
+65320	2839	205982	DIA_EX_RHODOS_BROUGHTNEWS_WHAT	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Родос предлагает убиратсья из поселения. Соломон решил остаться и прикрыть уход своих людей.	Đîäîń ďđĺäëŕăŕĺň óáčđŕňńü˙ čç ďîńĺëĺíč˙. Ńîëîěîí đĺřčë îńňŕňüń˙ č ďđčęđűňü óőîä ńâîčő ëţäĺé.
+65321	2839	205983	DIA_EX_RHODOS_WHENWILLWELEAVE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Когда ты хочешь уйти?	Ęîăäŕ ňű őî÷ĺřü óéňč?
+65322	-1	58085	DIA_EX_RHODOS_WHENWILLWELEAVE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_whenwillweleave_15_00"")"	SUBTITLE	Когда ты хочешь уйти?	Ęîăäŕ ňű őî÷ĺřü óéňč?
+65323	-1	58085	DIA_EX_RHODOS_WHENWILLWELEAVE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_whenwillweleave_08_01"")"	SUBTITLE	Как только соберешься.	Ęŕę ňîëüęî ńîáĺđĺřüń˙.
+65324	-1	58085	DIA_EX_RHODOS_WHENWILLWELEAVE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_whenwillweleave_08_02"")"	SUBTITLE	Подойди к воротам, когда будешь готов.	Ďîäîéäč ę âîđîňŕě, ęîăäŕ áóäĺřü ăîňîâ.
+65325	2839	205988	DIA_EX_RHODOS_WHENWILLWELEAVE_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Родос, Джонс, Давид, Амон и Исаак готовы сбежать к рыцарям Меренса.	Đîäîń, Äćîíń, Äŕâčä, Ŕěîí č Čńŕŕę ăîňîâű ńáĺćŕňü ę đűöŕđ˙ě Ěĺđĺíńŕ.
+65326	2839	205989	DIA_EX_RHODOS_WHENWILLWELEAVE_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	После побега прислужников Соломона, все цели убийц в поселке достигнуты.	Ďîńëĺ ďîáĺăŕ ďđčńëóćíčęîâ Ńîëîěîíŕ, âńĺ öĺëč óáčéö â ďîńĺëęĺ äîńňčăíóňű.
+65327	2839	205990	DIA_EX_RHODOS_FINDMURDERER	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Прежде чем уйти отсюда, я хочу найти убийцу Фальго!	Ďđĺćäĺ ÷ĺě óéňč îňńţäŕ, ˙ őî÷ó íŕéňč óáčéöó Ôŕëüăî!
+65328	-1	58088	DIA_EX_RHODOS_FINDMURDERER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Rhodos_findmurderer_15_00"")"	SUBTITLE	Прежде чем уйти отсюда, я хочу найти убийцу Фальго!	Ďđĺćäĺ ÷ĺě óéňč îňńţäŕ, ˙ őî÷ó íŕéňč óáčéöó Ôŕëüăî!
+65329	-1	58088	DIA_EX_RHODOS_FINDMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_findmurderer_08_01"")"	SUBTITLE	Это ни к чему не приведет!	Ýňî íč ę ÷ĺěó íĺ ďđčâĺäĺň!
+65330	-1	58088	DIA_EX_RHODOS_FINDMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_findmurderer_08_02"")"	SUBTITLE	Чем поможет тебе месть за убийство Фальго?	×ĺě ďîěîćĺň ňĺáĺ ěĺńňü çŕ óáčéńňâî Ôŕëüăî?
+65331	-1	58088	DIA_EX_RHODOS_FINDMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_findmurderer_08_03"")"	SUBTITLE	Пока мы здесь, убийство не остановятся.	Ďîęŕ ěű çäĺńü, óáčéńňâî íĺ îńňŕíîâ˙ňń˙.
+65332	-1	58088	DIA_EX_RHODOS_FINDMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_findmurderer_08_04"")"	SUBTITLE	Мы должны уйти.	Ěű äîëćíű óéňč.
+65333	-1	58088	DIA_EX_RHODOS_FINDMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Rhodos_findmurderer_08_05"")"	SUBTITLE	На благо людей.	Íŕ áëŕăî ëţäĺé.
+65334	2839	205997	DIA_EX_RHODOS_FINDMURDERER_INFO	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Родос сказал, что нам нужно бежать, хотя я не нашел убийцу Фальго. У меня нет выбора. Смерть Фальго не будет отомщена никогда. Потому что даже если я найду и убью убийцу, я только подвергаю риску жизни других людей.	Đîäîń ńęŕçŕë, ÷ňî íŕě íóćíî áĺćŕňü, őîň˙ ˙ íĺ íŕřĺë óáčéöó Ôŕëüăî. Ó ěĺí˙ íĺň âűáîđŕ. Ńěĺđňü Ôŕëüăî íĺ áóäĺň îňîěůĺíŕ íčęîăäŕ. Ďîňîěó ÷ňî äŕćĺ ĺńëč ˙ íŕéäó č óáüţ óáčéöó, ˙ ňîëüęî ďîäâĺđăŕţ đčńęó ćčçíč äđóăčő ëţäĺé.
+65335	-1	58091	DIA_EX_RHODOS_LOHN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_rhodos_lohn_10_00"")"	SUBTITLE	Ну тогда. Выбери награду. Я уверен, есть что-то интересное для тебя.	Íó ňîăäŕ. Âűáĺđč íŕăđŕäó. ß óâĺđĺí, ĺńňü ÷ňî-ňî číňĺđĺńíîĺ äë˙ ňĺá˙.
+65336	-1	58091	DIA_EX_RHODOS_LOHN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_rhodos_lohn_10_01"")"	SUBTITLE	Ты можешь получить броню, редкое зелье или немного золота.	Ňű ěîćĺřü ďîëó÷čňü áđîíţ, đĺäęîĺ çĺëüĺ čëč íĺěíîăî çîëîňŕ.
+65337	2839	206000	DIA_EX_RHODOS_LOHN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я беру золото (200 золотых).	ß áĺđó çîëîňî (200 çîëîňűő).
+65338	2839	206001	DIA_EX_RHODOS_LOHN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Эликсир духа.	Ýëčęńčđ äóőŕ.
+65339	2839	206002	DIA_EX_RHODOS_LOHN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Эликсир жизни.	Ýëčęńčđ ćčçíč.
+65340	2839	206003	DIA_EX_RHODOS_LOHN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Напиток здоровья	Íŕďčňîę çäîđîâü˙
+65341	2839	206004	DIA_EX_RHODOS_LOHN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я беру доспехи.	Wezmę tę zbroję.
+65342	-1	58092	DIA_EX_RHODOS_LOHN_ARMOR	"AI_OUTPUT(OTHER,SELF,""DIA_EX_rhodos_lohn_armor_15_00"")"	SUBTITLE	Я беру доспехи.	Wezmę tę zbroję.
+65343	-1	58092	DIA_EX_RHODOS_LOHN_ARMOR	"AI_OUTPUT(SELF,OTHER,""DIA_EX_rhodos_lohn_armor_10_01"")"	SUBTITLE	Это хорошая кожаная броня. Забирай.	Ýňî őîđîřŕ˙ ęîćŕíŕ˙ áđîí˙. Weź to.
+65344	-1	58092	DIA_EX_RHODOS_LOHN_ARMOR	"AI_OUTPUT(SELF,OTHER,""DIA_EX_rhodos_lohn_armor_10_02"")"	SUBTITLE	Я не дам тебе доспехи, но могу обменять твои старые на гораздо лучшие.	ß íĺ äŕě ňĺáĺ äîńďĺőč, íî ěîăó îáěĺí˙ňü ňâîč ńňŕđűĺ íŕ ăîđŕçäî ëó÷řčĺ.
+65345	2839	206008	DIA_EX_RHODOS_LOHN_ARMOR	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я бы хотел получить еще одну награду.	ß áű őîňĺë ďîëó÷čňü ĺůĺ îäíó íŕăđŕäó.
+65346	2839	206009	DIA_EX_RHODOS_LOHN_ARMOR	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Хорошо.	Dobrze.
+65347	2839	206010	DIA_EX_RHODOS_LOHN_OTHER	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я беру золото (200 золотых).	ß áĺđó çîëîňî (200 çîëîňűő).
+65348	2839	206011	DIA_EX_RHODOS_LOHN_OTHER	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Эликсир духа.	Ýëčęńčđ äóőŕ.
+65349	2839	206012	DIA_EX_RHODOS_LOHN_OTHER	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Эликсир жизни.	Ýëčęńčđ ćčçíč.
+65350	2839	206013	DIA_EX_RHODOS_LOHN_OTHER	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Напиток здоровья	Íŕďčňîę çäîđîâü˙
+65351	2839	206014	DIA_EX_RHODOS_LOHN_OTHER	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я беру доспехи.	Wezmę tę zbroję.
+65352	-1	58095	DIA_EX_RHODOS_LOHN_OK	"AI_OUTPUT(OTHER,SELF,""DIA_EX_rhodos_lohn_ok_15_00"")"	SUBTITLE	Хорошо.	Dobrze.
+65353	-1	58095	DIA_EX_RHODOS_LOHN_OK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_rhodos_lohn_ok_10_01"")"	SUBTITLE	Хороший выбор. Пусть доспехи верно послужат тебе в битве.	Őîđîřčé âűáîđ. Ďóńňü äîńďĺőč âĺđíî ďîńëóćŕň ňĺáĺ â áčňâĺ.
+65354	-1	58096	DIA_EX_RHODOS_LOHN_POTION	"AI_OUTPUT(OTHER,SELF,""DIA_EX_rhodos_lohn_potion_15_00"")"	SUBTITLE	Дай мне зелье.	Daj mi miksturę.
+65355	-1	58096	DIA_EX_RHODOS_LOHN_POTION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_rhodos_lohn_potion_10_00"")"	SUBTITLE	Зелье - это ценная вещь. Ты сделал мудрый выбор.	Eliksir - ýňî öĺííŕ˙ âĺůü. Ňű ńäĺëŕë ěóäđűé âűáîđ.
+65356	-1	58097	DIA_EX_RHODOS_LOHN_GOLD	"AI_OUTPUT(OTHER,SELF,""DIA_EX_rhodos_lohn_gold_15_00"")"	SUBTITLE	Я беру золото.	ß áĺđó çîëîňî.
+65357	-1	58097	DIA_EX_RHODOS_LOHN_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_rhodos_lohn_gold_10_00"")"	SUBTITLE	Золото? Хорошо. Оно никогда не повредит. Возьми двести золотых монет здесь.	Çîëîňî? Dobrze. Îíî íčęîăäŕ íĺ ďîâđĺäčň. Âîçüěč äâĺńňč çîëîňűő ěîíĺň çäĺńü.
+65358	2840	206021	DIA_EX_FORD_WHAT	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Что ты здесь делаешь?	Co tu robisz?
+65359	-1	58103	DIA_EX_FORD_WHAT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_what_15_00"")"	SUBTITLE	Что ты здесь делаешь?	Co tu robisz?
+65360	-1	58103	DIA_EX_FORD_WHAT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_what_10_01"")"	SUBTITLE	А как ты думаешь? Просто прогуливаюсь.	Ŕ ęŕę ňű äóěŕĺřü? Ďđîńňî ďđîăóëčâŕţńü.
+65361	2840	206024	DIA_EX_FORD_WHAT_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я встретил ополченца.	ß âńňđĺňčë îďîë÷ĺíöŕ.
+65362	2840	206025	DIA_EX_FORD_WHY	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	А почему именно здесь?	Ŕ ďî÷ĺěó čěĺííî çäĺńü?
+65363	-1	58106	DIA_EX_FORD_WHY_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_why_15_00"")"	SUBTITLE	А почему именно здесь?	Ŕ ďî÷ĺěó čěĺííî çäĺńü?
+65364	-1	58106	DIA_EX_FORD_WHY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_why_10_01"")"	SUBTITLE	А почему нет?	Ŕ ďî÷ĺěó íĺň?
+65365	2840	206028	DIA_EX_FORD_TRADR	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Ты же из Вальдуса, да?	Ňű ćĺ čç Âŕëüäóńŕ, äŕ?
+65366	-1	58109	DIA_EX_FORD_TRADR_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_tradr_15_00"")"	SUBTITLE	Ты же из Вальдуса, да?	Ňű ćĺ čç Âŕëüäóńŕ, äŕ?
+65367	-1	58109	DIA_EX_FORD_TRADR_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_tradr_10_01"")"	SUBTITLE	Верно, а что есть какие-то вопросы?	Âĺđíî, ŕ ÷ňî ĺńňü ęŕęčĺ-ňî âîďđîńű?
+65368	2840	206031	DIA_EX_FORD_TALKTO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Болтают, что ты разговаривал с людьми из поселка.	Áîëňŕţň, ÷ňî ňű đŕçăîâŕđčâŕë ń ëţäüěč čç ďîńĺëęŕ.
+65369	-1	58112	DIA_EX_FORD_TALKTO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_talkto_15_00"")"	SUBTITLE	Болтают, что ты разговаривал с людьми из поселка.	Áîëňŕţň, ÷ňî ňű đŕçăîâŕđčâŕë ń ëţäüěč čç ďîńĺëęŕ.
+65370	-1	58112	DIA_EX_FORD_TALKTO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_talkto_10_01"")"	SUBTITLE	А ты что против этого?	Ŕ ňű ÷ňî ďđîňčâ ýňîăî?
+65371	-1	58112	DIA_EX_FORD_TALKTO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_talkto_15_02"")"	SUBTITLE	Ну, не сказал бы.	Íó, íĺ ńęŕçŕë áű.
+65372	-1	58112	DIA_EX_FORD_TALKTO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_talkto_10_03"")"	SUBTITLE	Ну тогда и молчи.	Íó ňîăäŕ č ěîë÷č.
+65373	2840	206036	DIA_EX_FORD_VANISH	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Было бы лучше, если бы ты ушел отсюда.	Áűëî áű ëó÷řĺ, ĺńëč áű ňű óřĺë îňńţäŕ.
+65374	-1	58115	DIA_EX_FORD_VANISH_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_vanish_15_00"")"	SUBTITLE	Было бы лучше, если бы ты ушел отсюда.	Áűëî áű ëó÷řĺ, ĺńëč áű ňű óřĺë îňńţäŕ.
+65375	-1	58115	DIA_EX_FORD_VANISH_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_vanish_10_01"")"	SUBTITLE	Да? И зачем мне это делать?	Tak? A czemu miałbym to zrobić?
+65376	2840	206039	DIA_EX_FORD_VANISH_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Парень явно не хочет уходить. Но, может я как-то смогу заставить его.	Ďŕđĺíü ˙âíî íĺ őî÷ĺň óőîäčňü. Íî, ěîćĺň ˙ ęŕę-ňî ńěîăó çŕńňŕâčňü ĺăî.
+65377	2840	206040	DIA_EX_FORD_FRESSE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Некоторым людям ты не нравишься.	Íĺęîňîđűě ëţä˙ě ňű íĺ íđŕâčřüń˙.
+65378	-1	58118	DIA_EX_FORD_FRESSE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_fresse_15_00"")"	SUBTITLE	Некоторым людям ты не нравишься.	Íĺęîňîđűě ëţä˙ě ňű íĺ íđŕâčřüń˙.
+65379	-1	58118	DIA_EX_FORD_FRESSE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_fresse_10_01"")"	SUBTITLE	И что с того? Мне плевать на это.	I co z tego? Ěíĺ ďëĺâŕňü íŕ ýňî.
+65380	2840	206043	DIA_EX_FORD_CORRUPT	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	(Подкупить)	(Ďîäęóďčňü)
+65381	2840	206044	DIA_EX_FORD_CORRUPT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Дать 10 золотых монет)	(Äŕňü 10 çîëîňűő ěîíĺň)
+65382	2840	206045	DIA_EX_FORD_CORRUPT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Дать 20 золотых монет)	(Äŕňü 20 çîëîňűő ěîíĺň)
+65383	2840	206046	DIA_EX_FORD_CORRUPT_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Дать 50 золотых монет)	(Äŕňü 50 çîëîňűő ěîíĺň)
+65384	-1	58123	B_CORRUPT_FORD	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_corrupt_15_00"")"	SUBTITLE	Может нам удастся договориться?	Ěîćĺň íŕě óäŕńňń˙ äîăîâîđčňüń˙?
+65385	-1	58123	B_CORRUPT_FORD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_corrupt_10_01"")"	SUBTITLE	Ну, нет!	Íó, íĺň!
+65386	-1	58123	B_CORRUPT_FORD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_corrupt_10_02"")"	SUBTITLE	Если ты и вправду хочешь договориться.	Ĺńëč ňű č âďđŕâäó őî÷ĺřü äîăîâîđčňüń˙.
+65387	-1	58123	B_CORRUPT_FORD	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_corrupt_10_03"")"	SUBTITLE	То мне принеси мне 5 стеблей болотной травы и я уйду.	Ňî ěíĺ ďđčíĺńč ěíĺ 5 ńňĺáëĺé áîëîňíîé ňđŕâű č ˙ óéäó.
+65388	2840	206051	B_CORRUPT_FORD	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Моя попытка подкупить не сработала. Но он сказал, что уйдет, если я принесу ему 5 стеблей болотника. Что-то я уже начинают сомневаться, что этот ополченец несет угрозу...	Ěî˙ ďîďűňęŕ ďîäęóďčňü íĺ ńđŕáîňŕëŕ. Íî îí ńęŕçŕë, ÷ňî óéäĺň, ĺńëč ˙ ďđčíĺńó ĺěó 5 ńňĺáëĺé áîëîňíčęŕ. ×ňî-ňî ˙ óćĺ íŕ÷číŕţň ńîěíĺâŕňüń˙, ÷ňî ýňîň îďîë÷ĺíĺö íĺńĺň óăđîçó...
+65389	2840	206052	DIA_EX_FORD_WEED	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Вот твои 5 стеблей..	Âîň ňâîč 5 ńňĺáëĺé..
+65390	-1	58130	DIA_EX_FORD_WEED_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_weed_15_00"")"	SUBTITLE	Вот твои 5 стеблей.	Âîň ňâîč 5 ńňĺáëĺé.
+65391	-1	58130	DIA_EX_FORD_WEED_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_weed_10_01"")"	SUBTITLE	Ну, все я уже ухожу.	Íó, âńĺ ˙ óćĺ óőîćó.
+65392	-1	58130	DIA_EX_FORD_WEED_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_weed_10_02"")"	SUBTITLE	Знаешь, у нас в донжоне, вообще нет болотника.	Çíŕĺřü, ó íŕń â äîíćîíĺ, âîîáůĺ íĺň áîëîňíčęŕ.
+65393	-1	58130	DIA_EX_FORD_WEED_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_weed_10_03"")"	SUBTITLE	А Гелиос подозрительно довольный.	Ŕ Ăĺëčîń ďîäîçđčňĺëüíî äîâîëüíűé.
+65394	-1	58130	DIA_EX_FORD_WEED_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_weed_10_04"")"	SUBTITLE	Я просто хотел проверить, смогу ли я раздобыть болотник тут.	ß ďđîńňî őîňĺë ďđîâĺđčňü, ńěîăó ëč ˙ đŕçäîáűňü áîëîňíčę ňóň.
+65395	2840	206058	DIA_EX_FORD_WEED_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Так ты для этого был здесь?	Ňŕę ňű äë˙ ýňîăî áűë çäĺńü?
+65396	2840	206059	DIA_EX_FORD_WEED_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	И Майк просто разрешил тебе?	Č Ěŕéę ďđîńňî đŕçđĺřčë ňĺáĺ?
+65397	-1	58131	DIA_EX_FORD_WEED_ONLY	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_weed_only_15_00"")"	SUBTITLE	Так ты для этого был здесь?	Ňŕę ňű äë˙ ýňîăî áűë çäĺńü?
+65398	-1	58131	DIA_EX_FORD_WEED_ONLY	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_weed_only_10_01"")"	SUBTITLE	Ну конечно. Ну а зачем мне еще тут задерживаться?	Íó ęîíĺ÷íî. Íó ŕ çŕ÷ĺě ěíĺ ĺůĺ ňóň çŕäĺđćčâŕňüń˙?
+65399	2840	206062	DIA_EX_FORD_WEED_ONLY	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Полный провал! Форд просто хотел купить что-нибудь покурить! Соломон был совершенно неправ в своих предположениях.	Ďîëíűé ďđîâŕë! Ôîđä ďđîńňî őîňĺë ęóďčňü ÷ňî-íčáóäü ďîęóđčňü! Ńîëîěîí áűë ńîâĺđřĺííî íĺďđŕâ â ńâîčő ďđĺäďîëîćĺíč˙ő.
+65400	-1	58132	DIA_EX_FORD_WEED_LETGO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_ford_weed_letgo_15_00"")"	SUBTITLE	И Майк просто разрешил тебе?	Č Ěŕéę ďđîńňî đŕçđĺřčë ňĺáĺ?
+65401	-1	58132	DIA_EX_FORD_WEED_LETGO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_weed_letgo_10_01"")"	SUBTITLE	Я недавно очень разозлил Майка, он сказал мне скрыться с его глаз.	ß íĺäŕâíî î÷ĺíü đŕçîçëčë Ěŕéęŕ, îí ńęŕçŕë ěíĺ ńęđűňüń˙ ń ĺăî ăëŕç.
+65402	-1	58132	DIA_EX_FORD_WEED_LETGO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_ford_weed_letgo_10_02"")"	SUBTITLE	Хотя что мне жаловаться.	Őîň˙ ÷ňî ěíĺ ćŕëîâŕňüń˙.
+65475	2841	206141	DIA_EX_ADAM_HELP_SOMEONE	PRINT.PAR0	PRINT.PAR0	Вспомнил о Квине.	Âńďîěíčë î Ęâčíĺ.
+65489	2841	206160	DIA_EX_ADAM_WILLCRACKCHEST_INFO	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Адам не позволяет открыть его сундук другим людям. Его право.	Adam nie pozwala innym ludziom otwierać swojego kufra. Jego prawo
+65490	-1	58171	DIA_EX_ADAM_CRACKEDCHEST_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Adam_crackedchest_12_00"")"	SUBTITLE	Ну, как?	Jak to?
+65496	2841	206168	DIA_EX_ADAM_CRACKEDCHEST_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я помог решить проблему Адама с ключом от сундука.	ß ďîěîă đĺřčňü ďđîáëĺěó Ŕäŕěŕ ń ęëţ÷îě îň ńóíäóęŕ.
+65497	2842	206169	DIA_EX_SALOMO_HI	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Ты глава охраны?	Ňű ăëŕâŕ îőđŕíű?
+65498	-1	58177	DIA_EX_SALOMO_HI_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_Hi_15_00"")"	SUBTITLE	Ты глава охраны?	Ňű ăëŕâŕ îőđŕíű?
+65499	-1	58177	DIA_EX_SALOMO_HI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_Hi_10_01"")"	SUBTITLE	Да, меня зовут Соломон.	Äŕ, ěĺí˙ çîâóň Ńîëîěîí.
+65500	-1	58177	DIA_EX_SALOMO_HI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_Hi_10_02"")"	SUBTITLE	Ты новичок в поселке?	Ňű íîâč÷îę â ďîńĺëęĺ?
+65501	-1	58177	DIA_EX_SALOMO_HI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_Hi_10_03"")"	SUBTITLE	Ты еще плохо знаешь наши законы.	Ňű ĺůĺ ďëîőî çíŕĺřü íŕřč çŕęîíű.
+65502	2842	206174	DIA_EX_SALOMO_LAWS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Какие законы?	Ęŕęčĺ çŕęîíű?
+65503	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_laws_15_00"")"	SUBTITLE	Какие законы?	Ęŕęčĺ çŕęîíű?
+65504	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_01"")"	SUBTITLE	Мы - закон.	Ěű - çŕęîí.
+65505	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_02"")"	SUBTITLE	Мои люди и я.	Ěîč ëţäč č ˙.
+65506	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_03"")"	SUBTITLE	Потому что здесь нет ополчения.	Ďîňîěó ÷ňî çäĺńü íĺň îďîë÷ĺíč˙.
+65507	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_laws_15_04"")"	SUBTITLE	А каким правилам следуешь ты?	Ŕ ęŕęčě ďđŕâčëŕě ńëĺäóĺřü ňű?
+65508	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_05"")"	SUBTITLE	Все платят нам дань.	Âńĺ ďëŕň˙ň íŕě äŕíü.
+65509	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_06"")"	SUBTITLE	А мы обеспечиваем правопорядок, разрешаем споры и защищаем город извне.	Ŕ ěű îáĺńďĺ÷čâŕĺě ďđŕâîďîđ˙äîę, đŕçđĺřŕĺě ńďîđű č çŕůčůŕĺě ăîđîä čçâíĺ.
+65510	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_laws_15_07"")"	SUBTITLE	Это все?	I to wszystko?
+65511	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_08"")"	SUBTITLE	У нас нет кодекса, если ты это имеешь в виду.	Ó íŕń íĺň ęîäĺęńŕ, ĺńëč ňű ýňî čěĺĺřü â âčäó.
+65512	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_09"")"	SUBTITLE	Если ты плохо себя ведешь, ты платишь штраф.	Ĺńëč ňű ďëîőî ńĺá˙ âĺäĺřü, ňű ďëŕňčřü řňđŕô.
+65513	-1	58180	DIA_EX_SALOMO_LAWS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_laws_10_10"")"	SUBTITLE	Как обстояло дело и насколько велик штраф... Решаю я.	Ęŕę îáńňî˙ëî äĺëî č íŕńęîëüęî âĺëčę řňđŕô... Đĺřŕţ ˙.
+65514	2842	206186	DIA_EX_SALOMO_JOIN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Вам все еще нужны хорошие люди?	Âŕě âńĺ ĺůĺ íóćíű őîđîřčĺ ëţäč?
+65515	-1	58183	DIA_EX_SALOMO_JOIN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_join_15_00"")"	SUBTITLE	Вам все еще нужны хорошие люди?	Âŕě âńĺ ĺůĺ íóćíű őîđîřčĺ ëţäč?
+65516	-1	58183	DIA_EX_SALOMO_JOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_join_10_01"")"	SUBTITLE	Нам всегда нужны надежные люди.	Íŕě âńĺăäŕ íóćíű íŕäĺćíűĺ ëţäč.
+65517	-1	58183	DIA_EX_SALOMO_JOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_join_10_02"")"	SUBTITLE	Еще пять лет назад нас было вдвое больше.	Ĺůĺ ď˙ňü ëĺň íŕçŕä íŕń áűëî âäâîĺ áîëüřĺ.
+65518	-1	58183	DIA_EX_SALOMO_JOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_join_10_03"")"	SUBTITLE	Но со временем нас все меньше и меньше.	Íî ńî âđĺěĺíĺě íŕń âńĺ ěĺíüřĺ č ěĺíüřĺ.
+65519	-1	58183	DIA_EX_SALOMO_JOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_join_10_04"")"	SUBTITLE	Эйфория ушла, понимаешь?	Ýéôîđč˙ óřëŕ, ďîíčěŕĺřü?
+65520	-1	58183	DIA_EX_SALOMO_JOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_join_10_05"")"	SUBTITLE	Если ничего не делать, то скоро мы потеряем влияние.	Ĺńëč íč÷ĺăî íĺ äĺëŕňü, ňî ńęîđî ěű ďîňĺđ˙ĺě âëč˙íčĺ.
+65521	-1	58183	DIA_EX_SALOMO_JOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_join_10_06"")"	SUBTITLE	Богачи просто ждут, чтобы сместить нас и занять наше место.	Áîăŕ÷č ďđîńňî ćäóň, ÷ňîáű ńěĺńňčňü íŕń č çŕí˙ňü íŕřĺ ěĺńňî.
+65522	2842	206194	DIA_EX_SALOMO_JOIN_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Соломону нужны надежные люди. На данный момент я все еще работаю с Фальго, но это не повредит, если я буду работать на два фронта. Если я хорошо с ним полажу, то это мне пойдет на пользу.	Ńîëîěîíó íóćíű íŕäĺćíűĺ ëţäč. Íŕ äŕííűé ěîěĺíň ˙ âńĺ ĺůĺ đŕáîňŕţ ń Ôŕëüăî, íî ýňî íĺ ďîâđĺäčň, ĺńëč ˙ áóäó đŕáîňŕňü íŕ äâŕ ôđîíňŕ. Ĺńëč ˙ őîđîřî ń íčě ďîëŕćó, ňî ýňî ěíĺ ďîéäĺň íŕ ďîëüçó.
+65523	2842	206195	DIA_EX_SALOMO_HISTORY	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	А что было пять лет назад?	Ŕ ÷ňî áűëî ď˙ňü ëĺň íŕçŕä?
+65524	-1	58186	DIA_EX_SALOMO_HISTORY_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_history_15_00"")"	SUBTITLE	А что было пять лет назад?	Ŕ ÷ňî áűëî ď˙ňü ëĺň íŕçŕä?
+65525	-1	58186	DIA_EX_SALOMO_HISTORY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_history_10_01"")"	SUBTITLE	Ополчение и торговцы угнетали нас и давили все более высокими налогами.	Îďîë÷ĺíčĺ č ňîđăîâöű óăíĺňŕëč íŕń č äŕâčëč âńĺ áîëĺĺ âűńîęčěč íŕëîăŕěč.
+65526	-1	58186	DIA_EX_SALOMO_HISTORY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_history_10_02"")"	SUBTITLE	Это стало невыносимым для нас, и мы объединились и избили их.	Ýňî ńňŕëî íĺâűíîńčěűě äë˙ íŕń, č ěű îáúĺäčíčëčńü č čçáčëč čő.
+65527	-1	58186	DIA_EX_SALOMO_HISTORY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_history_10_03"")"	SUBTITLE	С тех пор у нас собственный порядок здесь, в долине.	Ń ňĺő ďîđ ó íŕń ńîáńňâĺííűé ďîđ˙äîę çäĺńü, â äîëčíĺ.
+65528	-1	58186	DIA_EX_SALOMO_HISTORY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_history_10_04"")"	SUBTITLE	И все довольно хорошо, как ты видишь.	Č âńĺ äîâîëüíî őîđîřî, ęŕę ňű âčäčřü.
+65529	2842	206201	DIA_EX_SALOMO_WHENCANIJOIN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Что нужно сделать, чтобы меня приняли в охрану?	×ňî íóćíî ńäĺëŕňü, ÷ňîáű ěĺí˙ ďđčí˙ëč â îőđŕíó?
+65530	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_whencanIjoin_15_00"")"	SUBTITLE	Что нужно сделать, чтобы меня приняли в охрану?	×ňî íóćíî ńäĺëŕňü, ÷ňîáű ěĺí˙ ďđčí˙ëč â îőđŕíó?
+65531	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whencanIjoin_10_01"")"	SUBTITLE	А? Хм.	No i? Hmm.
+65532	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whencanIjoin_10_02"")"	SUBTITLE	У тебя же нет работы здесь?	Ó ňĺá˙ ćĺ íĺň đŕáîňű çäĺńü?
+65533	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_whencanIjoin_15_03"")"	SUBTITLE	Верно.	Zgadza się.
+65534	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whencanIjoin_10_04"")"	SUBTITLE	Я не могу принять тебя сразу, но если ты докажешь преданность, то сможешь получить желаемое.	ß íĺ ěîăó ďđčí˙ňü ňĺá˙ ńđŕçó, íî ĺńëč ňű äîęŕćĺřü ďđĺäŕííîńňü, ňî ńěîćĺřü ďîëó÷čňü ćĺëŕĺěîĺ.
+65535	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whencanIjoin_10_05"")"	SUBTITLE	Если ты хочешь иметь дело с нами, то тебя должны знать и уважать в поселении.	Ĺńëč ňű őî÷ĺřü čěĺňü äĺëî ń íŕěč, ňî ňĺá˙ äîëćíű çíŕňü č óâŕćŕňü â ďîńĺëĺíčč.
+65536	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whencanIjoin_10_06"")"	SUBTITLE	Есть всегда что-то, что ты можешь сделать для нас. К сожалению, в последнее время возникли некоторые проблемы.	Ĺńňü âńĺăäŕ ÷ňî-ňî, ÷ňî ňű ěîćĺřü ńäĺëŕňü äë˙ íŕń. Ę ńîćŕëĺíčţ, â ďîńëĺäíĺĺ âđĺě˙ âîçíčęëč íĺęîňîđűĺ ďđîáëĺěű.
+65537	-1	58189	DIA_EX_SALOMO_WHENCANIJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whencanIjoin_10_07"")"	SUBTITLE	Я часто общаюсь с моими ребятами, и теперь я буду также спрашивать их, как у тебя дела.	ß ÷ŕńňî îáůŕţńü ń ěîčěč đĺá˙ňŕěč, č ňĺďĺđü ˙ áóäó ňŕęćĺ ńďđŕřčâŕňü čő, ęŕę ó ňĺá˙ äĺëŕ.
+65538	2842	206210	DIA_EX_SALOMO_HOWJOIN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я могу чем-нибудь помочь?	ß ěîăó ÷ĺě-íčáóäü ďîěî÷ü?
+65539	-1	58192	DIA_EX_SALOMO_HOWJOIN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_howjoin_15_00"")"	SUBTITLE	Я могу чем-нибудь помочь?	ß ěîăó ÷ĺě-íčáóäü ďîěî÷ü?
+65540	-1	58192	DIA_EX_SALOMO_HOWJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_howjoin_10_01"")"	SUBTITLE	Слушай, всегда есть чем заняться.	Ńëóřŕé, âńĺăäŕ ĺńňü ÷ĺě çŕí˙ňüń˙.
+65541	-1	58192	DIA_EX_SALOMO_HOWJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_howjoin_10_02"")"	SUBTITLE	Например, у Давида проблемы с несколькими гражданами, которые не платят дань.	Íŕďđčěĺđ, ó Äŕâčäŕ ďđîáëĺěű ń íĺńęîëüęčěč ăđŕćäŕíŕěč, ęîňîđűĺ íĺ ďëŕň˙ň äŕíü.
+65542	-1	58192	DIA_EX_SALOMO_HOWJOIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_howjoin_10_03"")"	SUBTITLE	Иди к нему, может ты сможешь ему помочь.	Čäč ę íĺěó, ěîćĺň ňű ńěîćĺřü ĺěó ďîěî÷ü.
+65543	2842	206215	DIA_EX_SALOMO_HOWJOIN_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Соломон говорит, что я должен поговорить с его людьми и спросить, нуждается ли кто-то в помощи. Он упомянул, что у Давида в настоящее время есть некоторые проблемы со сбором дани.	Ńîëîěîí ăîâîđčň, ÷ňî ˙ äîëćĺí ďîăîâîđčňü ń ĺăî ëţäüěč č ńďđîńčňü, íóćäŕĺňń˙ ëč ęňî-ňî â ďîěîůč. Îí óďîě˙íóë, ÷ňî ó Äŕâčäŕ â íŕńňî˙ůĺĺ âđĺě˙ ĺńňü íĺęîňîđűĺ ďđîáëĺěű ńî ńáîđîě äŕíč.
+65544	2842	206216	DIA_SALOMO_TOWER_GHOST	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	А лично тебе нужна помощь?	Ŕ ëč÷íî ňĺáĺ íóćíŕ ďîěîůü?
+65545	2842	206217	B_DIA_SALOMO_TOWER_GHOST	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Расскажи подробнее о загадках.	Đŕńńęŕćč ďîäđîáíĺĺ î çŕăŕäęŕő.
+65546	2842	206218	B_DIA_SALOMO_TOWER_GHOST	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Как давно он умер?	Ęŕę äŕâíî îí óěĺđ?
+65547	2842	206219	B_DIA_SALOMO_TOWER_GHOST	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Как заставить его покинуть этот мир?	Ęŕę çŕńňŕâčňü ĺăî ďîęčíóňü ýňîň ěčđ?
+65548	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_Info_15_00"")"	SUBTITLE	А лично тебе нужна помощь?	Ŕ ëč÷íî ňĺáĺ íóćíŕ ďîěîůü?
+65549	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_01"")"	SUBTITLE	У меня есть дело, которое не терпит отлагательств.	Ó ěĺí˙ ĺńňü äĺëî, ęîňîđîĺ íĺ ňĺđďčň îňëŕăŕňĺëüńňâ.
+65550	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_02"")"	SUBTITLE	В башне, где разместилась наша банда, время от времени появляется призрак.	Â áŕříĺ, ăäĺ đŕçěĺńňčëŕńü íŕřŕ áŕíäŕ, âđĺě˙ îň âđĺěĺíč ďî˙âë˙ĺňń˙ ďđčçđŕę.
+65551	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_03"")"	SUBTITLE	Мало того. что он мешает спать по ночам, так еще и днями может то бочку сбросить по пандусу, то свечу опрокинуть на мешки с товаром.	Ěŕëî ňîăî. ÷ňî îí ěĺřŕĺň ńďŕňü ďî íî÷ŕě, ňŕę ĺůĺ č äí˙ěč ěîćĺň ňî áî÷ęó ńáđîńčňü ďî ďŕíäóńó, ňî ńâĺ÷ó îďđîęčíóňü íŕ ěĺřęč ń ňîâŕđîě.
+65552	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_04"")"	SUBTITLE	Хорошо хоть, людей редко калечит.	Őîđîřî őîňü, ëţäĺé đĺäęî ęŕëĺ÷čň.
+65553	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_Info_15_01"")"	SUBTITLE	Да уж.	Tak.
+65554	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_05"")"	SUBTITLE	Твоя задача состоит в изгнании духа в его родное измерение. Дух этот принадлежит погибшему магу-путешественнику.	Ňâî˙ çŕäŕ÷ŕ ńîńňîčň â čçăíŕíčč äóőŕ â ĺăî đîäíîĺ čçěĺđĺíčĺ. Äóő ýňîň ďđčíŕäëĺćčň ďîăčářĺěó ěŕăó-ďóňĺřĺńňâĺííčęó.
+65555	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_09"")"	SUBTITLE	Он не успел до смерти что-то завершить, и теперь требует помощи ото всех, кого встретит.	Îí íĺ óńďĺë äî ńěĺđňč ÷ňî-ňî çŕâĺđřčňü, č ňĺďĺđü ňđĺáóĺň ďîěîůč îňî âńĺő, ęîăî âńňđĺňčň.
+65556	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_10"")"	SUBTITLE	А так как его дух привязан к этой башне, жить в ней мало кто хочет.	Ŕ ňŕę ęŕę ĺăî äóő ďđčâ˙çŕí ę ýňîé áŕříĺ, ćčňü â íĺé ěŕëî ęňî őî÷ĺň.
+65557	-1	58196	DIA_SALOMO_TOWER_GHOST_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_Info_05_13"")"	SUBTITLE	Сделай так, чтобы этот дух обрел покой.	Ńäĺëŕé ňŕę, ÷ňîáű ýňîň äóő îáđĺë ďîęîé.
+65558	-1	58197	KDF_5020_IGNASIO_TOWER_GHOST_START_01	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_01_Info_15_01"")"	SUBTITLE	Как заставить его покинуть этот мир?	Ęŕę çŕńňŕâčňü ĺăî ďîęčíóňü ýňîň ěčđ?
+65559	-1	58197	KDF_5020_IGNASIO_TOWER_GHOST_START_01	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_01_Info_05_02"")"	SUBTITLE	Для начала нужно заставить его показаться тебе на глаза. Затем нужно будет разгадать его загадки, после чего он, наверное, исчезнет.	Äë˙ íŕ÷ŕëŕ íóćíî çŕńňŕâčňü ĺăî ďîęŕçŕňüń˙ ňĺáĺ íŕ ăëŕçŕ. Çŕňĺě íóćíî áóäĺň đŕçăŕäŕňü ĺăî çŕăŕäęč, ďîńëĺ ÷ĺăî îí, íŕâĺđíîĺ, čń÷ĺçíĺň.
+65560	-1	58197	KDF_5020_IGNASIO_TOWER_GHOST_START_01	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_01_Info_15_03"")"	SUBTITLE	Разгадать загадки? Как в сказке?	Đŕçăŕäŕňü çŕăŕäęč? Ęŕę â ńęŕçęĺ?
+65561	-1	58197	KDF_5020_IGNASIO_TOWER_GHOST_START_01	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_01_Info_05_04"")"	SUBTITLE	В любой сказке есть доля правды, а у призраков такая уж природа, что они просто обожают задавать живым загадки.	Â ëţáîé ńęŕçęĺ ĺńňü äîë˙ ďđŕâäű, ŕ ó ďđčçđŕęîâ ňŕęŕ˙ óć ďđčđîäŕ, ÷ňî îíč ďđîńňî îáîćŕţň çŕäŕâŕňü ćčâűě çŕăŕäęč.
+65562	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_15_01"")"	SUBTITLE	Расскажи подробнее о загадках.	Đŕńńęŕćč ďîäđîáíĺĺ î çŕăŕäęŕő.
+65563	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_05_02"")"	SUBTITLE	Загадки могут быть самые разные, начиная с детских вплоть до философских.	Çŕăŕäęč ěîăóň áűňü ńŕěűĺ đŕçíűĺ, íŕ÷číŕ˙ ń äĺňńęčő âďëîňü äî ôčëîńîôńęčő.
+65564	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_15_03"")"	SUBTITLE	А что будет, если я дам неверный ответ?	Ŕ ÷ňî áóäĺň, ĺńëč ˙ äŕě íĺâĺđíűé îňâĺň?
+65565	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_05_04"")"	SUBTITLE	Придется попытаться снова. Призрак тебя так просто не отпустит и сам не уйдет.	Ďđčäĺňń˙ ďîďűňŕňüń˙ ńíîâŕ. Ďđčçđŕę ňĺá˙ ňŕę ďđîńňî íĺ îňďóńňčň č ńŕě íĺ óéäĺň.
+65566	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_15_05"")"	SUBTITLE	Ты говорил, что надо будет заставить его показаться нам, как это сделать?	Ňű ăîâîđčë, ÷ňî íŕäî áóäĺň çŕńňŕâčňü ĺăî ďîęŕçŕňüń˙ íŕě, ęŕę ýňî ńäĺëŕňü?
+65567	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_05_06"")"	SUBTITLE	Я уже подготовил для тебя свиток, который сделает этого призрака видимым для человеческого ока и ты, увидев его, сможешь с ним побеседовать. Вот он.	ß óćĺ ďîäăîňîâčë äë˙ ňĺá˙ ńâčňîę, ęîňîđűé ńäĺëŕĺň ýňîăî ďđčçđŕęŕ âčäčěűě äë˙ ÷ĺëîâĺ÷ĺńęîăî îęŕ č ňű, óâčäĺâ ĺăî, ńěîćĺřü ń íčě ďîáĺńĺäîâŕňü. Oto on.
+65568	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_15_07"")"	SUBTITLE	Где мне его прочитать?	Ăäĺ ěíĺ ĺăî ďđî÷čňŕňü?
+65569	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_05_08"")"	SUBTITLE	Зайди не крышу башни и прочти его там. Понял?	Çŕéäč íĺ ęđűřó áŕříč č ďđî÷ňč ĺăî ňŕě. Zrozumiałeś?
+65570	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_15_09"")"	SUBTITLE	Более чем. Я пошел.	Oczywiście, że tak. Oczywiście, że tak.
+65571	-1	58198	KDF_5020_IGNASIO_TOWER_GHOST_START_02	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_04_Info_05_10"")"	SUBTITLE	Береги тебя Иннос.	Áĺđĺăč ňĺá˙ Čííîń.
+65572	2842	206244	KDF_5020_IGNASIO_TOWER_GHOST_START_02	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Соломон дал мне свиток с глупой загадкой, который поможет мне вызвать призрака башни. Я должен прочесть свиток на крыше башни. Также я должен быть готов ответить на вопросы призрака.	Ńîëîěîí äŕë ěíĺ ńâčňîę ń ăëóďîé çŕăŕäęîé, ęîňîđűé ďîěîćĺň ěíĺ âűçâŕňü ďđčçđŕęŕ áŕříč. ß äîëćĺí ďđî÷ĺńňü ńâčňîę íŕ ęđűřĺ áŕříč. Ňŕęćĺ ˙ äîëćĺí áűňü ăîňîâ îňâĺňčňü íŕ âîďđîńű ďđčçđŕęŕ.
+65573	-1	58199	KDF_5020_IGNASIO_TOWER_GHOST_START_03	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_START_03_Info_15_01"")"	SUBTITLE	Как давно он умер?	Ęŕę äŕâíî îí óěĺđ?
+65574	-1	58199	KDF_5020_IGNASIO_TOWER_GHOST_START_03	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_START_03_Info_05_02"")"	SUBTITLE	Приблизительно девять-десять лет назад.	Ďđčáëčçčňĺëüíî äĺâ˙ňü-äĺń˙ňü ëĺň íŕçŕä.
+65575	2842	206247	KDF_5020_IGNASIO_TOWER_GHOST_FINISH	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я успокоил духа.	ß óńďîęîčë äóőŕ.
+65576	-1	58202	KDF_5020_IGNASIO_TOWER_GHOST_FINISH_INFO	"AI_OUTPUT(OTHER,SELF,""kdf_5020_ignasio_TOWER_GHOST_FINISH_Info_15_01"")"	SUBTITLE	Я успокоил духа.	ß óńďîęîčë äóőŕ.
+65577	-1	58202	KDF_5020_IGNASIO_TOWER_GHOST_FINISH_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_FINISH_Info_05_02"")"	SUBTITLE	Я почувствовал это.	ß ďî÷óâńňâîâŕë ýňî.
+65578	-1	58202	KDF_5020_IGNASIO_TOWER_GHOST_FINISH_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_FINISH_Info_05_04"")"	SUBTITLE	Без него дискомфорт в башне уменьшился, хотя я все еще чувствую волнение из-за присутствия беспокойного соседа.	Áĺç íĺăî äčńęîěôîđň â áŕříĺ óěĺíüřčëń˙, őîň˙ ˙ âńĺ ĺůĺ ÷óâńňâóţ âîëíĺíčĺ čç-çŕ ďđčńóňńňâč˙ áĺńďîęîéíîăî ńîńĺäŕ.
+65579	-1	58202	KDF_5020_IGNASIO_TOWER_GHOST_FINISH_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_FINISH_Info_05_08"")"	SUBTITLE	Ступай, мне нужно обдумать другие проблемы и должным образом подготовиться к их решению.	Ńňóďŕé, ěíĺ íóćíî îáäóěŕňü äđóăčĺ ďđîáëĺěű č äîëćíűě îáđŕçîě ďîäăîňîâčňüń˙ ę čő đĺřĺíčţ.
+65580	-1	58202	KDF_5020_IGNASIO_TOWER_GHOST_FINISH_INFO	"AI_OUTPUT(SELF,OTHER,""kdf_5020_ignasio_TOWER_GHOST_FINISH_Info_05_09"")"	SUBTITLE	Возьми себе немного золота.	Âîçüěč ńĺáĺ íĺěíîăî çîëîňŕ.
+65581	2842	206253	KDF_5020_IGNASIO_TOWER_GHOST_FINISH_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я рассказал Соломону о своем успехе и он дал мне небольшую награду.	ß đŕńńęŕçŕë Ńîëîěîíó î ńâîĺě óńďĺőĺ č îí äŕë ěíĺ íĺáîëüřóţ íŕăđŕäó.
+65582	2842	206254	KDF_5020_IGNASIO_TOWER_GHOST_FINISH_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я помог решить проблему Соломона с призраком на башне.	ß ďîěîă đĺřčňü ďđîáëĺěó Ńîëîěîíŕ ń ďđčçđŕęîě íŕ áŕříĺ.
+65583	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_AboutSPIRIT_05_00"")"	SUBTITLE	Раз уж ты договорился с реальным призраком, то сможешь победить и призрачного призрака.	Đŕç óć ňű äîăîâîđčëń˙ ń đĺŕëüíűě ďđčçđŕęîě, ňî ńěîćĺřü ďîáĺäčňü č ďđčçđŕ÷íîăî ďđčçđŕęŕ.
+65584	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_AboutSPIRIT_15_01"")"	SUBTITLE	Ты говоришь загадками. Мне хватило тех, которыми забавлялся призрак Бартоса.	Ňű ăîâîđčřü çŕăŕäęŕěč. Ěíĺ őâŕňčëî ňĺő, ęîňîđűěč çŕáŕâë˙ëń˙ ďđčçđŕę Áŕđňîńŕ.
+65585	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_AboutSPIRIT_05_01"")"	SUBTITLE	Дело в том, что я сильно переживаю о невозможности выполнить нынешнее задание.	Äĺëî â ňîě, ÷ňî ˙ ńčëüíî ďĺđĺćčâŕţ î íĺâîçěîćíîńňč âűďîëíčňü íűíĺříĺĺ çŕäŕíčĺ.
+65586	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_AboutSPIRIT_05_02"")"	SUBTITLE	Перед своими ребятами не могу покзать слабину, а ты человек посторонний и можюешь помочь в деликатном вопросе.	Ďĺđĺä ńâîčěč đĺá˙ňŕěč íĺ ěîăó ďîęçŕňü ńëŕáčíó, ŕ ňű ÷ĺëîâĺę ďîńňîđîííčé č ěîćţĺřü ďîěî÷ü â äĺëčęŕňíîě âîďđîńĺ.
+65587	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_AboutSPIRIT_15_02"")"	SUBTITLE	Я только такими и занимаюсь последние дни. Но не понял, о каком призраке речь?	ß ňîëüęî ňŕęčěč č çŕíčěŕţńü ďîńëĺäíčĺ äíč. Íî íĺ ďîí˙ë, î ęŕęîě ďđčçđŕęĺ đĺ÷ü?
+65588	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_AboutSPIRIT_05_03"")"	SUBTITLE	О призраке моего сердца. Он вызывает приступы отчаяния.	Î ďđčçđŕęĺ ěîĺăî ńĺđäöŕ. Îí âűçűâŕĺň ďđčńňóďű îň÷ŕ˙íč˙.
+65589	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_AboutSPIRIT_05_04"")"	SUBTITLE	Попроси помощи мага Миксира очистить мой разум и сердце, чтобы были плавными, как текущая река.	Ďîďđîńč ďîěîůč ěŕăŕ Ěčęńčđŕ î÷čńňčňü ěîé đŕçóě č ńĺđäöĺ, ÷ňîáű áűëč ďëŕâíűěč, ęŕę ňĺęóůŕ˙ đĺęŕ.
+65590	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_AboutSPIRIT_15_03"")"	SUBTITLE	Может тебе повысить мужество?	Ěîćĺň ňĺáĺ ďîâűńčňü ěóćĺńňâî?
+65591	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_AboutSPIRIT_05_05"")"	SUBTITLE	Нет, мне нужно побороть отчаяние. Для этого нужны маги воды, а не маги огня.	Íĺň, ěíĺ íóćíî ďîáîđîňü îň÷ŕ˙íčĺ. Äë˙ ýňîăî íóćíű ěŕăč âîäű, ŕ íĺ ěŕăč îăí˙.
+65592	-1	58205	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_AboutSPIRIT_05_06"")"	SUBTITLE	Поговори с Миксиром. Он наверняка сможет помочь мне в этом.	Ďîăîâîđč ń Ěčęńčđîě. Îí íŕâĺđí˙ęŕ ńěîćĺň ďîěî÷ü ěíĺ â ýňîě.
+65593	2842	206265	DIA_EX_SALOMO_ABOUTSPIRIT_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Соломон попросил меня встретиться с Миксиром, чтобы помоь Соломону очистить разум и сердце от какого-то призрака отчаяния.	Ńîëîěîí ďîďđîńčë ěĺí˙ âńňđĺňčňüń˙ ń Ěčęńčđîě, ÷ňîáű ďîěîü Ńîëîěîíó î÷čńňčňü đŕçóě č ńĺđäöĺ îň ęŕęîăî-ňî ďđčçđŕęŕ îň÷ŕ˙íč˙.
+65594	2842	206266	DIA_EX_SALOMO_SPIRITOK	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	И как ощущения после ритуала?	Č ęŕę îůóůĺíč˙ ďîńëĺ đčňóŕëŕ?
+65595	-1	58208	DIA_EX_SALOMO_SPIRITOK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_SALOMO_SPIRITOK_15_00"")"	SUBTITLE	И как ощущения после ритуала?	Č ęŕę îůóůĺíč˙ ďîńëĺ đčňóŕëŕ?
+65596	-1	58208	DIA_EX_SALOMO_SPIRITOK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_SALOMO_SPIRITOK_05_01"")"	SUBTITLE	Я чувствую умиротворение.	ß ÷óâńňâóţ óěčđîňâîđĺíčĺ.
+65597	-1	58208	DIA_EX_SALOMO_SPIRITOK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_SALOMO_SPIRITOK_15_01"")"	SUBTITLE	По-моему это просто результат тренировки. Но кто я такой, чтобы мешать других давать мне награду?	Ďî-ěîĺěó ýňî ďđîńňî đĺçóëüňŕň ňđĺíčđîâęč. Íî ęňî ˙ ňŕęîé, ÷ňîáű ěĺřŕňü äđóăčő äŕâŕňü ěíĺ íŕăđŕäó?
+65598	-1	58208	DIA_EX_SALOMO_SPIRITOK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_SALOMO_SPIRITOK_05_02"")"	SUBTITLE	Да, вот твоя награда (улыбается).	Äŕ, âîň ňâî˙ íŕăđŕäŕ (óëűáŕĺňń˙).
+65599	2842	206271	DIA_EX_SALOMO_SPIRITOK_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я помог Соломону победить призрака сердца и Соломон дал мне небольшую награду.	ß ďîěîă Ńîëîěîíó ďîáĺäčňü ďđčçđŕęŕ ńĺđäöŕ č Ńîëîěîí äŕë ěíĺ íĺáîëüřóţ íŕăđŕäó.
+65600	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_1"")"	SUBTITLE	Я наблюдал за тобой, как ты сражался на арене.	ß íŕáëţäŕë çŕ ňîáîé, ęŕę ňű ńđŕćŕëń˙ íŕ ŕđĺíĺ.
+65601	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_2"")"	SUBTITLE	Ты хороший боец. Но тебе все еще есть чему учиться.	Ňű őîđîřčé áîĺö. Íî ňĺáĺ âńĺ ĺůĺ ĺńňü ÷ĺěó ó÷čňüń˙.
+65602	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_hero_3"")"	SUBTITLE	О чем ты?	O czym ty mówisz?
+65603	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_4"")"	SUBTITLE	"Я говорю об ""Оглушающем ударе""."	"ß ăîâîđţ îá ""Îăëóřŕţůĺě óäŕđĺ""."
+65604	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_hero_5"")"	SUBTITLE	Оглушающем ударе?	Îăëóřŕţůĺě óäŕđĺ?
+65605	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_6"")"	SUBTITLE	Да. Этот удар наносится с таком мощью, что противник просто не в силах устоять на ногах.	Tak. Ýňîň óäŕđ íŕíîńčňń˙ ń ňŕęîě ěîůüţ, ÷ňî ďđîňčâíčę ďđîńňî íĺ â ńčëŕő óńňî˙ňü íŕ íîăŕő.
+65606	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_hero_7"")"	SUBTITLE	Звучит интересно. Расскажи мне больше об этом ударе!	Brzmi ciekawie. Đŕńńęŕćč ěíĺ áîëüřĺ îá ýňîě óäŕđĺ!
+65607	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_8"")"	SUBTITLE	Его не так просто изучить.	Ĺăî íĺ ňŕę ďđîńňî čçó÷čňü.
+65608	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_9"")"	SUBTITLE	"Для того, чтобы овладеть ""Оглушающим ударом"", нужны соответствующие знания."	"Äë˙ ňîăî, ÷ňîáű îâëŕäĺňü ""Îăëóřŕţůčě óäŕđîě"", íóćíű ńîîňâĺňńňâóţůčĺ çíŕíč˙."
+65609	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_10"")"	SUBTITLE	Немалую роль при выполнении удара играет сила.	Íĺěŕëóţ đîëü ďđč âűďîëíĺíčč óäŕđŕ čăđŕĺň ńčëŕ.
+65610	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_11"")"	SUBTITLE	Свалить слабачка не составит труда, а если против тебя вышел настоящий боец, придется попотеть.	Ńâŕëčňü ńëŕáŕ÷ęŕ íĺ ńîńňŕâčň ňđóäŕ, ŕ ĺńëč ďđîňčâ ňĺá˙ âűřĺë íŕńňî˙ůčé áîĺö, ďđčäĺňń˙ ďîďîňĺňü.
+65611	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_12"")"	SUBTITLE	Свалить орка – уже небольшое чудо.	Ńâŕëčňü îđęŕ – óćĺ íĺáîëüřîĺ ÷óäî.
+65612	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_hero_13"")"	SUBTITLE	Понимаю.	Rozumiem.
+65613	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_14"")"	SUBTITLE	Я могу обучить тебя основам «оглушающего удара».	ß ěîăó îáó÷čňü ňĺá˙ îńíîâŕě «îăëóřŕţůĺăî óäŕđŕ».
+65614	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_hero_15"")"	SUBTITLE	Во сколько мне это обойдется?	Âî ńęîëüęî ěíĺ ýňî îáîéäĺňń˙?
+65615	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_16"")"	SUBTITLE	Ах, что ты... Я щедрая душа.	Ŕő, ÷ňî ňű... ß ůĺäđŕ˙ äóřŕ.
+65616	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_17"")"	SUBTITLE	Поэтому возьму только 2000 золотых.	Ďîýňîěó âîçüěó ňîëüęî 2000 çîëîňűő.
+65617	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_hero_18"")"	SUBTITLE	Это большая сумма!	Ýňî áîëüřŕ˙ ńóěěŕ!
+65618	-1	58212	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagInfo_npc_19"")"	SUBTITLE	Дело твое.	Äĺëî ňâîĺ.
+65619	2842	206291	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGINFO_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	За 2000 золотых монет Соломон в Лощине обучит меня оглушающему удару.	Çŕ 2000 çîëîňűő ěîíĺň Ńîëîěîí â Ëîůčíĺ îáó÷čň ěĺí˙ îăëóřŕţůĺěó óäŕđó.
+65620	2842	206292	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Объясни мне принципы ''Оглушающего удара''. (10 Оч, 2000 золотых)	Îáú˙ńíč ěíĺ ďđčíöčďű ''Îăëóřŕţůĺăî óäŕđŕ''. (10 Î÷, 2000 çîëîňűő)
+65621	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_hero_1"")"	SUBTITLE	"Объясни мне принципы ""Оглушающего удара""."	"Îáú˙ńíč ěíĺ ďđčíöčďű ""Îăëóřŕţůĺăî óäŕđŕ""."
+65622	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_2"")"	SUBTITLE	Чтобы выбить из врага всю дурь, нужно вложить в удар всю силу.	×ňîáű âűáčňü čç âđŕăŕ âńţ äóđü, íóćíî âëîćčňü â óäŕđ âńţ ńčëó.
+65623	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_3"")"	SUBTITLE	Лучше всего подойти к нему поближе и ударить всем телом.	Ëó÷řĺ âńĺăî ďîäîéňč ę íĺěó ďîáëčćĺ č óäŕđčňü âńĺě ňĺëîě.
+65624	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_4"")"	SUBTITLE	Чем сильнее ты будешь, тем легче будет применять этот удар.	×ĺě ńčëüíĺĺ ňű áóäĺřü, ňĺě ëĺă÷ĺ áóäĺň ďđčěĺí˙ňü ýňîň óäŕđ.
+65625	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_5"")"	SUBTITLE	Также важна техника исполнения.	Ňŕęćĺ âŕćíŕ ňĺőíčęŕ čńďîëíĺíč˙.
+65626	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_6"")"	SUBTITLE	Я обучил тебя основам. Но в этом приеме сосредоточено гораздо больше.	ß îáó÷čë ňĺá˙ îńíîâŕě. Íî â ýňîě ďđčĺěĺ ńîńđĺäîňî÷ĺíî ăîđŕçäî áîëüřĺ.
+65627	2842	206299	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Соломон может усовершенствовать мой оглушающий удар.	Ńîëîěîí ěîćĺň óńîâĺđřĺíńňâîâŕňü ěîé îăëóřŕţůčé óäŕđ.
+65628	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_7"")"	SUBTITLE	У тебя недостаточно золота.	Nie masz dość złota.
+65629	-1	58215	DIA_SLD_20021_CAD_MAGNUS_SCHMETTERSCHLAGGRUNDLAGEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_8"")"	SUBTITLE	"Ты еще не готов к изучению ""Оглушающего удара""."	"Ňű ĺůĺ íĺ ăîňîâ ę čçó÷ĺíčţ ""Îăëóřŕţůĺăî óäŕđŕ""."
+65630	2842	206302	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Расскажи мне больше об ''Оглушающем ударе''!	Đŕńńęŕćč ěíĺ áîëüřĺ îá ''Îăëóřŕţůĺě óäŕđĺ''!
+65631	2842	206303	B_TEACHMHC	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Оглушающий удар +1 (1 Оч, 50 золотых)	Îăëóřŕţůčé óäŕđ +1 (1 Î÷, 50 çîëîňűő)
+65632	2842	206304	B_TEACHMHC	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Оглушающий удар +5 (5 Оч, 250 золотых)	Îăëóřŕţůčé óäŕđ +5 (5 Î÷, 250 çîëîňűő)
+65633	-1	58219	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_hero_9"")"	SUBTITLE	Расскажи мне больше об ''Оглушающем ударе''.	Đŕńńęŕćč ěíĺ áîëüřĺ îá ''Îăëóřŕţůĺě óäŕđĺ''.
+65634	-1	58221	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC_1	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_Teach_06_01"")"	SUBTITLE	Молодец.	Zuch, chłopak.
+65635	-1	58221	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC_1	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_Teach_06_02"")"	SUBTITLE	Хорошо.	Dobrze.
+65636	-1	58221	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC_1	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_SchmetterschlagGrundlagen_npc_7"")"	SUBTITLE	У тебя недостаточно золота.	Nie masz dość złota.
+65637	-1	58222	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC_5	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_Teach_06_04"")"	SUBTITLE	Продолжай.	Kontynuuj.
+65638	-1	58222	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC_5	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_Teach_06_05"")"	SUBTITLE	Да!	Tak!
+65639	-1	58222	DIA_SLD_20021_CAD_MAGNUS_TEACHMHC_5	"AI_OUTPUT(SELF,OTHER,""DIA_SLD_20021_CAD_Magnus_Teach_06_06"")"	SUBTITLE	Приходи, когда у тебя будет больше золота!	Ďđčőîäč, ęîăäŕ ó ňĺá˙ áóäĺň áîëüřĺ çîëîňŕ!
+65640	-1	58225	DIA_EX_SALOMO_YOUSTOLEOURMONEY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_10_00"")"	SUBTITLE	Ты украл золото Адама! Ты заплатишь за это!	Ňű óęđŕë çîëîňî Ŕäŕěŕ! Teraz za to zapłacisz.
+65641	-1	58225	DIA_EX_SALOMO_YOUSTOLEOURMONEY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_10_01"")"	SUBTITLE	Ты пришел, чтобы вернуть украденное золото?!	Ňű ďđčřĺë, ÷ňîáű âĺđíóňü óęđŕäĺííîĺ çîëîňî?!
+65642	2842	206316	DIA_EX_SALOMO_YOUSTOLEOURMONEY_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	У меня не хватает золота..	Ó ěĺí˙ íĺ őâŕňŕĺň çîëîňŕ..
+65643	2842	206317	DIA_EX_SALOMO_YOUSTOLEOURMONEY_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я никого не грабил!	ß íčęîăî íĺ ăđŕáčë!
+65644	2842	206318	DIA_EX_SALOMO_YOUSTOLEOURMONEY_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Вот золото.	Oto złoto.
+65645	-1	58228	DIA_EX_SALOMO_YOUSTOLEOURMONEY_WRONG	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_youstoleourmoney_wrong_15_00"")"	SUBTITLE	Я никого не грабил!	ß íčęîăî íĺ ăđŕáčë!
+65646	-1	58228	DIA_EX_SALOMO_YOUSTOLEOURMONEY_WRONG	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_wrong_10_01"")"	SUBTITLE	Проваливай!	Odejdź! (podrażniony)
+65647	-1	58228	DIA_EX_SALOMO_YOUSTOLEOURMONEY_WRONG	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_wrong_10_02"")"	SUBTITLE	Я слышал, как Адам кричал на тебя!	ß ńëűřŕë, ęŕę Ŕäŕě ęđč÷ŕë íŕ ňĺá˙!
+65648	-1	58228	DIA_EX_SALOMO_YOUSTOLEOURMONEY_WRONG	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_wrong_10_03"")"	SUBTITLE	У нас есть свидетели!	Ó íŕń ĺńňü ńâčäĺňĺëč!
+65649	-1	58229	DIA_EX_SALOMO_YOUSTOLEOURMONEY_NO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_youstoleourmoney_no_15_00"")"	SUBTITLE	У меня не хватает золота.	Ó ěĺí˙ íĺ őâŕňŕĺň çîëîňŕ.
+65650	-1	58229	DIA_EX_SALOMO_YOUSTOLEOURMONEY_NO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_no_10_01"")"	SUBTITLE	Так иди и заработай!	Ňŕę čäč č çŕđŕáîňŕé!
+65651	-1	58229	DIA_EX_SALOMO_YOUSTOLEOURMONEY_NO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_no_10_02"")"	SUBTITLE	И не возвращайся без него!	Č íĺ âîçâđŕůŕéń˙ áĺç íĺăî!
+65652	-1	58230	DIA_EX_SALOMO_YOUSTOLEOURMONEY_YES	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_youstoleourmoney_yes_15_00"")"	SUBTITLE	Вот золото.	Oto złoto.
+65653	-1	58230	DIA_EX_SALOMO_YOUSTOLEOURMONEY_YES	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_yes_10_01"")"	SUBTITLE	Тебе повезло.	Ňĺáĺ ďîâĺçëî.
+65654	-1	58230	DIA_EX_SALOMO_YOUSTOLEOURMONEY_YES	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_youstoleourmoney_yes_10_02"")"	SUBTITLE	И только посмей сделать так снова!	Č ňîëüęî ďîńěĺé ńäĺëŕňü ňŕę ńíîâŕ!
+65655	2842	206331	DIA_EX_SALOMO_FIRSTMURDER	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Мирко был убит!	Ěčđęî áűë óáčň!
+65656	-1	58235	DIA_EX_SALOMO_FIRSTMURDER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_firstmurder_15_00"")"	SUBTITLE	Мирко был убит!	Ěčđęî áűë óáčň!
+65657	-1	58235	DIA_EX_SALOMO_FIRSTMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_10_01"")"	SUBTITLE	Что? Как? Когда?	Co? Jak? Kiedy?
+65658	-1	58235	DIA_EX_SALOMO_FIRSTMURDER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_firstmurder_15_02"")"	SUBTITLE	В него выстрелили из лука!	Â íĺăî âűńňđĺëčëč čç ëóęŕ!
+65659	-1	58235	DIA_EX_SALOMO_FIRSTMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_10_03"")"	SUBTITLE	Кто убийца?	Ęňî óáčéöŕ?
+65660	2842	206336	DIA_EX_SALOMO_FIRSTMURDER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Убийца скрылся!	Óáčéöŕ ńęđűëń˙!
+65661	2842	206337	DIA_EX_SALOMO_FIRSTMURDER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Сигги.	Ńčăăč.
+65662	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_firstmurder_siggi_15_00"")"	SUBTITLE	Сигги.	Ńčăăč.
+65663	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_firstmurder_siggi_15_01"")"	SUBTITLE	Напал на меня.	Íŕďŕë íŕ ěĺí˙.
+65664	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_firstmurder_siggi_15_02"")"	SUBTITLE	Он был вместе с Мирко.	Îí áűë âěĺńňĺ ń Ěčđęî.
+65665	2842	206341	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я доложил Соломону, что убийца Мирко возле стрельбища.	ß äîëîćčë Ńîëîěîíó, ÷ňî óáčéöŕ Ěčđęî âîçëĺ ńňđĺëüáčůŕ.
+65666	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_firstmurder_siggi_15_03"")"	SUBTITLE	Он возле стрельбища, недалеко от домов.	Îí âîçëĺ ńňđĺëüáčůŕ, íĺäŕëĺęî îň äîěîâ.
+65667	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_siggi_10_04"")"	SUBTITLE	Тогда вероятнее всего его уже там нет...	Ňîăäŕ âĺđî˙ňíĺĺ âńĺăî ĺăî óćĺ ňŕě íĺň...
+65668	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_siggi_10_05"")"	SUBTITLE	В любом случае. Я буду его искать, и он понесет заслуженное наказание.	Â ëţáîě ńëó÷ŕĺ. ß áóäó ĺăî čńęŕňü, č îí ďîíĺńĺň çŕńëóćĺííîĺ íŕęŕçŕíčĺ.
+65669	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_siggi_10_06"")"	SUBTITLE	Ты настоящая находка для города и доказал свою доблесть и храбрость!	Ňű íŕńňî˙ůŕ˙ íŕőîäęŕ äë˙ ăîđîäŕ č äîęŕçŕë ńâîţ äîáëĺńňü č őđŕáđîńňü!
+65670	-1	58236	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_siggi_10_07"")"	SUBTITLE	Иди к Родосу. И получи награду.	Čäč ę Đîäîńó. Č ďîëó÷č íŕăđŕäó.
+65671	2842	206347	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я доложил Соломону подробности убийства Мирко.	ß äîëîćčë Ńîëîěîíó ďîäđîáíîńňč óáčéńňâŕ Ěčđęî.
+65672	2842	206348	DIA_EX_SALOMO_FIRSTMURDER_SIGGI	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я сдал Сигги Соломону, выяснив планы убийцы.	ß ńäŕë Ńčăăč Ńîëîěîíó, âű˙ńíčâ ďëŕíű óáčéöű.
+65673	-1	58237	DIA_EX_SALOMO_FIRSTMURDER_VANISHED	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_firstmurder_vanished_15_08"")"	SUBTITLE	Убийца скрылся!	Óáčéöŕ ńęđűëń˙!
+65674	-1	58237	DIA_EX_SALOMO_FIRSTMURDER_VANISHED	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_vanished_10_09"")"	SUBTITLE	Мы должны найти его, он не мог скрыться далеко.	Ěű äîëćíű íŕéňč ĺăî, îí íĺ ěîă ńęđűňüń˙ äŕëĺęî.
+65675	-1	58237	DIA_EX_SALOMO_FIRSTMURDER_VANISHED	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_firstmurder_vanished_10_10"")"	SUBTITLE	Если что-нибудь узнаешь, то возвращайся.	Ĺńëč ÷ňî-íčáóäü óçíŕĺřü, ňî âîçâđŕůŕéń˙.
+65676	2842	206352	DIA_EX_SALOMO_KNOWMURDERER	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я знаю кто убийца!	ß çíŕţ ęňî óáčéöŕ!
+65677	-1	58240	DIA_EX_SALOMO_KNOWMURDERER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_knowmurderer_15_00"")"	SUBTITLE	Я знаю кто убийца!	ß çíŕţ ęňî óáčéöŕ!
+65678	-1	58240	DIA_EX_SALOMO_KNOWMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowmurderer_10_01"")"	SUBTITLE	Кто эта свинья?	Ęňî ýňŕ ńâčíü˙?
+65679	2842	206355	DIA_EX_SALOMO_KNOWMURDERER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Сигги.	Ńčăăč.
+65680	2842	206356	DIA_EX_SALOMO_KNOWPLANS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я знаю о других планах Сигги!	ß çíŕţ î äđóăčő ďëŕíŕő Ńčăăč!
+65681	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_knowplans_15_00"")"	SUBTITLE	Я знаю о других планах Сигги!	ß çíŕţ î äđóăčő ďëŕíŕő Ńčăăč!
+65682	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowplans_10_01"")"	SUBTITLE	Сигги мертв!	Ńčăăč ěĺđňâ!
+65683	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_knowplans_15_02"")"	SUBTITLE	Мы имеем дело с организованной бандой.	Ěű čěĺĺě äĺëî ń îđăŕíčçîâŕííîé áŕíäîé.
+65684	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_knowplans_15_03"")"	SUBTITLE	Сигги был просто мелкой сошкой.	Ńčăăč áűë ďđîńňî ěĺëęîé ńîřęîé.
+65685	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_knowplans_15_04"")"	SUBTITLE	Он планировал убить Грона кузнеца.	Îí ďëŕíčđîâŕë óáčňü Ăđîíŕ ęóçíĺöŕ.
+65686	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowplans_10_05"")"	SUBTITLE	Грон должен был быть следующим? Организованная банда?	Ăđîí äîëćĺí áűë áűňü ńëĺäóţůčě? Îđăŕíčçîâŕííŕ˙ áŕíäŕ?
+65687	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowplans_10_06"")"	SUBTITLE	Тогда нарушим их планы.	Ňîăäŕ íŕđóřčě čő ďëŕíű.
+65688	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowplans_10_07"")"	SUBTITLE	Дом Грона будет под защитой и днем и ночью.	Äîě Ăđîíŕ áóäĺň ďîä çŕůčňîé č äíĺě č íî÷üţ.
+65689	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowplans_10_08"")"	SUBTITLE	Никому не позволено подвергать опасности жителя поселка.	Íčęîěó íĺ ďîçâîëĺíî ďîäâĺđăŕňü îďŕńíîńňč ćčňĺë˙ ďîńĺëęŕ.
+65690	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowplans_10_09"")"	SUBTITLE	Тот, кто стоит за бандой, заплатит!	Ňîň, ęňî ńňîčň çŕ áŕíäîé, çŕďëŕňčň!
+65691	-1	58244	DIA_EX_SALOMO_KNOWPLANS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_knowplans_10_10"")"	SUBTITLE	И кровью и жизнью!	Č ęđîâüţ č ćčçíüţ!
+65692	2842	206370	DIA_EX_SALOMO_SECONDMURDER	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Родос послал меня.	Đîäîń ďîńëŕë ěĺí˙.
+65693	-1	58247	DIA_EX_SALOMO_SECONDMURDER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_secondmurder_15_00"")"	SUBTITLE	Родос послал меня.	Đîäîń ďîńëŕë ěĺí˙.
+65694	-1	58247	DIA_EX_SALOMO_SECONDMURDER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_secondmurder_15_01"")"	SUBTITLE	Из-за Грона.	Čç-çŕ Ăđîíŕ.
+65695	-1	58247	DIA_EX_SALOMO_SECONDMURDER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_secondmurder_10_02"")"	SUBTITLE	Ты уже знаешь?	Ňű óćĺ çíŕĺřü?
+65696	2842	206374	DIA_EX_SALOMO_SECONDMURDER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Ничего конкретного.	Íč÷ĺăî ęîíęđĺňíîăî.
+65697	2842	206375	DIA_EX_SALOMO_SECONDMURDER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Да, Грон был отравлен.	Äŕ, Ăđîí áűë îňđŕâëĺí.
+65698	2842	206376	DIA_EX_SALOMO_SECONDMURDER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Да, Грон был убит.	Äŕ, Ăđîí áűë óáčň.
+65699	-1	58248	B_SALOMO_HAVETOFIND	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_secondmurder_havetofind_10_00"")"	SUBTITLE	Мы должны найти убийцу, иначе никто в городе не будет чувствовать себя в безопасности.	Ěű äîëćíű íŕéňč óáčéöó, číŕ÷ĺ íčęňî â ăîđîäĺ íĺ áóäĺň ÷óâńňâîâŕňü ńĺá˙ â áĺçîďŕńíîńňč.
+65700	-1	58248	B_SALOMO_HAVETOFIND	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_secondmurder_havetofind_10_01"")"	SUBTITLE	Конечно, два убийства за такой короткий срок - это ужасно.	Ęîíĺ÷íî, äâŕ óáčéńňâŕ çŕ ňŕęîé ęîđîňęčé ńđîę - ýňî óćŕńíî.
+65701	-1	58248	B_SALOMO_HAVETOFIND	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_secondmurder_havetofind_15_02"")"	SUBTITLE	Но разве я не сказал тебе? Я сам слышал, как Сигги говорил об этом, Грон должен умереть!	Íî đŕçâĺ ˙ íĺ ńęŕçŕë ňĺáĺ? ß ńŕě ńëűřŕë, ęŕę Ńčăăč ăîâîđčë îá ýňîě, Ăđîí äîëćĺí óěĺđĺňü!
+65702	-1	58248	B_SALOMO_HAVETOFIND	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_secondmurder_havetofind_10_03"")"	SUBTITLE	Ты прав. Но Грон был со мной незадолго до убийства и сказал, что считает охрану унизительным для себя.	Masz rację. Íî Ăđîí áűë ńî ěíîé íĺçŕäîëăî äî óáčéńňâŕ č ńęŕçŕë, ÷ňî ń÷čňŕĺň îőđŕíó óíčçčňĺëüíűě äë˙ ńĺá˙.
+65703	-1	58248	B_SALOMO_HAVETOFIND	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_secondmurder_havetofind_10_04"")"	SUBTITLE	Поэтому я безрассудно приказал Амону покинуть свой пост. Что я должен был сделать? Теперь я понимаю свою ошибку, но сейчас я ничего не могу изменить.	Ďîýňîěó ˙ áĺçđŕńńóäíî ďđčęŕçŕë Ŕěîíó ďîęčíóňü ńâîé ďîńň. ×ňî ˙ äîëćĺí áűë ńäĺëŕňü? Ňĺďĺđü ˙ ďîíčěŕţ ńâîţ îřčáęó, íî ńĺé÷ŕń ˙ íč÷ĺăî íĺ ěîăó čçěĺíčňü.
+65704	2842	206382	B_SALOMO_HAVETOFIND	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я рассказал Соломону то, что знал о смерти Грона!	ß đŕńńęŕçŕë Ńîëîěîíó ňî, ÷ňî çíŕë î ńěĺđňč Ăđîíŕ!
+65705	-1	58249	DIA_EX_SALOMO_SECONDMURDER_POISONED	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_secondmurder_poisoned_15_00"")"	SUBTITLE	Да, Грон был убит.	Äŕ, Ăđîí áűë óáčň.
+65706	-1	58250	DIA_EX_SALOMO_SECONDMURDER_MURDERED	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_secondmurder_murdered_15_00"")"	SUBTITLE	Да, Грон был отравлен.	Äŕ, Ăđîí áűë îňđŕâëĺí.
+65707	-1	58251	DIA_EX_SALOMO_SECONDMURDER_NOTHING	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_secondmurder_nothing_15_00"")"	SUBTITLE	Ничего конкретного.	Íč÷ĺăî ęîíęđĺňíîăî.
+65708	-1	58251	DIA_EX_SALOMO_SECONDMURDER_NOTHING	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_secondmurder_nothing_10_01"")"	SUBTITLE	Грон был отравлен.	Ăđîí áűë îňđŕâëĺí.
+65709	-1	58251	DIA_EX_SALOMO_SECONDMURDER_NOTHING	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_secondmurder_nothing_10_02"")"	SUBTITLE	Грона убили!	Ăđîíŕ óáčëč!
+65710	2842	206388	DIA_EX_SALOMO_CANIHELP	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Могу я помочь?	Ěîăó ˙ ďîěî÷ü?
+65711	-1	58254	DIA_EX_SALOMO_CANIHELP_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_canIhelp_15_00"")"	SUBTITLE	Могу я помочь?	Ěîăó ˙ ďîěî÷ü?
+65712	-1	58254	DIA_EX_SALOMO_CANIHELP_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_canIhelp_10_01"")"	SUBTITLE	Я надеялся, что ты спросишь про это.	ß íŕäĺ˙ëń˙, ÷ňî ňű ńďđîńčřü ďđî ýňî.
+65713	-1	58254	DIA_EX_SALOMO_CANIHELP_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_canIhelp_10_02"")"	SUBTITLE	Теперь, когда ты нашел убийцу Мирко, ты также можешь найти убийцу Грона.	Ňĺďĺđü, ęîăäŕ ňű íŕřĺë óáčéöó Ěčđęî, ňű ňŕęćĺ ěîćĺřü íŕéňč óáčéöó Ăđîíŕ.
+65714	-1	58254	DIA_EX_SALOMO_CANIHELP_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_canIhelp_15_03"")"	SUBTITLE	Есть подозрения?	Ĺńňü ďîäîçđĺíč˙?
+65715	-1	58254	DIA_EX_SALOMO_CANIHELP_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_canIhelp_10_04"")"	SUBTITLE	Нет	Nie
+65716	2842	206394	DIA_EX_SALOMO_CANIHELP_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я вызвался помочь Соломону. На этот раз не так много подсказок. Соломон тоже никого не подозревает. Хм... у Грона были враги? А у кого в городе мог быть яд?	ß âűçâŕëń˙ ďîěî÷ü Ńîëîěîíó. Íŕ ýňîň đŕç íĺ ňŕę ěíîăî ďîäńęŕçîę. Ńîëîěîí ňîćĺ íčęîăî íĺ ďîäîçđĺâŕĺň. Hmm... ó Ăđîíŕ áűëč âđŕăč? Ŕ ó ęîăî â ăîđîäĺ ěîă áűňü ˙ä?
+65717	2842	206395	DIA_EX_SALOMO_SUSPICTION	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	У меня есть подозрение.	Ó ěĺí˙ ĺńňü ďîäîçđĺíčĺ.
+65718	-1	58257	DIA_EX_SALOMO_SUSPICTION_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_suspiction_15_00"")"	SUBTITLE	У меня есть подозрение.	Ó ěĺí˙ ĺńňü ďîäîçđĺíčĺ.
+65719	-1	58257	DIA_EX_SALOMO_SUSPICTION_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_10_01"")"	SUBTITLE	Выкладывай.	Wyduś to z siebie.
+65720	2842	206398	DIA_EX_SALOMO_SUSPICTION_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Хако недолюбливал Грона!	Őŕęî íĺäîëţáëčâŕë Ăđîíŕ!
+65721	2842	206399	DIA_EX_SALOMO_SUSPICTION_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Сента работает с ядом!	Ńĺíňŕ đŕáîňŕĺň ń ˙äîě!
+65722	-1	58259	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_conclusion_10_00"")"	SUBTITLE	Я вижу, ты серьезно относишься к своей работе.	ß âčćó, ňű ńĺđüĺçíî îňíîńčřüń˙ ę ńâîĺé đŕáîňĺ.
+65723	-1	58259	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_conclusion_10_01"")"	SUBTITLE	Оставайтесь с нами и продолжайте искать. Может быть, что-нибудь найдешь.	Îńňŕâŕéňĺńü ń íŕěč č ďđîäîëćŕéňĺ čńęŕňü. Ěîćĺň áűňü, ÷ňî-íčáóäü íŕéäĺřü.
+65724	-1	58259	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_conclusion_10_02"")"	SUBTITLE	Может, тебе стоит поискать этот странный яд, убийца, вероятно, спрятал его где-то недалеко.	Ěîćĺň, ňĺáĺ ńňîčň ďîčńęŕňü ýňîň ńňđŕííűé ˙ä, óáčéöŕ, âĺđî˙ňíî, ńďđ˙ňŕë ĺăî ăäĺ-ňî íĺäŕëĺęî.
+65725	-1	58259	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_suspiction_conclusion_15_03"")"	SUBTITLE	А где мне искать?	Ŕ ăäĺ ěíĺ čńęŕňü?
+65726	-1	58259	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_conclusion_10_04"")"	SUBTITLE	Повсюду, где есть кто-то, кто выступает против нас. Но я не думаю, что Сента к этому причастен..	Ďîâńţäó, ăäĺ ĺńňü ęňî-ňî, ęňî âűńňóďŕĺň ďđîňčâ íŕń. Íî ˙ íĺ äóěŕţ, ÷ňî Ńĺíňŕ ę ýňîěó ďđč÷ŕńňĺí..
+65727	-1	58259	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_conclusion_10_05"")"	SUBTITLE	Если будешь обыскивать сундуки, то делай это тайно. Если тебя поймают, я должен буду привлечь тебя к ответственности.	Ĺńëč áóäĺřü îáűńęčâŕňü ńóíäóęč, ňî äĺëŕé ýňî ňŕéíî. Ĺńëč ňĺá˙ ďîéěŕţň, ˙ äîëćĺí áóäó ďđčâëĺ÷ü ňĺá˙ ę îňâĺňńňâĺííîńňč.
+65728	-1	58259	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_conclusion_10_06"")"	SUBTITLE	Если ты найдешь что-нибудь, приходи ко мне, прежде чем что-то делать.	Ĺńëč ňű íŕéäĺřü ÷ňî-íčáóäü, ďđčőîäč ęî ěíĺ, ďđĺćäĺ ÷ĺě ÷ňî-ňî äĺëŕňü.
+65729	2842	206407	DIA_EX_SALOMO_SUSPICTION_CONCLUSION	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Соломон говорит, что я должен искать яд, которым был убит Грон. Там, где были люди которые выступали против него. Хм... Может быть, я должен начать думать о тех, кто не хотел платить налоги... В том числе и их окружение...	Ńîëîěîí ăîâîđčň, ÷ňî ˙ äîëćĺí čńęŕňü ˙ä, ęîňîđűě áűë óáčň Ăđîí. Ňŕě, ăäĺ áűëč ëţäč ęîňîđűĺ âűńňóďŕëč ďđîňčâ íĺăî. Hmm... Ěîćĺň áűňü, ˙ äîëćĺí íŕ÷ŕňü äóěŕňü î ňĺő, ęňî íĺ őîňĺë ďëŕňčňü íŕëîăč... Â ňîě ÷čńëĺ č čő îęđóćĺíčĺ...
+65730	-1	58260	DIA_EX_SALOMO_SUSPICTION_HAKO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_suspiction_hako_15_00"")"	SUBTITLE	Хако сразу начал работать в кузне Грона, после его смерти, и вообще недолюбливал его.	Őŕęî ńđŕçó íŕ÷ŕë đŕáîňŕňü â ęóçíĺ Ăđîíŕ, ďîńëĺ ĺăî ńěĺđňč, č âîîáůĺ íĺäîëţáëčâŕë ĺăî.
+65731	-1	58260	DIA_EX_SALOMO_SUSPICTION_HAKO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_suspiction_hako_15_01"")"	SUBTITLE	Однако, он был в таверне в это время.	Îäíŕęî, îí áűë â ňŕâĺđíĺ â ýňî âđĺě˙.
+65732	2842	206410	DIA_EX_SALOMO_SUSPICTION_HAKO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я рассказал Соломону о враждебности Хако к Грону. Видимо, это его не убедило. Чтобы убедить Соломона, мне понадобятся веские доказательства.	ß đŕńńęŕçŕë Ńîëîěîíó î âđŕćäĺáíîńňč Őŕęî ę Ăđîíó. Âčäčěî, ýňî ĺăî íĺ óáĺäčëî. ×ňîáű óáĺäčňü Ńîëîěîíŕ, ěíĺ ďîíŕäîá˙ňń˙ âĺńęčĺ äîęŕçŕňĺëüńňâŕ.
+65733	-1	58261	DIA_EX_SALOMO_SUSPICTION_SENTA	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_suspiction_senta_15_00"")"	SUBTITLE	Сента работает с ядом мух и мог отравить Грона.	Ńĺíňŕ đŕáîňŕĺň ń ˙äîě ěóő č ěîă îňđŕâčňü Ăđîíŕ.
+65734	-1	58261	DIA_EX_SALOMO_SUSPICTION_SENTA	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_suspiction_senta_15_01"")"	SUBTITLE	Он также был знаком с Сигги, который был ответственен за первое убийство.	Îí ňŕęćĺ áűë çíŕęîě ń Ńčăăč, ęîňîđűé áűë îňâĺňńňâĺíĺí çŕ ďĺđâîĺ óáčéńňâî.
+65735	-1	58261	DIA_EX_SALOMO_SUSPICTION_SENTA	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_suspiction_senta_10_02"")"	SUBTITLE	Хм, хорошо.	Hmm, w porządku.
+65736	2842	206414	DIA_EX_SALOMO_SUSPICTION_SENTA	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Соломон обратил внимание на то, что Сента работает с ядом, но он не верит, что сам Сента имеет какое-либо отношение к убийству.	Ńîëîěîí îáđŕňčë âíčěŕíčĺ íŕ ňî, ÷ňî Ńĺíňŕ đŕáîňŕĺň ń ˙äîě, íî îí íĺ âĺđčň, ÷ňî ńŕě Ńĺíňŕ čěĺĺň ęŕęîĺ-ëčáî îňíîřĺíčĺ ę óáčéńňâó.
+65737	2842	206415	DIA_EX_SALOMO_FOUNDPOISON	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Я нашел этот странный флакон.	ß íŕřĺë ýňîň ńňđŕííűé ôëŕęîí.
+65738	2842	206416	DIA_EX_SALOMO_FOUNDPOISON_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я дал Соломону флакон, который нашел в сундуке Вайперуса. Он был сразу убежден, что Вайперус и есть убийца. Я и Родос теперь должны пойти к нему и разобраться с ним.	ß äŕë Ńîëîěîíó ôëŕęîí, ęîňîđűé íŕřĺë â ńóíäóęĺ Âŕéďĺđóńŕ. Îí áűë ńđŕçó óáĺćäĺí, ÷ňî Âŕéďĺđóń č ĺńňü óáčéöŕ. ß č Đîäîń ňĺďĺđü äîëćíű ďîéňč ę íĺěó č đŕçîáđŕňüń˙ ń íčě.
+65739	-1	58264	DIA_EX_SALOMO_FOUNDPOISON_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_foundpoison_15_00"")"	SUBTITLE	Я нашел этот странный флакон.	ß íŕřĺë ýňîň ńňđŕííűé ôëŕęîí.
+65740	-1	58264	DIA_EX_SALOMO_FOUNDPOISON_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_foundpoison_15_01"")"	SUBTITLE	Это было в сундуке Вайперуса, охранника Калеро.	Ýňî áűëî â ńóíäóęĺ Âŕéďĺđóńŕ, îőđŕííčęŕ Ęŕëĺđî.
+65741	-1	58264	DIA_EX_SALOMO_FOUNDPOISON_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_foundpoison_10_02"")"	SUBTITLE	Яд. Это был яд.	ßä. Ýňî áűë ˙ä.
+65742	-1	58264	DIA_EX_SALOMO_FOUNDPOISON_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_foundpoison_10_03"")"	SUBTITLE	Успех.	Óńďĺő.
+65743	-1	58264	DIA_EX_SALOMO_FOUNDPOISON_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_foundpoison_10_04"")"	SUBTITLE	Разберись с убийцей.	Đŕçáĺđčńü ń óáčéöĺé.
+65744	-1	58264	DIA_EX_SALOMO_FOUNDPOISON_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_foundpoison_10_05"")"	SUBTITLE	Его смерть должна их напугать.	Ĺăî ńěĺđňü äîëćíŕ čő íŕďóăŕňü.
+65745	2842	206426	DIA_EX_SALOMO_KILLEDMURDERER	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Вайперус мертв.	Âŕéďĺđóń ěĺđňâ.
+65746	-1	58267	DIA_EX_SALOMO_KILLEDMURDERER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_killedmurderer_15_00"")"	SUBTITLE	Вайперус мертв.	Âŕéďĺđóń ěĺđňâ.
+65747	-1	58267	DIA_EX_SALOMO_KILLEDMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_killedmurderer_10_01"")"	SUBTITLE	Я не ожидал ничего другого.	ß íĺ îćčäŕë íč÷ĺăî äđóăîăî.
+65748	-1	58267	DIA_EX_SALOMO_KILLEDMURDERER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_killedmurderer_10_02"")"	SUBTITLE	Надеюсь, теперь все успокоится.	Íŕäĺţńü, ňĺďĺđü âńĺ óńďîęîčňń˙.
+65749	2842	206432	DIA_EX_SALOMO_KILLEDMURDERER_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я рассказал Соломону, что проблема Вайперуса решена кардинально.	ß đŕńńęŕçŕë Ńîëîěîíó, ÷ňî ďđîáëĺěŕ Âŕéďĺđóńŕ đĺřĺíŕ ęŕđäčíŕëüíî.
+65750	2842	206433	DIA_EX_SALOMO_WHATNOW	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Что снова случилось?	×ňî ńíîâŕ ńëó÷čëîńü?
+65751	2842	206434	DIA_EX_SALOMO_WHATNOW_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Это безнадежно. Город погрузится в хаос, если мы скоро не остановим волну убийств! Теперь Адам мертв, а что еще хуже - все золото в его сундуке было украдено. Без золота Соломон и его люди потеряют власть. Я должен поторопиться, сразиться с убийцей и вернуть золото как можно скорее!	Ýňî áĺçíŕäĺćíî. Ăîđîä ďîăđóçčňń˙ â őŕîń, ĺńëč ěű ńęîđî íĺ îńňŕíîâčě âîëíó óáčéńňâ! Ňĺďĺđü Ŕäŕě ěĺđňâ, ŕ ÷ňî ĺůĺ őóćĺ - âńĺ çîëîňî â ĺăî ńóíäóęĺ áűëî óęđŕäĺíî. Áĺç çîëîňŕ Ńîëîěîí č ĺăî ëţäč ďîňĺđ˙ţň âëŕńňü. ß äîëćĺí ďîňîđîďčňüń˙, ńđŕçčňüń˙ ń óáčéöĺé č âĺđíóňü çîëîňî ęŕę ěîćíî ńęîđĺĺ!
+65752	-1	58270	DIA_EX_SALOMO_WHATNOW_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_whatnow_15_00"")"	SUBTITLE	Что снова случилось?	×ňî ńíîâŕ ńëó÷čëîńü?
+65753	-1	58270	DIA_EX_SALOMO_WHATNOW_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_10_01"")"	SUBTITLE	Адам был убит, а все наше золото было украдено..	Ŕäŕě áűë óáčň, ŕ âńĺ íŕřĺ çîëîňî áűëî óęđŕäĺíî..
+65754	-1	58270	DIA_EX_SALOMO_WHATNOW_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_10_02"")"	SUBTITLE	Я не знаю что делать.	ß íĺ çíŕţ ÷ňî äĺëŕňü.
+65755	-1	58270	DIA_EX_SALOMO_WHATNOW_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_10_03"")"	SUBTITLE	Ты моя единственная надежда.	Ňű ěî˙ ĺäčíńňâĺííŕ˙ íŕäĺćäŕ.
+65756	-1	58270	DIA_EX_SALOMO_WHATNOW_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_10_04"")"	SUBTITLE	Иди и найди убийцу! И принеси золото!	Čäč č íŕéäč óáčéöó! Č ďđčíĺńč çîëîňî!
+65757	2842	206440	DIA_EX_SALOMO_WHATNOW_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Что ты знаешь о воре?	×ňî ňű çíŕĺřü î âîđĺ?
+65758	2842	206441	DIA_EX_SALOMO_WHATNOW_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Почему я?	Dlaczego czekałeś na mnie?
+65759	-1	58271	DIA_EX_SALOMO_WHATNOW_ME	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_whatnow_me_15_00"")"	SUBTITLE	Почему я?	Ale dlaczego ja?!
+65760	-1	58271	DIA_EX_SALOMO_WHATNOW_ME	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_me_10_01"")"	SUBTITLE	У меня слишком мало людей.	Ó ěĺí˙ ńëčřęîě ěŕëî ëţäĺé.
+65761	-1	58271	DIA_EX_SALOMO_WHATNOW_ME	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_me_10_02"")"	SUBTITLE	А ты уже несколько раз зарекомендовал себя.	Ŕ ňű óćĺ íĺńęîëüęî đŕç çŕđĺęîěĺíäîâŕë ńĺá˙.
+65762	-1	58271	DIA_EX_SALOMO_WHATNOW_ME	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_me_10_03"")"	SUBTITLE	Обещаю, если тебе удастся поставить наших врагов на место, и получится подавить наших врагов, я приму тебя в качестве почетного члена.	Îáĺůŕţ, ĺńëč ňĺáĺ óäŕńňń˙ ďîńňŕâčňü íŕřčő âđŕăîâ íŕ ěĺńňî, č ďîëó÷čňń˙ ďîäŕâčňü íŕřčő âđŕăîâ, ˙ ďđčěó ňĺá˙ â ęŕ÷ĺńňâĺ ďî÷ĺňíîăî ÷ëĺíŕ.
+65763	-1	58271	DIA_EX_SALOMO_WHATNOW_ME	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_me_10_04"")"	SUBTITLE	Даже если ты работаешь на Фальго..	Äŕćĺ ĺńëč ňű đŕáîňŕĺřü íŕ Ôŕëüăî..
+65764	-1	58271	DIA_EX_SALOMO_WHATNOW_ME	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_me_10_05"")"	SUBTITLE	Как только у нас снова будет власть и золото, ты сможешь идти по улицам как герой.	Ęŕę ňîëüęî ó íŕń ńíîâŕ áóäĺň âëŕńňü č çîëîňî, ňű ńěîćĺřü čäňč ďî óëčöŕě ęŕę ăĺđîé.
+65765	-1	58271	DIA_EX_SALOMO_WHATNOW_ME	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_me_10_06"")"	SUBTITLE	Но сейчас нам нужно помочь.	Íî ńĺé÷ŕń íŕě íóćíî ďîěî÷ü.
+65766	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_whatnow_know_15_00"")"	SUBTITLE	Что ты знаешь о воре?	×ňî ňű çíŕĺřü î âîđĺ?
+65767	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_01"")"	SUBTITLE	Судя по ранам Адама, у него одноручный топор.	Ńóä˙ ďî đŕíŕě Ŕäŕěŕ, ó íĺăî îäíîđó÷íűé ňîďîđ.
+65768	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_02"")"	SUBTITLE	А так же были с собой отмычки.	Ŕ ňŕę ćĺ áűëč ń ńîáîé îňěű÷ęč.
+65769	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_03"")"	SUBTITLE	Возьми этот указ.	Âîçüěč ýňîň óęŕç.
+65770	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_04"")"	SUBTITLE	Он даст тебе право обыскивать каждого подозреваемого и напасть на него, если он этого не допустит.	Îí äŕńň ňĺáĺ ďđŕâî îáűńęčâŕňü ęŕćäîăî ďîäîçđĺâŕĺěîăî č íŕďŕńňü íŕ íĺăî, ĺńëč îí ýňîăî íĺ äîďóńňčň.
+65771	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_05"")"	SUBTITLE	Поэтому ищи у каждого владельца топора отмычки.	Ďîýňîěó čůč ó ęŕćäîăî âëŕäĺëüöŕ ňîďîđŕ îňěű÷ęč.
+65772	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_06"")"	SUBTITLE	Если найдешь вора, то, выясни где находится золото, и принеси его обратно.	Ĺńëč íŕéäĺřü âîđŕ, ňî, âű˙ńíč ăäĺ íŕőîäčňń˙ çîëîňî, č ďđčíĺńč ĺăî îáđŕňíî.
+65773	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_07"")"	SUBTITLE	А с вором поступи так, как считаешь нужным.	Ŕ ń âîđîě ďîńňóďč ňŕę, ęŕę ń÷čňŕĺřü íóćíűě.
+65774	-1	58272	DIA_EX_SALOMO_WHATNOW_KNOW	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_whatnow_know_10_08"")"	SUBTITLE	Хотя было бы лучше, если бы ты принес его голову.	Őîň˙ áűëî áű ëó÷řĺ, ĺńëč áű ňű ďđčíĺń ĺăî ăîëîâó.
+65775	2842	206458	DIA_EX_SALOMO_WHATNOW_KNOW	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Убийца носит одноручный топор и использовал отмычки для взлома сундука Адама. Поэтому я должен осмотреть каждого владельца топора в городе на предмет отмычек. Если я найду убийцу, Соломон хочет, чтобы я принес его голову.	Óáčéöŕ íîńčň îäíîđó÷íűé ňîďîđ č čńďîëüçîâŕë îňěű÷ęč äë˙ âçëîěŕ ńóíäóęŕ Ŕäŕěŕ. Ďîýňîěó ˙ äîëćĺí îńěîňđĺňü ęŕćäîăî âëŕäĺëüöŕ ňîďîđŕ â ăîđîäĺ íŕ ďđĺäěĺň îňěű÷ĺę. Ĺńëč ˙ íŕéäó óáčéöó, Ńîëîěîí őî÷ĺň, ÷ňîáű ˙ ďđčíĺń ĺăî ăîëîâó.
+65776	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_00"")"	SUBTITLE	Ах, вот и ты.	Ŕő, âîň č ňű.
+65777	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_lasttask_15_01"")"	SUBTITLE	Что произошло?	Co się stało?
+65778	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_lasttask_15_02"")"	SUBTITLE	Фальго мертв!	Ôŕëüăî ěĺđňâ!
+65779	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_03"")"	SUBTITLE	Да...	Tak...
+65780	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_04"")"	SUBTITLE	Мы потерпели неудачу.	Ěű ďîňĺđďĺëč íĺóäŕ÷ó.
+65781	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_05"")"	SUBTITLE	Жаль.	Wielka szkoda.
+65782	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_06"")"	SUBTITLE	Это неизбежно.	Ýňî íĺčçáĺćíî.
+65783	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_07"")"	SUBTITLE	Нам нужно уходить, мы больше не можем поддерживать безопасность в поселке.	Íŕě íóćíî óőîäčňü, ěű áîëüřĺ íĺ ěîćĺě ďîääĺđćčâŕňü áĺçîďŕńíîńňü â ďîńĺëęĺ.
+65784	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_08"")"	SUBTITLE	Возьми это письмо и проследи, чтобы посланник Ирода, начальника теневого мира, получил его.	Âîçüěč ýňî ďčńüěî č ďđîńëĺäč, ÷ňîáű ďîńëŕííčę Čđîäŕ, íŕ÷ŕëüíčęŕ ňĺíĺâîăî ěčđŕ, ďîëó÷čë ĺăî.
+65785	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_09"")"	SUBTITLE	Ты найдешь посланника в лагере возле входа в Лощину.	Ňű íŕéäĺřü ďîńëŕííčęŕ â ëŕăĺđĺ âîçëĺ âőîäŕ â Ëîůčíó.
+65786	2842	206470	DIA_EX_SALOMO_LASTTASK_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я выполнил 6 заданий Соломона.	ß âűďîëíčë 6 çŕäŕíčé Ńîëîěîíŕ.
+65787	2842	206471	DIA_EX_SALOMO_LASTTASK_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Я выполнил 4 задания Соломона.	ß âűďîëíčë 4 çŕäŕíč˙ Ńîëîěîíŕ.
+65788	2842	206472	DIA_EX_SALOMO_LASTTASK_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Соломон дал мне задание доставить письмо в лагерь у входа в Лощину. Видимо он решил сдаться. Как говорится, сегодня ты большой человек, а завтра никто...	Ńîëîěîí äŕë ěíĺ çŕäŕíčĺ äîńňŕâčňü ďčńüěî â ëŕăĺđü ó âőîäŕ â Ëîůčíó. Âčäčěî îí đĺřčë ńäŕňüń˙. Ęŕę ăîâîđčňń˙, ńĺăîäí˙ ňű áîëüřîé ÷ĺëîâĺę, ŕ çŕâňđŕ íčęňî...
+65789	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_lasttask_15_09"")"	SUBTITLE	Мне нужно будет пройти с ним?	Ěíĺ íóćíî áóäĺň ďđîéňč ń íčě?
+65790	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_10"")"	SUBTITLE	Нет, просто передай письмо для Ирода.	Íĺň, ďđîńňî ďĺđĺäŕé ďčńüěî äë˙ Čđîäŕ.
+65791	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_11"")"	SUBTITLE	Иди к Родосу, все остальное скажет он.	Čäč ę Đîäîńó, âńĺ îńňŕëüíîĺ ńęŕćĺň îí.
+65792	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_lasttask_15_12"")"	SUBTITLE	Так ты хочешь сдаться?	Ňŕę ňű őî÷ĺřü ńäŕňüń˙?
+65793	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_lasttask_15_13"")"	SUBTITLE	Не слишком ли рано?	Íĺ ńëčřęîě ëč đŕíî?
+65794	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_14"")"	SUBTITLE	Слишком поздно.	Późno już.
+65795	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_15"")"	SUBTITLE	Уже погибло много людей.	Óćĺ ďîăčáëî ěíîăî ëţäĺé.
+65796	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_lasttask_15_16"")"	SUBTITLE	Но...	Ale...
+65797	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_17"")"	SUBTITLE	Успокойся.	Óńďîęîéń˙.
+65798	-1	58275	DIA_EX_SALOMO_LASTTASK_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_lasttask_10_18"")"	SUBTITLE	Это правильное решение...	Ýňî ďđŕâčëüíîĺ đĺřĺíčĺ...
+65799	-1	58278	DIA_EX_SALOMO_FAKEGANDALF_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_fakegandalf_10_00"")"	SUBTITLE	Беги, дурак.	Áĺăč, äóđŕę.
+65800	2842	206484	DIA_EX_SALOMO_TAXES	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Давид прислал меня.	Äŕâčä ďđčńëŕë ěĺí˙.
+65801	-1	58281	DIA_EX_SALOMO_TAXES_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_taxes_15_00"")"	SUBTITLE	Давид прислал меня.	Äŕâčä ďđčńëŕë ěĺí˙.
+65802	-1	58281	DIA_EX_SALOMO_TAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_taxes_10_01"")"	SUBTITLE	Да? Тогда ты выполнил свое задание. Хорошо хорошо.	Tak? Ňîăäŕ ňű âűďîëíčë ńâîĺ çŕäŕíčĺ. Őîđîřî őîđîřî.
+65803	-1	58281	DIA_EX_SALOMO_TAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_taxes_10_02"")"	SUBTITLE	Мы вознаградим тебя.	Ěű âîçíŕăđŕäčě ňĺá˙.
+65804	-1	58281	DIA_EX_SALOMO_TAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_taxes_10_03"")"	SUBTITLE	Отправляйся к Родосу, он уже знает. И даст тебе награду.	Îňďđŕâë˙éń˙ ę Đîäîńó, îí óćĺ çíŕĺň. Č äŕńň ňĺáĺ íŕăđŕäó.
+65805	-1	58281	DIA_EX_SALOMO_TAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_taxes_10_04"")"	SUBTITLE	Возвращайся ко мне позже.	Âîçâđŕůŕéń˙ ęî ěíĺ ďîçćĺ.
+65806	-1	58284	DIA_EX_SALOMO_PRENEXTQUEST_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_prenextquest_10_00"")"	SUBTITLE	Как видишь, мы не скупы.	Ęŕę âčäčřü, ěű íĺ ńęóďű.
+65807	2842	206491	DIA_EX_SALOMO_PRENEXTQUEST_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	К чему ты клонишь?	Jaki jest twój cel?
+65808	2842	206492	DIA_EX_SALOMO_PRENEXTQUEST_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Вижу, что нет.	Âčćó, ÷ňî íĺň.
+65809	-1	58285	B_SALOMO_NEXT_TASK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_prenextquest_task_10_00"")"	SUBTITLE	У меня есть другое задание и надеюсь, что я могу рассчитывать на тебя.	Ó ěĺí˙ ĺńňü äđóăîĺ çŕäŕíčĺ č íŕäĺţńü, ÷ňî ˙ ěîăó đŕńń÷čňűâŕňü íŕ ňĺá˙.
+65810	-1	58286	DIA_EX_SALOMO_PRENEXTQUEST_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_prenextquest_what_15_00"")"	SUBTITLE	К чему ты клонишь?	O czym ty mówisz?
+65811	-1	58287	DIA_EX_SALOMO_PRENEXTQUEST_COOL	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_prenextquest_cool_15_00"")"	SUBTITLE	Вижу, что нет.	Âčćó, ÷ňî íĺň.
+65812	-1	58287	DIA_EX_SALOMO_PRENEXTQUEST_COOL	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_prenextquest_cool_15_01"")"	SUBTITLE	Я никогда не думал, что получу награду за такую мелочь.	ß íčęîăäŕ íĺ äóěŕë, ÷ňî ďîëó÷ó íŕăđŕäó çŕ ňŕęóţ ěĺëî÷ü.
+65813	-1	58287	DIA_EX_SALOMO_PRENEXTQUEST_COOL	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_prenextquest_cool_10_02"")"	SUBTITLE	Не называй это мелочью. А теперь послушай:	Íĺ íŕçűâŕé ýňî ěĺëî÷üţ. Ŕ ňĺďĺđü ďîńëóřŕé:
+65814	2842	206498	DIA_EX_SALOMO_NEXTQUEST	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Что это за задание?	Co to za zadanie?
+65815	-1	58290	DIA_EX_SALOMO_NEXTQUEST_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_nextquest_15_00"")"	SUBTITLE	Что это за задание?	Co to za zadanie?
+65816	-1	58290	DIA_EX_SALOMO_NEXTQUEST_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_10_01"")"	SUBTITLE	Как ты знаешь, наш район и долина Вальдуса совсем не друзья.	Ęŕę ňű çíŕĺřü, íŕř đŕéîí č äîëčíŕ Âŕëüäóńŕ ńîâńĺě íĺ äđóçü˙.
+65817	-1	58290	DIA_EX_SALOMO_NEXTQUEST_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_10_02"")"	SUBTITLE	А теперь один из ополченцев из донжона расхаживает перед нашим входом и разговаривает с честными гражданами, проходящими мимо.	Ŕ ňĺďĺđü îäčí čç îďîë÷ĺíöĺâ čç äîíćîíŕ đŕńőŕćčâŕĺň ďĺđĺä íŕřčě âőîäîě č đŕçăîâŕđčâŕĺň ń ÷ĺńňíűěč ăđŕćäŕíŕěč, ďđîőîä˙ůčěč ěčěî.
+65818	2842	206502	DIA_EX_SALOMO_NEXTQUEST_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Что я должен делать?	Co powinienem zrobić?
+65819	2842	206503	DIA_EX_SALOMO_NEXTQUEST_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	И в чем проблема?	A jaki jest problem?
+65820	-1	58291	DIA_EX_SALOMO_NEXTQUEST_PROBLEM	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_nextquest_problem_15_00"")"	SUBTITLE	И в чем проблема?	A jaki jest problem?
+65821	-1	58291	DIA_EX_SALOMO_NEXTQUEST_PROBLEM	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_problem_10_01"")"	SUBTITLE	Снаружи долины есть силы, которые хотят получить контроль над поселком. Стоящие за спиной властей люди продажны и хитры.	Ńíŕđóćč äîëčíű ĺńňü ńčëű, ęîňîđűĺ őîň˙ň ďîëó÷čňü ęîíňđîëü íŕä ďîńĺëęîě. Ńňî˙ůčĺ çŕ ńďčíîé âëŕńňĺé ëţäč ďđîäŕćíű č őčňđű.
+65822	-1	58291	DIA_EX_SALOMO_NEXTQUEST_PROBLEM	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_problem_10_02"")"	SUBTITLE	Они не отправят сюда парня без причины.	Îíč íĺ îňďđŕâ˙ň ńţäŕ ďŕđí˙ áĺç ďđč÷číű.
+65823	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_nextquest_what_15_00"")"	SUBTITLE	Что я должен делать?	Co powinienem zrobić?
+65824	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_what_10_01"")"	SUBTITLE	Узнай, чем он занят и сделай так, чтобы он ушел.	Óçíŕé, ÷ĺě îí çŕí˙ň č ńäĺëŕé ňŕę, ÷ňîáű îí óřĺë.
+65825	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_nextquest_what_15_02"")"	SUBTITLE	Добровольно я думаю он не уйдет.	Äîáđîâîëüíî ˙ äóěŕţ îí íĺ óéäĺň.
+65826	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_what_10_03"")"	SUBTITLE	Но не используй оружие.	Íî íĺ čńďîëüçóé îđóćčĺ.
+65827	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_nextquest_what_15_04"")"	SUBTITLE	Почему?	Dlaczego?
+65828	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_what_10_05"")"	SUBTITLE	У тебя не будет шансов против него. К тому же при смерти парня в доспехах ополчения мы развяжем им руки, и они открыто смогут выступить против нас.	Ó ňĺá˙ íĺ áóäĺň řŕíńîâ ďđîňčâ íĺăî. Ę ňîěó ćĺ ďđč ńěĺđňč ďŕđí˙ â äîńďĺőŕő îďîë÷ĺíč˙ ěű đŕçâ˙ćĺě čě đóęč, č îíč îňęđűňî ńěîăóň âűńňóďčňü ďđîňčâ íŕń.
+65829	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_what_10_06"")"	SUBTITLE	Мы не можем позволить себе еще больше напряженности между нами.	Ěű íĺ ěîćĺě ďîçâîëčňü ńĺáĺ ĺůĺ áîëüřĺ íŕďđ˙ćĺííîńňč ěĺćäó íŕěč.
+65830	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_what_10_07"")"	SUBTITLE	Вернись, если появится новости.	Âĺđíčńü, ĺńëč ďî˙âčňń˙ íîâîńňč.
+65831	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_nextquest_what_15_08"")"	SUBTITLE	А что если у меня не получится?	Ŕ ÷ňî ĺńëč ó ěĺí˙ íĺ ďîëó÷čňń˙?
+65832	-1	58292	DIA_EX_SALOMO_NEXTQUEST_WHAT	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_nextquest_what_10_09"")"	SUBTITLE	Ну, тогда ты не сможешь работать на нас.	Íó, ňîăäŕ ňű íĺ ńěîćĺřü đŕáîňŕňü íŕ íŕń.
+65833	2842	206517	DIA_EX_SALOMO_NEXTQUEST_WHAT	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Ополченец из Вальдуса гуляет перед поселком. Соломон считает подозрительным, и я должен выяснить, что парень делает там, и убедиться, что он уйдет как можно быстрее.	Îďîë÷ĺíĺö čç Âŕëüäóńŕ ăóë˙ĺň ďĺđĺä ďîńĺëęîě. Ńîëîěîí ń÷čňŕĺň ďîäîçđčňĺëüíűě, č ˙ äîëćĺí âű˙ńíčňü, ÷ňî ďŕđĺíü äĺëŕĺň ňŕě, č óáĺäčňüń˙, ÷ňî îí óéäĺň ęŕę ěîćíî áűńňđĺĺ.
+65834	2842	206519	DIA_EX_SALOMO_REINFALL	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Тот парень больше не представляет опасности.	Ňîň ďŕđĺíü áîëüřĺ íĺ ďđĺäńňŕâë˙ĺň îďŕńíîńňč.
+65835	-1	58295	DIA_EX_SALOMO_REINFALL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_reinfall_what_15_00"")"	SUBTITLE	Тот парень больше не представляет опасности.	Ňîň ďŕđĺíü áîëüřĺ íĺ ďđĺäńňŕâë˙ĺň îďŕńíîńňč.
+65836	-1	58295	DIA_EX_SALOMO_REINFALL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_reinfall_what_10_01"")"	SUBTITLE	А? Почему?	No i? Dlaczego?
+65837	-1	58295	DIA_EX_SALOMO_REINFALL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_reinfall_what_15_02"")"	SUBTITLE	Он просто бродил по долине, потому что хотел найти болотную травку.	Îí ďđîńňî áđîäčë ďî äîëčíĺ, ďîňîěó ÷ňî őîňĺë íŕéňč áîëîňíóţ ňđŕâęó.
+65838	-1	58295	DIA_EX_SALOMO_REINFALL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_reinfall_what_10_03"")"	SUBTITLE	Ох... Ясно.	Och, to niedobrze... Jasne.
+65839	-1	58295	DIA_EX_SALOMO_REINFALL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_reinfall_what_10_04"")"	SUBTITLE	Извини, ну... Наверное, я погорячился.	Čçâčíč, íó... Íŕâĺđíîĺ, ˙ ďîăîđ˙÷čëń˙.
+65840	-1	58295	DIA_EX_SALOMO_REINFALL_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Salomo_reinfall_what_15_05"")"	SUBTITLE	Есть такое.	Ĺńňü ňŕęîĺ.
+65841	-1	58295	DIA_EX_SALOMO_REINFALL_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Salomo_reinfall_what_10_06"")"	SUBTITLE	Не зацикливайся на этом. Каждый может ошибаться, верно? Я надеюсь, что ты не приложил слишком много усилий, что выяснить это.	Íĺ çŕöčęëčâŕéń˙ íŕ ýňîě. Ęŕćäűé ěîćĺň îřčáŕňüń˙, âĺđíî? ß íŕäĺţńü, ÷ňî ňű íĺ ďđčëîćčë ńëčřęîě ěíîăî óńčëčé, ÷ňî âű˙ńíčňü ýňî.
+65842	2842	206527	DIA_EX_SALOMO_REINFALL_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Соломон понял, что его догадки были необоснованными. Ему было явно неловко.	Ńîëîěîí ďîí˙ë, ÷ňî ĺăî äîăŕäęč áűëč íĺîáîńíîâŕííűěč. Ĺěó áűëî ˙âíî íĺëîâęî.
+65843	-1	58296	B_SAY_SALOMO_PM_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PM_Gold_08_00"")"	SUBTITLE	1000 золотых!	1000 çîëîňűő!
+65844	-1	58296	B_SAY_SALOMO_PM_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PM_Gold_08_01"")"	SUBTITLE	800 золотых!	800 çîëîňűő!
+65845	-1	58296	B_SAY_SALOMO_PM_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PM_Gold_08_02"")"	SUBTITLE	500 золотых!	500 çîëîňűő!
+65846	-1	58296	B_SAY_SALOMO_PM_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PM_Gold_08_03"")"	SUBTITLE	200 золотых!	200 çîëîňűő!
+65847	-1	58296	B_SAY_SALOMO_PM_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PM_Gold_08_04"")"	SUBTITLE	100 золотых!	100 çîëîňűő!
+65848	-1	58296	B_SAY_SALOMO_PM_GOLD	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PM_Gold_08_05"")"	SUBTITLE	50 золотых!	50 çîëîňűő!
+65849	-1	58300	DIA_SALOMO_PMSCHULDEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PMSchulden_08_00"")"	SUBTITLE	Ты пришел заплатить штраф?	Przyszedłeś zapłacić grzywnę?
+65850	-1	58300	DIA_SALOMO_PMSCHULDEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PMSchulden_08_01"")"	SUBTITLE	Мне сказали, что ты виновен в большем!	Ěíĺ ńęŕçŕëč, ÷ňî ňű âčíîâĺí â áîëüřĺě!
+65851	-1	58300	DIA_SALOMO_PMSCHULDEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PMSchulden_08_02"")"	SUBTITLE	Вы должны заплатить больше!	Âű äîëćíű çŕďëŕňčňü áîëüřĺ!
+65852	-1	58300	DIA_SALOMO_PMSCHULDEN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_Salomo_PMSchulden_15_03"")"	SUBTITLE	Сколько?	Ile?
+65853	-1	58300	DIA_SALOMO_PMSCHULDEN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PMSchulden_08_04"")"	SUBTITLE	Ты меня сильно разочаровал!	Ňű ěĺí˙ ńčëüíî đŕçî÷ŕđîâŕë!
+65854	2842	206540	DIA_SALOMO_PMSCHULDEN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Мне не хватает золота!	Ěíĺ íĺ őâŕňŕĺň çîëîňŕ!
+65855	2842	206541	DIA_SALOMO_PMSCHULDEN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Еще раз, сколько?	Ĺůĺ đŕç, ńęîëüęî?
+65856	2842	206542	DIA_SALOMO_PMSCHULDEN_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я хочу заплатить штраф.	Chcę zapłacić grzywnę.
+65857	-1	58302	DIA_SALOMO_PMSCHULDEN_HOWMUCHAGAIN	"AI_OUTPUT(OTHER,SELF,""DIA_Salomo_PMSchulden_HowMuchAgain_15_00"")"	SUBTITLE	Еще раз, сколько?	Ĺůĺ đŕç, ńęîëüęî?
+65858	2842	206544	DIA_SALOMO_PMSCHULDEN_HOWMUCHAGAIN	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Мне не хватает золота!	Ěíĺ íĺ őâŕňŕĺň çîëîňŕ!
+65859	2842	206545	DIA_SALOMO_PMSCHULDEN_HOWMUCHAGAIN	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Еще раз, сколько?	Ĺůĺ đŕç, ńęîëüęî?
+65860	2842	206546	DIA_SALOMO_PMSCHULDEN_HOWMUCHAGAIN	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Я хочу заплатить штраф.	Chcę zapłacić grzywnę.
+65861	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_00"")"	SUBTITLE	Ты тот самый новенький, который нарушил закон.	Ňű ňîň ńŕěűé íîâĺíüęčé, ęîňîđűé íŕđóřčë çŕęîí.
+65862	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_01"")"	SUBTITLE	О, Иннос! Ты убил человека! Ты хоть знаешь, что натворил?!	Î, Čííîń! Ňű óáčë ÷ĺëîâĺęŕ! Ňű őîňü çíŕĺřü, ÷ňî íŕňâîđčë?!
+65863	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_02"")"	SUBTITLE	Что сейчас с тобой делать?	×ňî ńĺé÷ŕń ń ňîáîé äĺëŕňü?
+65864	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_03"")"	SUBTITLE	Но Иннос знает, что ты достаточно пережил за последнее время. Я снова помилую, верно!	Íî Čííîń çíŕĺň, ÷ňî ňű äîńňŕňî÷íî ďĺđĺćčë çŕ ďîńëĺäíĺĺ âđĺě˙. ß ńíîâŕ ďîěčëóţ, âĺđíî!
+65865	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_04"")"	SUBTITLE	Ты можешь быть рад, что ты ученик Фальго, я бы позволил всем повторить его справедливое наказание!	Ňű ěîćĺřü áűňü đŕä, ÷ňî ňű ó÷ĺíčę Ôŕëüăî, ˙ áű ďîçâîëčë âńĺě ďîâňîđčňü ĺăî ńďđŕâĺäëčâîĺ íŕęŕçŕíčĺ!
+65866	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_05"")"	SUBTITLE	Но тебе не избежать большого штрафа!	Íî ňĺáĺ íĺ čçáĺćŕňü áîëüřîăî řňđŕôŕ!
+65867	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_06"")"	SUBTITLE	Тебя обвиняют в краже! Есть свидетели!	Ňĺá˙ îáâčí˙ţň â ęđŕćĺ! Ĺńňü ńâčäĺňĺëč!
+65868	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_07"")"	SUBTITLE	Я даже не хочу говорить о других вещах, которые слышал!	ß äŕćĺ íĺ őî÷ó ăîâîđčňü î äđóăčő âĺůŕő, ęîňîđűĺ ńëűřŕë!
+65869	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_08"")"	SUBTITLE	Ты должен заплатить за такое поведение штраф!	Ňű äîëćĺí çŕďëŕňčňü çŕ ňŕęîĺ ďîâĺäĺíčĺ řňđŕô!
+65870	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_09"")"	SUBTITLE	Иннос знает, что ты достаточно сражаться в лесу! Но если ты избиваешь честных граждан, то должен заплатить за это!	Čííîń çíŕĺň, ÷ňî ňű äîńňŕňî÷íî ńđŕćŕňüń˙ â ëĺńó! Íî ĺńëč ňű čçáčâŕĺřü ÷ĺńňíűő ăđŕćäŕí, ňî äîëćĺí çŕďëŕňčňü çŕ ýňî!
+65871	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_10"")"	SUBTITLE	Мы не здесь, в чертовых казармах, где каждый делает то, что хочет!	Ěű íĺ çäĺńü, â ÷ĺđňîâűő ęŕçŕđěŕő, ăäĺ ęŕćäűé äĺëŕĺň ňî, ÷ňî őî÷ĺň!
+65872	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_08_11"")"	SUBTITLE	Но, думаю, если ты заплатишь разумный штраф, люди снова успокоятся.	Íî, äóěŕţ, ĺńëč ňű çŕďëŕňčřü đŕçóěíűé řňđŕô, ëţäč ńíîâŕ óńďîęî˙ňń˙.
+65873	-1	58305	DIA_SALOMO_PETZMASTER_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_Salomo_PETZMASTER_15_12"")"	SUBTITLE	Сколько?	Ile?
+65874	2842	206560	DIA_SALOMO_PETZMASTER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Мне не хватает золота.	Ěíĺ íĺ őâŕňŕĺň çîëîňŕ.
+65875	2842	206561	DIA_SALOMO_PETZMASTER_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Хорошо. Я хочу заплатить штраф.	Dobrze. Chcę zapłacić grzywnę.
+65876	-1	58306	DIA_SALOMO_PETZMASTER_PAYNOW	"AI_OUTPUT(OTHER,SELF,""DIA_Salomo_PETZMASTER_PayNow_15_00"")"	SUBTITLE	Хорошо. Я хочу заплатить штраф.	Dobrze. Chcę zapłacić grzywnę!
+65877	-1	58306	DIA_SALOMO_PETZMASTER_PAYNOW	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_PayNow_08_01"")"	SUBTITLE	Я дам людям знать в поселении. Если повезет, я смогу восстановить твою репутацию в некоторой степени!	ß äŕě ëţä˙ě çíŕňü â ďîńĺëĺíčč. Ĺńëč ďîâĺçĺň, ˙ ńěîăó âîńńňŕíîâčňü ňâîţ đĺďóňŕöčţ â íĺęîňîđîé ńňĺďĺíč!
+65878	-1	58307	DIA_SALOMO_PETZMASTER_PAYLATER	"AI_OUTPUT(OTHER,SELF,""DIA_Salomo_PETZMASTER_PayLater_15_00"")"	SUBTITLE	Мне не хватает золота.	Ěíĺ íĺ őâŕňŕĺň çîëîňŕ.
+65879	-1	58307	DIA_SALOMO_PETZMASTER_PAYLATER	"AI_OUTPUT(SELF,OTHER,""DIA_Salomo_PETZMASTER_PayLater_08_01"")"	SUBTITLE	Пускай это будет для тебя уроком! Поддержание репутации должно быть в твоих интересах!	Ďóńęŕé ýňî áóäĺň äë˙ ňĺá˙ óđîęîě! Ďîääĺđćŕíčĺ đĺďóňŕöčč äîëćíî áűňü â ňâîčő číňĺđĺńŕő!
+65880	2842	206576	B_SALOMOLEAVES	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Родос, Джонс, Давид, Амон и Исаак готовы сбежать к рыцарям Меренса.	Đîäîń, Äćîíń, Äŕâčä, Ŕěîí č Čńŕŕę ăîňîâű ńáĺćŕňü ę đűöŕđ˙ě Ěĺđĺíńŕ.
+65881	2842	206577	B_SALOMOLEAVES	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	После побега прислужников Соломона, все цели убийц в поселке достигнуты.	Ďîńëĺ ďîáĺăŕ ďđčńëóćíčęîâ Ńîëîěîíŕ, âńĺ öĺëč óáčéö â ďîńĺëęĺ äîńňčăíóňű.
+65882	2842	206578	B_SALOMOLEAVES	B_FAILMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Прислужники Соломона решили бежать. Смерть Фальго не будет отомщена никогда.	Ďđčńëóćíčęč Ńîëîěîíŕ đĺřčëč áĺćŕňü. Ńěĺđňü Ôŕëüăî íĺ áóäĺň îňîěůĺíŕ íčęîăäŕ.
+65883	2842	206579	NONE_5043_SPIRIT_START	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Приветствую тебя, дух!	Ďđčâĺňńňâóţ ňĺá˙, äóő!
+65884	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_START_Info_15_01"")"	SUBTITLE	Приветствую тебя, дух!	Ďđčâĺňńňâóţ ňĺá˙, äóő!
+65885	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_START_Info_05_02"")"	SUBTITLE	О-о, человек видит меня. Человек хочет пообщаться?	Î-î, ÷ĺëîâĺę âčäčň ěĺí˙. ×ĺëîâĺę őî÷ĺň ďîîáůŕňüń˙?
+65886	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_START_Info_15_03"")"	SUBTITLE	Да. Я хочу убедить тебя, что твое пребывание в мире живых – ошибка.	Tak. ß őî÷ó óáĺäčňü ňĺá˙, ÷ňî ňâîĺ ďđĺáűâŕíčĺ â ěčđĺ ćčâűő – îřčáęŕ.
+65887	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_START_Info_05_04"")"	SUBTITLE	Да как ты смеешь! У меня есть цель – я должен завершить дело своей жизни.	Äŕ ęŕę ňű ńěĺĺřü! Ó ěĺí˙ ĺńňü öĺëü – ˙ äîëćĺí çŕâĺđřčňü äĺëî ńâîĺé ćčçíč.
+65888	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_START_Info_15_05"")"	SUBTITLE	Это ты так думаешь.	Ýňî ňű ňŕę äóěŕĺřü.
+65889	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_START_Info_15_06"")"	SUBTITLE	Со дня твоей гибели прошло много времени.	Ńî äí˙ ňâîĺé ăčáĺëč ďđîřëî ěíîăî âđĺěĺíč.
+65890	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_START_Info_05_07"")"	SUBTITLE	Нет! Я, я должен вспомнить и сделать! Слышишь, человек?	Nie! ß, ˙ äîëćĺí âńďîěíčňü č ńäĺëŕňü! Ńëűřčřü, ÷ĺëîâĺę?
+65891	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_START_Info_05_08"")"	SUBTITLE	Не смей говорить о том, о чем понятия не имеешь, не смей говорить о смерти!	Íĺ ńěĺé ăîâîđčňü î ňîě, î ÷ĺě ďîí˙ňč˙ íĺ čěĺĺřü, íĺ ńěĺé ăîâîđčňü î ńěĺđňč!
+65892	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_START_Info_15_09"")"	SUBTITLE	Я, конечно же, ни разу не умирал, но зато сам отнял жизни многих. Так что в смерти я кое-что да понимаю.	ß, ęîíĺ÷íî ćĺ, íč đŕçó íĺ óěčđŕë, íî çŕňî ńŕě îňí˙ë ćčçíč ěíîăčő. Ňŕę ÷ňî â ńěĺđňč ˙ ęîĺ-÷ňî äŕ ďîíčěŕţ.
+65893	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_START_Info_05_12"")"	SUBTITLE	Если мое пребывание не оправдано целью, то я не должен здесь находиться. Но я не могу. Мне нужно вспомнить.	Ĺńëč ěîĺ ďđĺáűâŕíčĺ íĺ îďđŕâäŕíî öĺëüţ, ňî ˙ íĺ äîëćĺí çäĺńü íŕőîäčňüń˙. Íî ˙ íĺ ěîăó. Ěíĺ íóćíî âńďîěíčňü.
+65894	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_START_Info_15_13"")"	SUBTITLE	Если у тебя остались вопросы, я могу дать тебе на них ответы, и ты сможешь спокойно уйти.	Ĺńëč ó ňĺá˙ îńňŕëčńü âîďđîńű, ˙ ěîăó äŕňü ňĺáĺ íŕ íčő îňâĺňű, č ňű ńěîćĺřü ńďîęîéíî óéňč.
+65895	-1	58311	NONE_5043_SPIRIT_START_INFO	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_START_Info_05_14"")"	SUBTITLE	Верно! Человек разгадает мои загадки!	Dokładnie! ×ĺëîâĺę đŕçăŕäŕĺň ěîč çŕăŕäęč!
+65896	2842	206592	NONE_5043_SPIRIT_START_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я призвал призрака. Теперь нужно ответить на его вопросы.	ß ďđčçâŕë ďđčçđŕęŕ. Ňĺďĺđü íóćíî îňâĺňčňü íŕ ĺăî âîďđîńű.
+65897	2842	206593	NONE_5043_SPIRIT_QUESTION	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Загадывай свои загадки.	Çŕăŕäűâŕé ńâîč çŕăŕäęč.
+65898	-1	58314	NONE_5043_SPIRIT_QUESTION_INFO	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_Info_15_01"")"	SUBTITLE	Загадывай свои загадки.	Çŕăŕäűâŕé ńâîč çŕăŕäęč.
+65899	-1	58314	NONE_5043_SPIRIT_QUESTION_INFO	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_Info_15_02"")"	SUBTITLE	Слушай внимательно, человек. Какой день никогда не наступает?	Ńëóřŕé âíčěŕňĺëüíî, ÷ĺëîâĺę. Ęŕęîé äĺíü íčęîăäŕ íĺ íŕńňóďŕĺň?
+65900	2842	206596	NONE_5043_SPIRIT_QUESTION_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Смертный.	Ńěĺđňíűé.
+65901	2842	206597	NONE_5043_SPIRIT_QUESTION_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Прошлый.	Ďđîřëűé.
+65902	2842	206598	NONE_5043_SPIRIT_QUESTION_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Судный.	Ńóäíűé.
+65903	2842	206599	NONE_5043_SPIRIT_QUESTION_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Завтрашний.	Çŕâňđŕříčé.
+65904	2842	206600	NONE_5043_SPIRIT_QUESTION_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Последний.	Ďîńëĺäíčé.
+65905	-1	58315	NONE_5043_SPIRIT_QUESTION_01	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_03"")"	SUBTITLE	Смертный.	Ńěĺđňíűé.
+65906	-1	58315	NONE_5043_SPIRIT_QUESTION_01	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_04"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65907	-1	58316	NONE_5043_SPIRIT_QUESTION_02	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_05"")"	SUBTITLE	Прошлый.	Ďđîřëűé.
+65908	-1	58316	NONE_5043_SPIRIT_QUESTION_02	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_06"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65909	-1	58317	NONE_5043_SPIRIT_QUESTION_03	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_07"")"	SUBTITLE	Судный.	Ńóäíűé.
+65910	-1	58317	NONE_5043_SPIRIT_QUESTION_03	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_08"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65911	-1	58318	NONE_5043_SPIRIT_QUESTION_05	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_09"")"	SUBTITLE	Последний.	Ďîńëĺäíčé.
+65912	-1	58318	NONE_5043_SPIRIT_QUESTION_05	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_10"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65913	-1	58319	NONE_5043_SPIRIT_QUESTION_04	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_11"")"	SUBTITLE	Завтрашний.	Çŕâňđŕříčé.
+65914	-1	58319	NONE_5043_SPIRIT_QUESTION_04	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_12"")"	SUBTITLE	Что больше всего страшит человека в смерти?	×ňî áîëüřĺ âńĺăî ńňđŕřčň ÷ĺëîâĺęŕ â ńěĺđňč?
+65915	2842	206611	NONE_5043_SPIRIT_QUESTION_04	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Боль.	Áîëü.
+65916	2842	206612	NONE_5043_SPIRIT_QUESTION_04	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Страдания.	Ńňđŕäŕíč˙.
+65917	2842	206613	NONE_5043_SPIRIT_QUESTION_04	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Неизвестность.	Íĺčçâĺńňíîńňü.
+65918	2842	206614	NONE_5043_SPIRIT_QUESTION_04	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Конец.	Ęîíĺö.
+65919	2842	206615	NONE_5043_SPIRIT_QUESTION_04	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Божий суд.	Áîćčé ńóä.
+65920	-1	58320	NONE_5043_SPIRIT_QUESTION_06	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_13"")"	SUBTITLE	Боль.	Áîëü.
+65921	-1	58320	NONE_5043_SPIRIT_QUESTION_06	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_14"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65922	-1	58321	NONE_5043_SPIRIT_QUESTION_07	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_15"")"	SUBTITLE	Страдания.	Ńňđŕäŕíč˙.
+65923	-1	58321	NONE_5043_SPIRIT_QUESTION_07	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_16"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65924	-1	58322	NONE_5043_SPIRIT_QUESTION_09	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_17"")"	SUBTITLE	Конец.	Ęîíĺö.
+65925	-1	58322	NONE_5043_SPIRIT_QUESTION_09	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_18"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65926	-1	58323	NONE_5043_SPIRIT_QUESTION_10	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_19"")"	SUBTITLE	Божий суд.	Áîćčé ńóä.
+65927	-1	58323	NONE_5043_SPIRIT_QUESTION_10	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_20"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65928	-1	58324	NONE_5043_SPIRIT_QUESTION_08	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_21"")"	SUBTITLE	Неизвестность.	Íĺčçâĺńňíîńňü.
+65929	-1	58324	NONE_5043_SPIRIT_QUESTION_08	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_22"")"	SUBTITLE	К чему склонен человек со дня своего рождения?	Ę ÷ĺěó ńęëîíĺí ÷ĺëîâĺę ńî äí˙ ńâîĺăî đîćäĺíč˙?
+65930	2842	206626	NONE_5043_SPIRIT_QUESTION_08	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	К власти.	Ę âëŕńňč.
+65931	2842	206627	NONE_5043_SPIRIT_QUESTION_08	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	К деньгам.	Ę äĺíüăŕě.
+65932	2842	206628	NONE_5043_SPIRIT_QUESTION_08	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	К любви.	Ę ëţáâč.
+65933	2842	206629	NONE_5043_SPIRIT_QUESTION_08	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	К злу.	Ę çëó.
+65934	2842	206630	NONE_5043_SPIRIT_QUESTION_08	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	К приключениям.	Ę ďđčęëţ÷ĺíč˙ě.
+65935	-1	58325	NONE_5043_SPIRIT_QUESTION_11	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_23"")"	SUBTITLE	К власти.	Ę âëŕńňč.
+65936	-1	58325	NONE_5043_SPIRIT_QUESTION_11	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_24"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65937	-1	58326	NONE_5043_SPIRIT_QUESTION_12	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_25"")"	SUBTITLE	К деньгам.	Ę äĺíüăŕě.
+65938	-1	58326	NONE_5043_SPIRIT_QUESTION_12	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_26"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65939	-1	58327	NONE_5043_SPIRIT_QUESTION_13	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_27"")"	SUBTITLE	К любви.	Ę ëţáâč.
+65940	-1	58327	NONE_5043_SPIRIT_QUESTION_13	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_28"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65941	-1	58328	NONE_5043_SPIRIT_QUESTION_15	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_29"")"	SUBTITLE	К приключениям.	Ę ďđčęëţ÷ĺíč˙ě.
+65942	-1	58328	NONE_5043_SPIRIT_QUESTION_15	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_30"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65943	-1	58329	NONE_5043_SPIRIT_QUESTION_14	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_31"")"	SUBTITLE	К злу.	Ę çëó.
+65944	-1	58329	NONE_5043_SPIRIT_QUESTION_14	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_32"")"	SUBTITLE	Кто есть важнейший учитель?	Ęňî ĺńňü âŕćíĺéřčé ó÷čňĺëü?
+65945	2842	206641	NONE_5043_SPIRIT_QUESTION_14	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Неудача.	Íĺóäŕ÷ŕ.
+65946	2842	206642	NONE_5043_SPIRIT_QUESTION_14	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Счастье.	Ń÷ŕńňüĺ.
+65947	2842	206643	NONE_5043_SPIRIT_QUESTION_14	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Боль.	Áîëü.
+65948	2842	206644	NONE_5043_SPIRIT_QUESTION_14	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Любовь.	Ëţáîâü.
+65949	2842	206645	NONE_5043_SPIRIT_QUESTION_14	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Жизнь.	Ćčçíü.
+65950	-1	58330	NONE_5043_SPIRIT_QUESTION_16	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_33"")"	SUBTITLE	Неудача.	Íĺóäŕ÷ŕ.
+65951	-1	58330	NONE_5043_SPIRIT_QUESTION_16	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_34"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65952	-1	58331	NONE_5043_SPIRIT_QUESTION_17	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_35"")"	SUBTITLE	Счастье.	Ń÷ŕńňüĺ.
+65953	-1	58331	NONE_5043_SPIRIT_QUESTION_17	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_36"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65954	-1	58332	NONE_5043_SPIRIT_QUESTION_18	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_37"")"	SUBTITLE	Боль.	Áîëü.
+65955	-1	58332	NONE_5043_SPIRIT_QUESTION_18	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_38"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65956	-1	58333	NONE_5043_SPIRIT_QUESTION_19	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_39"")"	SUBTITLE	Любовь.	Ëţáîâü.
+65957	-1	58333	NONE_5043_SPIRIT_QUESTION_19	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_40"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65958	-1	58334	NONE_5043_SPIRIT_QUESTION_20	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_41"")"	SUBTITLE	Жизнь.	Ćčçíü.
+65959	-1	58334	NONE_5043_SPIRIT_QUESTION_20	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_42"")"	SUBTITLE	Что доступно ребенку, но недоступно седому мужу?	×ňî äîńňóďíî đĺáĺíęó, íî íĺäîńňóďíî ńĺäîěó ěóćó?
+65960	2842	206656	NONE_5043_SPIRIT_QUESTION_20	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Пение.	Ďĺíčĺ.
+65961	2842	206657	NONE_5043_SPIRIT_QUESTION_20	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Искренность.	Čńęđĺííîńňü.
+65962	2842	206658	NONE_5043_SPIRIT_QUESTION_20	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Свобода.	Ńâîáîäŕ.
+65963	2842	206659	NONE_5043_SPIRIT_QUESTION_20	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Беззаботность.	Áĺççŕáîňíîńňü.
+65964	2842	206660	NONE_5043_SPIRIT_QUESTION_20	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Смех.	Ńěĺő.
+65965	-1	58335	NONE_5043_SPIRIT_QUESTION_21	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_43"")"	SUBTITLE	Пение.	Ďĺíčĺ.
+65966	-1	58335	NONE_5043_SPIRIT_QUESTION_21	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_44"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65967	-1	58336	NONE_5043_SPIRIT_QUESTION_22	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_45"")"	SUBTITLE	Искренность.	Čńęđĺííîńňü.
+65968	-1	58336	NONE_5043_SPIRIT_QUESTION_22	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_46"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65969	-1	58337	NONE_5043_SPIRIT_QUESTION_23	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_47"")"	SUBTITLE	Свобода.	Ńâîáîäŕ.
+65970	-1	58337	NONE_5043_SPIRIT_QUESTION_23	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_48"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65971	-1	58338	NONE_5043_SPIRIT_QUESTION_25	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_49"")"	SUBTITLE	Смех.	Ńěĺő.
+65972	-1	58338	NONE_5043_SPIRIT_QUESTION_25	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_50"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65973	-1	58339	NONE_5043_SPIRIT_QUESTION_24	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_51"")"	SUBTITLE	Беззаботность.	Áĺççŕáîňíîńňü.
+65974	-1	58339	NONE_5043_SPIRIT_QUESTION_24	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_52"")"	SUBTITLE	Какие чувства находятся друг к другу ближе всего?	Ęŕęčĺ ÷óâńňâŕ íŕőîä˙ňń˙ äđóă ę äđóăó áëčćĺ âńĺăî?
+65975	2842	206671	NONE_5043_SPIRIT_QUESTION_24	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Любовь и ненависть.	Ëţáîâü č íĺíŕâčńňü.
+65976	2842	206672	NONE_5043_SPIRIT_QUESTION_24	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Грусть и отчаяние.	Ăđóńňü č îň÷ŕ˙íčĺ.
+65977	2842	206673	NONE_5043_SPIRIT_QUESTION_24	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Страх и озлобленность.	Ńňđŕő č îçëîáëĺííîńňü.
+65978	2842	206674	NONE_5043_SPIRIT_QUESTION_24	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Уважение и презрение.	Óâŕćĺíčĺ č ďđĺçđĺíčĺ.
+65979	2842	206675	NONE_5043_SPIRIT_QUESTION_24	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Дружба и предательство.	Äđóćáŕ č ďđĺäŕňĺëüńňâî.
+65980	-1	58340	NONE_5043_SPIRIT_QUESTION_27	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_53"")"	SUBTITLE	Грусть и отчаяние.	Ăđóńňü č îň÷ŕ˙íčĺ.
+65981	-1	58340	NONE_5043_SPIRIT_QUESTION_27	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_54"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65982	-1	58341	NONE_5043_SPIRIT_QUESTION_28	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_55"")"	SUBTITLE	Страх и озлобленность.	Ńňđŕő č îçëîáëĺííîńňü.
+65983	-1	58341	NONE_5043_SPIRIT_QUESTION_28	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_56"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65984	-1	58342	NONE_5043_SPIRIT_QUESTION_29	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_57"")"	SUBTITLE	Уважение и презрение.	Óâŕćĺíčĺ č ďđĺçđĺíčĺ.
+65985	-1	58342	NONE_5043_SPIRIT_QUESTION_29	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_58"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65986	-1	58343	NONE_5043_SPIRIT_QUESTION_30	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_59"")"	SUBTITLE	Дружба и предательство.	Äđóćáŕ č ďđĺäŕňĺëüńňâî.
+65987	-1	58343	NONE_5043_SPIRIT_QUESTION_30	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_60"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65988	-1	58344	NONE_5043_SPIRIT_QUESTION_26	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_61"")"	SUBTITLE	Любовь и ненависть.	Ëţáîâü č íĺíŕâčńňü.
+65989	-1	58344	NONE_5043_SPIRIT_QUESTION_26	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_62"")"	SUBTITLE	Что такое смерть?	×ňî ňŕęîĺ ńěĺđňü?
+65990	2842	206686	NONE_5043_SPIRIT_QUESTION_26	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Конец жизни.	Ęîíĺö ćčçíč.
+65991	2842	206687	NONE_5043_SPIRIT_QUESTION_26	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Начало чего-то нового.	Íŕ÷ŕëî ÷ĺăî-ňî íîâîăî.
+65992	2842	206688	NONE_5043_SPIRIT_QUESTION_26	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Искупление грехов.	Čńęóďëĺíčĺ ăđĺőîâ.
+65993	2842	206689	NONE_5043_SPIRIT_QUESTION_26	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Наказание.	Íŕęŕçŕíčĺ.
+65994	2842	206690	NONE_5043_SPIRIT_QUESTION_26	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Награда.	Íŕăđŕäŕ.
+65995	-1	58345	NONE_5043_SPIRIT_QUESTION_31	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_63"")"	SUBTITLE	Конец жизни.	Ęîíĺö ćčçíč.
+65996	-1	58345	NONE_5043_SPIRIT_QUESTION_31	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_64"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65997	-1	58346	NONE_5043_SPIRIT_QUESTION_33	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_65"")"	SUBTITLE	Искупление грехов.	Čńęóďëĺíčĺ ăđĺőîâ.
+65998	-1	58346	NONE_5043_SPIRIT_QUESTION_33	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_66"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+65999	-1	58347	NONE_5043_SPIRIT_QUESTION_34	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_67"")"	SUBTITLE	Наказание.	Íŕęŕçŕíčĺ.
+66000	-1	58347	NONE_5043_SPIRIT_QUESTION_34	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_68"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66001	-1	58348	NONE_5043_SPIRIT_QUESTION_35	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_69"")"	SUBTITLE	Награда.	Íŕăđŕäŕ.
+66002	-1	58348	NONE_5043_SPIRIT_QUESTION_35	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_70"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66003	-1	58349	NONE_5043_SPIRIT_QUESTION_32	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_71"")"	SUBTITLE	Начало чего-то нового.	Íŕ÷ŕëî ÷ĺăî-ňî íîâîăî.
+66004	-1	58349	NONE_5043_SPIRIT_QUESTION_32	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_72"")"	SUBTITLE	С какой целью ведутся войны?	Ń ęŕęîé öĺëüţ âĺäóňń˙ âîéíű?
+66005	2842	206701	NONE_5043_SPIRIT_QUESTION_32	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Ради мира.	Đŕäč ěčđŕ.
+66006	2842	206702	NONE_5043_SPIRIT_QUESTION_32	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Для кровавой утехи.	Äë˙ ęđîâŕâîé óňĺőč.
+66007	2842	206703	NONE_5043_SPIRIT_QUESTION_32	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Ради славы.	Đŕäč ńëŕâű.
+66008	2842	206704	NONE_5043_SPIRIT_QUESTION_32	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Во имя богов.	Âî čě˙ áîăîâ.
+66009	2842	206705	NONE_5043_SPIRIT_QUESTION_32	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Ради власти.	Đŕäč âëŕńňč.
+66010	-1	58350	NONE_5043_SPIRIT_QUESTION_36	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_73"")"	SUBTITLE	Ради мира.	Đŕäč ěčđŕ.
+66011	-1	58350	NONE_5043_SPIRIT_QUESTION_36	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_74"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66012	-1	58351	NONE_5043_SPIRIT_QUESTION_37	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_75"")"	SUBTITLE	Для кровавой утехи.	Äë˙ ęđîâŕâîé óňĺőč.
+66013	-1	58351	NONE_5043_SPIRIT_QUESTION_37	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_76"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66014	-1	58352	NONE_5043_SPIRIT_QUESTION_38	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_77"")"	SUBTITLE	Ради славы.	Đŕäč ńëŕâű.
+66015	-1	58352	NONE_5043_SPIRIT_QUESTION_38	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_78"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66016	-1	58353	NONE_5043_SPIRIT_QUESTION_39	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_79"")"	SUBTITLE	Во имя богов.	Âî čě˙ áîăîâ.
+66017	-1	58353	NONE_5043_SPIRIT_QUESTION_39	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_80"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66018	-1	58354	NONE_5043_SPIRIT_QUESTION_40	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_81"")"	SUBTITLE	Ради власти.	Đŕäč âëŕńňč.
+66019	-1	58354	NONE_5043_SPIRIT_QUESTION_40	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_82"")"	SUBTITLE	Кто на самом деле умнее, чем кажется?	Ęňî íŕ ńŕěîě äĺëĺ óěíĺĺ, ÷ĺě ęŕćĺňń˙?
+66020	2842	206716	NONE_5043_SPIRIT_QUESTION_40	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Совершивший самоубийство.	Ńîâĺđřčâřčé ńŕěîóáčéńňâî. 
+66021	2842	206717	NONE_5043_SPIRIT_QUESTION_40	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Ребенок.	Đĺáĺíîę.
+66022	2842	206718	NONE_5043_SPIRIT_QUESTION_40	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Старик.	Ńňŕđčę.
+66023	2842	206719	NONE_5043_SPIRIT_QUESTION_40	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Бог.	Áîă.
+66024	2842	206720	NONE_5043_SPIRIT_QUESTION_40	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Раб.	Đŕá.
+66025	-1	58355	NONE_5043_SPIRIT_QUESTION_41	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_83"")"	SUBTITLE	Бог.	Áîă.
+66026	-1	58355	NONE_5043_SPIRIT_QUESTION_41	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_84"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66027	-1	58356	NONE_5043_SPIRIT_QUESTION_43	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_85"")"	SUBTITLE	Старик.	Ńňŕđčę.
+66028	-1	58356	NONE_5043_SPIRIT_QUESTION_43	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_86"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66029	-1	58357	NONE_5043_SPIRIT_QUESTION_44	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_87"")"	SUBTITLE	Раб.	Đŕá.
+66030	-1	58357	NONE_5043_SPIRIT_QUESTION_44	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_88"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66031	-1	58358	NONE_5043_SPIRIT_QUESTION_45	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_89"")"	SUBTITLE	Совершивший самоубийство.	Ńîâĺđřčâřčé ńŕěîóáčéńňâî.
+66032	-1	58358	NONE_5043_SPIRIT_QUESTION_45	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_05_84"")"	SUBTITLE	Ты ошибся, это недопустимо. Вернись ко мне, когда будешь готов дать верные ответы.	Ňű îřčáń˙, ýňî íĺäîďóńňčěî. Âĺđíčńü ęî ěíĺ, ęîăäŕ áóäĺřü ăîňîâ äŕňü âĺđíűĺ îňâĺňű.
+66033	-1	58359	NONE_5043_SPIRIT_QUESTION_42	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_90"")"	SUBTITLE	Ребенок.	Đĺáĺíîę.
+66034	-1	58359	NONE_5043_SPIRIT_QUESTION_42	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_15_91"")"	SUBTITLE	Да-а-а, ты дал мне ответы, в которых я так нуждался. Благодаря твоей мудрости, я убедился, что в этом мире мне нечего больше делать, и я могу спокойно уйти.	Äŕ-ŕ-ŕ, ňű äŕë ěíĺ îňâĺňű, â ęîňîđűő ˙ ňŕę íóćäŕëń˙. Áëŕăîäŕđ˙ ňâîĺé ěóäđîńňč, ˙ óáĺäčëń˙, ÷ňî â ýňîě ěčđĺ ěíĺ íĺ÷ĺăî áîëüřĺ äĺëŕňü, č ˙ ěîăó ńďîęîéíî óéňč.
+66035	-1	58359	NONE_5043_SPIRIT_QUESTION_42	"AI_OUTPUT(SELF,OTHER,""none_5043_spirit_QUESTION_01_Info_15_92"")"	SUBTITLE	Спасибо тебе за все, человек. Желаю тебе счастливой жизни и спокойной, своевременной смерти.	Ńďŕńčáî ňĺáĺ çŕ âńĺ, ÷ĺëîâĺę. Ćĺëŕţ ňĺáĺ ń÷ŕńňëčâîé ćčçíč č ńďîęîéíîé, ńâîĺâđĺěĺííîé ńěĺđňč.
+66036	-1	58359	NONE_5043_SPIRIT_QUESTION_42	"AI_OUTPUT(OTHER,SELF,""none_5043_spirit_QUESTION_01_Info_15_93"")"	SUBTITLE	Прощай, дух. Маги будут молиться за твою душу.	Ďđîůŕé, äóő. Ěŕăč áóäóň ěîëčňüń˙ çŕ ňâîţ äóřó.
+66037	2842	206733	NONE_5043_SPIRIT_QUESTION_42	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я ответил на вопросы призрака и он ушел в свой мир. Соломон будет рад этому известию.	ß îňâĺňčë íŕ âîďđîńű ďđčçđŕęŕ č îí óřĺë â ńâîé ěčđ. Ńîëîěîí áóäĺň đŕä ýňîěó čçâĺńňčţ.
+66038	-1	58368	DIA_EX_DAVID_QUIET_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_quiet_09_00"")"	SUBTITLE	Не могу насладиться тишиной и покоем. В чем дело?	Íĺ ěîăó íŕńëŕäčňüń˙ ňčřčíîé č ďîęîĺě. Coś nie tak?
+66039	2843	206736	DIA_EX_DAVID_STRESS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Ты сильно взволнован?	Ňű ńčëüíî âçâîëíîâŕí?
+66040	-1	58371	DIA_EX_DAVID_STRESS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_stress_15_00"")"	SUBTITLE	Ты сильно взволнован?	Ňű ńčëüíî âçâîëíîâŕí?
+66041	-1	58371	DIA_EX_DAVID_STRESS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_stress_09_01"")"	SUBTITLE	Все в порядке. Но если бы каждый не норовил потревожить мои нервы по мелочам, то могло бы быть лучше.	Wszystko jest w porządku. Íî ĺńëč áű ęŕćäűé íĺ íîđîâčë ďîňđĺâîćčňü ěîč íĺđâű ďî ěĺëî÷ŕě, ňî ěîăëî áű áűňü ëó÷řĺ.
+66042	-1	58374	DIA_EX_DAVID_ILLDOIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_illdoit_09_00"")"	SUBTITLE	Как маленькие дети.	Ęŕę ěŕëĺíüęčĺ äĺňč.
+66043	-1	58374	DIA_EX_DAVID_ILLDOIT_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_illdoit_15_01"")"	SUBTITLE	Кто?	Kto?
+66044	-1	58374	DIA_EX_DAVID_ILLDOIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_illdoit_09_02"")"	SUBTITLE	Амон и Исаак.	Ŕěîí č Čńŕŕę.
+66045	-1	58374	DIA_EX_DAVID_ILLDOIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_illdoit_09_03"")"	SUBTITLE	Они доставляют столько хлопот...	Îíč äîńňŕâë˙ţň ńňîëüęî őëîďîň...
+66046	-1	58374	DIA_EX_DAVID_ILLDOIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_illdoit_09_04"")"	SUBTITLE	Им никогда не договориться между собой.	Čě íčęîăäŕ íĺ äîăîâîđčňüń˙ ěĺćäó ńîáîé.
+66047	-1	58374	DIA_EX_DAVID_ILLDOIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_illdoit_09_05"")"	SUBTITLE	Тогда я возьму сегодя смену.	Ňîăäŕ ˙ âîçüěó ńĺăîä˙ ńěĺíó.
+66048	-1	58374	DIA_EX_DAVID_ILLDOIT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_illdoit_09_06"")"	SUBTITLE	Это не долго.	Ýňî íĺ äîëăî.
+66049	2843	206746	DIA_EX_DAVID_ILLDOIT_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я помог решить проблему Исаака со сменщиком Амоном.	ß ďîěîă đĺřčňü ďđîáëĺěó Čńŕŕęŕ ńî ńěĺíůčęîě Ŕěîíîě.
+66050	2843	206749	DIA_EX_DAVID_ILLDOIT_INFO	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	Давид неохотно принял смену Амона. В отряде Соломона все еще есть ответственные люди.	Äŕâčä íĺîőîňíî ďđčí˙ë ńěĺíó Ŕěîíŕ. Â îňđ˙äĺ Ńîëîěîíŕ âńĺ ĺůĺ ĺńňü îňâĺňńňâĺííűĺ ëţäč.
+66051	2843	206750	DIA_EX_DAVID_PROBLEMS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Соломон сказал, что у тебя проблемы с данью.	Ńîëîěîí ńęŕçŕë, ÷ňî ó ňĺá˙ ďđîáëĺěű ń äŕíüţ.
+66052	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_problems_15_00"")"	SUBTITLE	Соломон сказал, что у тебя проблемы с данью.	Ńîëîěîí ńęŕçŕë, ÷ňî ó ňĺá˙ ďđîáëĺěű ń äŕíüţ.
+66053	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_problems_09_01"")"	SUBTITLE	А что тебе до этого?	Ŕ ÷ňî ňĺáĺ äî ýňîăî?
+66054	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_problems_15_02"")"	SUBTITLE	Я должен показать свою полезность.	ß äîëćĺí ďîęŕçŕňü ńâîţ ďîëĺçíîńňü.
+66055	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_problems_09_03"")"	SUBTITLE	Ах вот оно как.	Ŕő âîň îíî ęŕę.
+66056	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_problems_09_04"")"	SUBTITLE	Значит, ты хочешь взять на себя мою работу, и я должен замолвить за тебя доброе слово?	Çíŕ÷čň, ňű őî÷ĺřü âç˙ňü íŕ ńĺá˙ ěîţ đŕáîňó, č ˙ äîëćĺí çŕěîëâčňü çŕ ňĺá˙ äîáđîĺ ńëîâî?
+66057	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_problems_15_05"")"	SUBTITLE	Всю твою работу?	Âńţ ňâîţ đŕáîňó?
+66058	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_problems_15_06"")"	SUBTITLE	Это не слишком много?	Ýňî íĺ ńëčřęîě ěíîăî?
+66059	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_problems_09_07"")"	SUBTITLE	На самом деле это работа Адама.	Íŕ ńŕěîě äĺëĺ ýňî đŕáîňŕ Ŕäŕěŕ.
+66060	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_problems_09_08"")"	SUBTITLE	Старик много сделал в прошлом, но сегодня он просто сидит в своем кресле.	Ńňŕđčę ěíîăî ńäĺëŕë â ďđîřëîě, íî ńĺăîäí˙ îí ďđîńňî ńčäčň â ńâîĺě ęđĺńëĺ.
+66061	-1	58377	DIA_EX_DAVID_PROBLEMS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_problems_09_09"")"	SUBTITLE	Он должен уйти в отставку и освободить место для младших.	Îí äîëćĺí óéňč â îňńňŕâęó č îńâîáîäčňü ěĺńňî äë˙ ěëŕäřčő.
+66062	2843	206761	DIA_EX_DAVID_ASKSALOMO	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Поговори с Соломоном об этом.	Ďîăîâîđč ń Ńîëîěîíîě îá ýňîě.
+66063	-1	58380	DIA_EX_DAVID_ASKSALOMO_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_askSalomo_15_00"")"	SUBTITLE	Поговори с Соломоном об этом.	Ďîăîâîđč ń Ńîëîěîíîě îá ýňîě.
+66064	-1	58380	DIA_EX_DAVID_ASKSALOMO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_askSalomo_09_01"")"	SUBTITLE	Он не хочет сбрасывать Адама с трона.	Îí íĺ őî÷ĺň ńáđŕńűâŕňü Ŕäŕěŕ ń ňđîíŕ.
+66065	-1	58380	DIA_EX_DAVID_ASKSALOMO_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_askSalomo_09_02"")"	SUBTITLE	Ты должен заставить его уйти добровольно.	Ňű äîëćĺí çŕńňŕâčňü ĺăî óéňč äîáđîâîëüíî.
+66066	2843	206765	DIA_EX_DAVID_GETTAXES	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	В чем проблема с данью сейчас?	Â ÷ĺě ďđîáëĺěŕ ń äŕíüţ ńĺé÷ŕń?
+66067	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_gettaxes_15_00"")"	SUBTITLE	В чем проблема с данью сейчас?	Â ÷ĺě ďđîáëĺěŕ ń äŕíüţ ńĺé÷ŕń?
+66068	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_gettaxes_09_01"")"	SUBTITLE	Ну, Калеро, Коста и Хако не платят.	Íó, Ęŕëĺđî, Ęîńňŕ č Őŕęî íĺ ďëŕň˙ň.
+66069	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_gettaxes_09_03"")"	SUBTITLE	У всех трех есть золото, по крайней мере, у Коста и Калеро.	Ó âńĺő ňđĺő ĺńňü çîëîňî, ďî ęđŕéíĺé ěĺđĺ, ó Ęîńňŕ č Ęŕëĺđî.
+66070	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_gettaxes_09_04"")"	SUBTITLE	Заставь их заплатить.	Çŕńňŕâü čő çŕďëŕňčňü.
+66071	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_gettaxes_15_05"")"	SUBTITLE	Сколько у них задолженности?	Ńęîëüęî ó íčő çŕäîëćĺííîńňč?
+66072	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_gettaxes_09_06"")"	SUBTITLE	Калеро никогда ничего не платил за все время, что он здесь.	Ęŕëĺđî íčęîăäŕ íč÷ĺăî íĺ ďëŕňčë çŕ âńĺ âđĺě˙, ÷ňî îí çäĺńü.
+66073	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_gettaxes_09_07"")"	SUBTITLE	600 золотых монет должны быть разумными.	600 çîëîňűő ěîíĺň äîëćíű áűňü đŕçóěíűěč.
+66074	-1	58383	DIA_EX_DAVID_GETTAXES_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_gettaxes_09_08"")"	SUBTITLE	Остальные должны городу 200 каждый.	Îńňŕëüíűĺ äîëćíű ăîđîäó 200 ęŕćäűé.
+66075	2843	206774	DIA_EX_DAVID_GETTAXES_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Давид попросил меня собрать задолженность по дани с некоторых граждан. Калеро должен городу 600 золотых, Коста и Хако по 200. Я надеюсь, что эти три не вызовут особых проблем.	Äŕâčä ďîďđîńčë ěĺí˙ ńîáđŕňü çŕäîëćĺííîńňü ďî äŕíč ń íĺęîňîđűő ăđŕćäŕí. Ęŕëĺđî äîëćĺí ăîđîäó 600 çîëîňűő, Ęîńňŕ č Őŕęî ďî 200. ß íŕäĺţńü, ÷ňî ýňč ňđč íĺ âűçîâóň îńîáűő ďđîáëĺě.
+66076	2843	206775	DIA_EX_DAVID_ANDI	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Должен ли я платить дань?	Äîëćĺí ëč ˙ ďëŕňčňü äŕíü?
+66077	-1	58386	DIA_EX_DAVID_ANDI_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_andI_15_00"")"	SUBTITLE	Должен ли я платить дань?	Äîëćĺí ëč ˙ ďëŕňčňü äŕíü?
+66078	-1	58386	DIA_EX_DAVID_ANDI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_andI_09_01"")"	SUBTITLE	Нет.	Nie.
+66079	-1	58386	DIA_EX_DAVID_ANDI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_andI_09_02"")"	SUBTITLE	Только те, у кого есть свой бизнес, платят за себя и своих сотрудников.	Ňîëüęî ňĺ, ó ęîăî ĺńňü ńâîé áčçíĺń, ďëŕň˙ň çŕ ńĺá˙ č ńâîčő ńîňđóäíčęîâ.
+66080	-1	58386	DIA_EX_DAVID_ANDI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_andI_09_03"")"	SUBTITLE	А так как ты работаешь на Фальго, он должен заплатить твой вклад.	Ŕ ňŕę ęŕę ňű đŕáîňŕĺřü íŕ Ôŕëüăî, îí äîëćĺí çŕďëŕňčňü ňâîé âęëŕä.
+66081	-1	58386	DIA_EX_DAVID_ANDI_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_andI_15_04"")"	SUBTITLE	Хако сейчас без работы. Почему он должен платить?	Őŕęî ńĺé÷ŕń áĺç đŕáîňű. Ďî÷ĺěó îí äîëćĺí ďëŕňčňü?
+66082	-1	58386	DIA_EX_DAVID_ANDI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_andI_09_05"")"	SUBTITLE	У него все еще достаточно долгов, поверь мне.	Ó íĺăî âńĺ ĺůĺ äîńňŕňî÷íî äîëăîâ, ďîâĺđü ěíĺ.
+66083	2843	206782	DIA_EX_DAVID_SUCCESS	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	У меня есть несколько денег дани для тебя.	Ó ěĺí˙ ĺńňü íĺńęîëüęî äĺíĺă äŕíč äë˙ ňĺá˙.
+66084	2843	206784	B_DAVID_ADD_TAX_CHOICES	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Вот налоги Хако.	Âîň íŕëîăč Őŕęî.
+66085	2843	206786	B_DAVID_ADD_TAX_CHOICES	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	У меня есть налоги Косты.	Ó ěĺí˙ ĺńňü íŕëîăč Ęîńňű.
+66086	2843	206787	B_DAVID_ADD_TAX_CHOICES	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	У Калеро много золота.	Ó Ęŕëĺđî ěíîăî çîëîňŕ.
+66087	-1	58392	DIA_EX_DAVID_SUCCESS_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_15_00"")"	SUBTITLE	У меня есть несколько денег дани для тебя.	Ó ěĺí˙ ĺńňü íĺńęîëüęî äĺíĺă äŕíč äë˙ ňĺá˙.
+66088	-1	58392	DIA_EX_DAVID_SUCCESS_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_09_01"")"	SUBTITLE	Очень хорошо! От кого?	Bardzo dobrze! Od kogo?
+66089	-1	58394	B_DIA_EX_DAVID_TAXES_COOL	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_Cool_09_00"")"	SUBTITLE	Ну, так держать!	Íó, ňŕę äĺđćŕňü!
+66090	-1	58394	B_DIA_EX_DAVID_TAXES_COOL	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_Cool_09_01"")"	SUBTITLE	Я могу только поздравить тебя!	ß ěîăó ňîëüęî ďîçäđŕâčňü ňĺá˙!
+66091	-1	58394	B_DIA_EX_DAVID_TAXES_COOL	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_Cool_09_02"")"	SUBTITLE	Ты новичок в долине, и ты многое сделал для нас.	Ňű íîâč÷îę â äîëčíĺ, č ňű ěíîăîĺ ńäĺëŕë äë˙ íŕń.
+66092	-1	58394	B_DIA_EX_DAVID_TAXES_COOL	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_Cool_09_03"")"	SUBTITLE	Иди к Соломону и расскажи ему о своих действиях.	Čäč ę Ńîëîěîíó č đŕńńęŕćč ĺěó î ńâîčő äĺéńňâč˙ő.
+66093	-1	58394	B_DIA_EX_DAVID_TAXES_COOL	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_Cool_09_04"")"	SUBTITLE	Он будет более чем доволен.	Îí áóäĺň áîëĺĺ ÷ĺě äîâîëĺí.
+66094	2843	206795	B_DIA_EX_DAVID_TAXES_COOL	B_SUCCESSMISSION.LASTNODE	LOG_ADDENTRY.PAR1	У Давида теперь есть налоги всех тех, кто первоначально отказывался платить.	Ó Äŕâčäŕ ňĺďĺđü ĺńňü íŕëîăč âńĺő ňĺő, ęňî ďĺđâîíŕ÷ŕëüíî îňęŕçűâŕëń˙ ďëŕňčňü.
+66095	2843	206796	B_DIA_EX_DAVID_TAXES_COOL	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я помог решить проблему Давида со сбором дани. Интересно, как там Мирко?	ß ďîěîă đĺřčňü ďđîáëĺěó Äŕâčäŕ ńî ńáîđîě äŕíč. Číňĺđĺńíî, ęŕę ňŕě Ěčđęî?
+66096	2843	206799	B_DIA_EX_DAVID_TAXES_COOL	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я помог решить проблему Давида со сбором дани.	ß ďîěîă đĺřčňü ďđîáëĺěó Äŕâčäŕ ńî ńáîđîě äŕíč.
+66097	-1	58395	DIA_EX_DAVID_SUCCESS_HAKO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_hako_15_00"")"	SUBTITLE	Вот налоги Хако.	Âîň íŕëîăč Őŕęî.
+66098	-1	58395	DIA_EX_DAVID_SUCCESS_HAKO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_hako_09_01"")"	SUBTITLE	О! Я не думал, что у него было золото.	Och! ß íĺ äóěŕë, ÷ňî ó íĺăî áűëî çîëîňî.
+66099	-1	58395	DIA_EX_DAVID_SUCCESS_HAKO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_hako_15_02"")"	SUBTITLE	Мне пришлось копать в лесу.	Ěíĺ ďđčřëîńü ęîďŕňü â ëĺńó.
+66100	-1	58395	DIA_EX_DAVID_SUCCESS_HAKO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_hako_09_03"")"	SUBTITLE	Ты выкопал могилу его бабушки или как?	Ňű âűęîďŕë ěîăčëó ĺăî áŕáóřęč čëč ęŕę?
+66101	-1	58395	DIA_EX_DAVID_SUCCESS_HAKO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_hako_09_04"")"	SUBTITLE	Ну, это неважно. Главное, что там есть золото.	Íó, ýňî íĺâŕćíî. Ăëŕâíîĺ, ÷ňî ňŕě ĺńňü çîëîňî.
+66102	-1	58396	DIA_EX_DAVID_SUCCESS_COSTA	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_costa_15_00"")"	SUBTITLE	У меня есть налоги Косты.	Ó ěĺí˙ ĺńňü íŕëîăč Ęîńňű.
+66103	-1	58396	DIA_EX_DAVID_SUCCESS_COSTA	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_costa_09_01"")"	SUBTITLE	У него были проблемы?	Ó íĺăî áűëč ďđîáëĺěű?
+66104	-1	58396	DIA_EX_DAVID_SUCCESS_COSTA	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_costa_15_02"")"	SUBTITLE	Не стоящие внимания.	Íĺ ńňî˙ůčĺ âíčěŕíč˙.
+66105	-1	58396	DIA_EX_DAVID_SUCCESS_COSTA	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_costa_09_03"")"	SUBTITLE	Отлично.	Doskonale.
+66106	-1	58397	DIA_EX_DAVID_SUCCESS_CALERO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_Calero_15_00"")"	SUBTITLE	У Калеро много золота.	Ó Ęŕëĺđî ěíîăî çîëîňŕ.
+66107	-1	58397	DIA_EX_DAVID_SUCCESS_CALERO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_Calero_09_01"")"	SUBTITLE	Я слышал, что его охранники сильно тебя ударили.	ß ńëűřŕë, ÷ňî ĺăî îőđŕííčęč ńčëüíî ňĺá˙ óäŕđčëč.
+66108	2843	206811	DIA_EX_DAVID_SUCCESS_CALERO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Говори громче.	Ăîâîđč ăđîě÷ĺ.
+66109	2843	206812	DIA_EX_DAVID_SUCCESS_CALERO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Он, как дикий.	Îí, ęŕę äčęčé.
+66110	-1	58398	B_EX_DAVID_TAXES_CONCLUSION	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_success_conclusion_09_00"")"	SUBTITLE	Вот, возьми пару напитков, чтобы восстановиться.	Âîň, âîçüěč ďŕđó íŕďčňęîâ, ÷ňîáű âîńńňŕíîâčňüń˙.
+66111	-1	58399	DIA_EX_DAVID_SUCCESS_PROBLEMS	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_Problems_15_00"")"	SUBTITLE	Говори громче (с сарказмом).	Ăîâîđč ăđîě÷ĺ (ń ńŕđęŕçěîě).
+66112	-1	58400	DIA_EX_DAVID_SUCCESS_ALLRIGHT	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_success_allright_15_00"")"	SUBTITLE	Он, как дикий.	Îí, ęŕę äčęčé.
+66113	2843	206816	DIA_EX_DAVID_YOUDOADAMSJOBNOW	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Так ты взял на себя работу Адама?	Ňŕę ňű âç˙ë íŕ ńĺá˙ đŕáîňó Ŕäŕěŕ?
+66114	-1	58403	DIA_EX_DAVID_YOUDOADAMSJOBNOW_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_David_youdoadamsjobnow_15_00"")"	SUBTITLE	Так ты взял на себя работу Адама?	Ňŕę ňű âç˙ë íŕ ńĺá˙ đŕáîňó Ŕäŕěŕ?
+66115	-1	58403	DIA_EX_DAVID_YOUDOADAMSJOBNOW_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_youdoadamsjobnow_09_01"")"	SUBTITLE	Да, но я не так представлял.	Äŕ, íî ˙ íĺ ňŕę ďđĺäńňŕâë˙ë.
+66116	-1	58403	DIA_EX_DAVID_YOUDOADAMSJOBNOW_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_David_youdoadamsjobnow_09_02"")"	SUBTITLE	Адам был убит и ограблен. Теперь я мастер пустых сундуков.	Ŕäŕě áűë óáčň č îăđŕáëĺí. Ňĺďĺđü ˙ ěŕńňĺđ ďóńňűő ńóíäóęîâ.
+66117	2843	206820	DIA_DAVID_PLAYLUTE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Сыграй что-нибудь.	Ńűăđŕé ÷ňî-íčáóäü.
+66118	-1	58406	DIA_DAVID_PLAYLUTE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_David_PlayLute_15_00"")"	SUBTITLE	Сыграй что-нибудь.	Ńűăđŕé ÷ňî-íčáóäü.
+66119	-1	58406	DIA_DAVID_PLAYLUTE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_David_PlayLute_01_01"")"	SUBTITLE	Хорошо. Что ты хочешь послушать?	Dobrze. Dobrze.
+66120	2843	206823	DIA_DAVID_PLAYLUTE_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Сыграй все 2 песни - 50 монет	Ńűăđŕé âńĺ 2 ďĺńíč - 50 ěîíĺň
+66121	2843	206824	DIA_DAVID_PLAYLUTE_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Сага о наемниках - 25 монет	Ńŕăŕ î íŕĺěíčęŕő - 25 ěîíĺň
+66122	2843	206825	DIA_DAVID_PLAYLUTE_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Известен всем мой господин - 25 монет	Čçâĺńňĺí âńĺě ěîé ăîńďîäčí - 25 ěîíĺň
+66123	2843	206826	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Нужно больше 25 монет!	Potrzebujesz jeszcze 25 monet!
+66124	2843	206827	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет Грандо!	Grando gra!
+66125	2843	206828	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет Тасс!	Tass gra!
+66126	2843	206829	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет Гайверн!	Gayvern gra!
+66127	2843	206830	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет Регис!	Regis gra!
+66128	2843	206831	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет Гилдас!	Čăđŕĺň Ăčëäŕń!
+66129	2843	206832	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играют на площади!	Zespół na placu gra!
+66130	2843	206833	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет Давид!	Čăđŕĺň Äŕâčä!
+66131	2843	206834	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет Жальен!	Čăđŕĺň Ćŕëüĺí!
+66132	2843	206835	DIA_DAVID_PLAYLUTE_INFO	PRINT.PAR0	PRINT.PAR0	Играет лютня Олдрика!	Lutnia Aldrika gra!
+66133	-1	58416	DIA_EX_ISAAK_NOPERMISSION_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_nopermission_08_00"")"	SUBTITLE	Эй, ты!	Hej, ty!
+66134	-1	58416	DIA_EX_ISAAK_NOPERMISSION_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Isaak_nopermission_15_01"")"	SUBTITLE	Что?	Co?
+66135	-1	58416	DIA_EX_ISAAK_NOPERMISSION_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_nopermission_08_02"")"	SUBTITLE	Я тебя не знаю.	ß ňĺá˙ íĺ çíŕţ.
+66136	-1	58416	DIA_EX_ISAAK_NOPERMISSION_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_nopermission_08_03"")"	SUBTITLE	А незнакомцам нечего здесь делать.	Ŕ íĺçíŕęîěöŕě íĺ÷ĺăî çäĺńü äĺëŕňü.
+66137	-1	58416	DIA_EX_ISAAK_NOPERMISSION_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Isaak_nopermission_15_04"")"	SUBTITLE	Я уже прохожу.	ß óćĺ ďđîőîćó.
+66138	-1	58419	DIA_EX_ISAAK_HITHERE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_Hithere_08_00"")"	SUBTITLE	Ты новый ученик Фальго?	Ňű íîâűé ó÷ĺíčę Ôŕëüăî?
+66139	-1	58419	DIA_EX_ISAAK_HITHERE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Isaak_Hithere_15_01"")"	SUBTITLE	Откуда ты знаешь?	Skąd to wiesz?
+66140	-1	58419	DIA_EX_ISAAK_HITHERE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_Hithere_08_02"")"	SUBTITLE	Мне сказали, что скоро здесь появится.	Ěíĺ ńęŕçŕëč, ÷ňî ńęîđî çäĺńü ďî˙âčňń˙.
+66141	-1	58419	DIA_EX_ISAAK_HITHERE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_Hithere_08_03"")"	SUBTITLE	Твой мастер на данный момент у Тима. Сходи к нему прямо сейчас. Это недалеко от первого дома.	Ňâîé ěŕńňĺđ íŕ äŕííűé ěîěĺíň ó Ňčěŕ. Ńőîäč ę íĺěó ďđ˙ěî ńĺé÷ŕń. Ýňî íĺäŕëĺęî îň ďĺđâîăî äîěŕ.
+66142	2844	206849	DIA_EX_ISAAK_PERM	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Все спокойно?	Wszystko w porządku?
+66143	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Isaak_perm_15_00"")"	SUBTITLE	Все спокойно?	Czy wszystko jest w porządku?
+66144	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_01"")"	SUBTITLE	Конечно. Всего доброго.	Oczywiście. Âńĺăî äîáđîăî.
+66145	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_02"")"	SUBTITLE	Убийство Мирко беспокоит меня.	Óáčéńňâî Ěčđęî áĺńďîęîčň ěĺí˙.
+66146	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_03"")"	SUBTITLE	Я думаю, что назревает что-то ужасное.	ß äóěŕţ, ÷ňî íŕçđĺâŕĺň ÷ňî-ňî óćŕńíîĺ.
+66147	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_04"")"	SUBTITLE	Нужно быть настороже.	Íóćíî áűňü íŕńňîđîćĺ.
+66148	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_05"")"	SUBTITLE	Теперь и Грон мертв. Что это, если не преступная группа.	Ňĺďĺđü č Ăđîí ěĺđňâ. ×ňî ýňî, ĺńëč íĺ ďđĺńňóďíŕ˙ ăđóďďŕ.
+66149	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_06"")"	SUBTITLE	Мы должны действовать быстрее!	Ěű äîëćíű äĺéńňâîâŕňü áűńňđĺĺ!
+66150	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_07"")"	SUBTITLE	Ничего не понимаешь! Открой глаза! И будь добр, не задавай таких глупых вопросов!	Íč÷ĺăî íĺ ďîíčěŕĺřü! Îňęđîé ăëŕçŕ! Č áóäü äîáđ, íĺ çŕäŕâŕé ňŕęčő ăëóďűő âîďđîńîâ!
+66151	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_08"")"	SUBTITLE	Амон уже давно должен быть на смене.	Ŕěîí óćĺ äŕâíî äîëćĺí áűňü íŕ ńěĺíĺ.
+66152	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_09"")"	SUBTITLE	Теперь, когда Фальго вернулся, он должен сменить меня.	Ňĺďĺđü, ęîăäŕ Ôŕëüăî âĺđíóëń˙, îí äîëćĺí ńěĺíčňü ěĺí˙.
+66153	-1	58422	DIA_EX_ISAAK_PERM_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_perm_08_10"")"	SUBTITLE	Скажи ему, когда увидишь его. Я уже работаю сверхурочно.	Ńęŕćč ĺěó, ęîăäŕ óâčäčřü ĺăî. ß óćĺ đŕáîňŕţ ńâĺđőóđî÷íî.
+66154	2844	206861	DIA_EX_ISAAK_PERM_INFO	B_STARTMISSION.FIRSTNOTE	LOG_ADDENTRY.PAR1	Амон должен был давно заменить Исаака. Исаак уже злой. От его имени я должен заставить Амона быстро пройти к воротам.	Ŕěîí äîëćĺí áűë äŕâíî çŕěĺíčňü Čńŕŕęŕ. Čńŕŕę óćĺ çëîé. Îň ĺăî čěĺíč ˙ äîëćĺí çŕńňŕâčňü Ŕěîíŕ áűńňđî ďđîéňč ę âîđîňŕě.
+66155	2844	206862	DIA_EX_ISAAK_TAKEBOOZE	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Амон передает этот можжевельник и просьбу, чтобы вы не делали этого.	Ŕěîí ďĺđĺäŕĺň ýňîň ěîććĺâĺëüíčę č ďđîńüáó, ÷ňîáű âű íĺ äĺëŕëč ýňîăî.
+66156	-1	58425	DIA_EX_ISAAK_TAKEBOOZE_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Isaak_takebooze_15_00"")"	SUBTITLE	Амон передает этот можжевельник и просьбу, чтобы вы не делали этого.	Ŕěîí ďĺđĺäŕĺň ýňîň ěîććĺâĺëüíčę č ďđîńüáó, ÷ňîáű âű íĺ äĺëŕëč ýňîăî.
+66157	-1	58425	DIA_EX_ISAAK_TAKEBOOZE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_takebooze_08_01"")"	SUBTITLE	Он может задницу намазать себе этим можжевельником. И свою просьбу засунуть туда же.	Îí ěîćĺň çŕäíčöó íŕěŕçŕňü ńĺáĺ ýňčě ěîććĺâĺëüíčęîě. Č ńâîţ ďđîńüáó çŕńóíóňü ňóäŕ ćĺ.
+66158	-1	58425	DIA_EX_ISAAK_TAKEBOOZE_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_takebooze_08_02"")"	SUBTITLE	Скажи ему, чтобы он лично сюда пришел, или я вспомню про его должок в 50 золотых.	Ńęŕćč ĺěó, ÷ňîáű îí ëč÷íî ńţäŕ ďđčřĺë, čëč ˙ âńďîěíţ ďđî ĺăî äîëćîę â 50 çîëîňűő.
+66159	2844	206866	DIA_EX_ISAAK_TAKEBOOZE_INFO	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Исаак требует у Амона вернуть долг золотом или заступить на дежурство у ворот поселения.	Čńŕŕę ňđĺáóĺň ó Ŕěîíŕ âĺđíóňü äîëă çîëîňîě čëč çŕńňóďčňü íŕ äĺćóđńňâî ó âîđîň ďîńĺëĺíč˙.
+66160	-1	58428	DIA_EX_ISAAK_COOLGUY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_coolguy_08_00"")"	SUBTITLE	Давид теперь принял смену.	Äŕâčä ňĺďĺđü ďđčí˙ë ńěĺíó.
+66161	-1	58428	DIA_EX_ISAAK_COOLGUY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_coolguy_08_01"")"	SUBTITLE	По крайней мере, он хоть что-то понимает в долге.	Ďî ęđŕéíĺé ěĺđĺ, îí őîňü ÷ňî-ňî ďîíčěŕĺň â äîëăĺ.
+66162	-1	58428	DIA_EX_ISAAK_COOLGUY_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_coolguy_08_02"")"	SUBTITLE	А не как этот толстолобый Амон.	Ŕ íĺ ęŕę ýňîň ňîëńňîëîáűé Ŕěîí.
+66163	-1	58431	DIA_EX_ISAAK_AMONTHEIDIOT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_amontheidiot_08_00"")"	SUBTITLE	История про охранника плохо аукнулась Амону.	Čńňîđč˙ ďđî îőđŕííčęŕ ďëîőî ŕóęíóëŕńü Ŕěîíó.
+66164	-1	58431	DIA_EX_ISAAK_AMONTHEIDIOT_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_amontheidiot_08_01"")"	SUBTITLE	Я позабочусь, чтобы он быстрее выздоровел.	ß ďîçŕáî÷óńü, ÷ňîáű îí áűńňđĺĺ âűçäîđîâĺë.
+66165	2844	206872	DIA_EX_ISAAK_KEEPWATCHAGAIN	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Ну вот, опять у ворот?	Íó âîň, îď˙ňü ó âîđîň?
+66166	-1	58434	DIA_EX_ISAAK_KEEPWATCHAGAIN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Isaak_keepwatchagain_15_00"")"	SUBTITLE	Ну вот, опять у ворот?	Íó âîň, îď˙ňü ó âîđîň?
+66167	-1	58434	DIA_EX_ISAAK_KEEPWATCHAGAIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_keepwatchagain_08_01"")"	SUBTITLE	На самом деле, Амон должен был сменить меня.	Íŕ ńŕěîě äĺëĺ, Ŕěîí äîëćĺí áűë ńěĺíčňü ěĺí˙.
+66168	-1	58434	DIA_EX_ISAAK_KEEPWATCHAGAIN_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Isaak_keepwatchagain_15_02"")"	SUBTITLE	Но?	Ale?
+66169	-1	58434	DIA_EX_ISAAK_KEEPWATCHAGAIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_keepwatchagain_08_03"")"	SUBTITLE	Теперь он должен стоять перед домом Грона, а я должен взять на себя его и свою роль.	Ňĺďĺđü îí äîëćĺí ńňî˙ňü ďĺđĺä äîěîě Ăđîíŕ, ŕ ˙ äîëćĺí âç˙ňü íŕ ńĺá˙ ĺăî č ńâîţ đîëü.
+66170	-1	58434	DIA_EX_ISAAK_KEEPWATCHAGAIN_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Isaak_keepwatchagain_08_04"")"	SUBTITLE	Просто безумие.	Ďđîńňî áĺçóěčĺ.
+66171	-1	58440	DIA_EX_AMON_HI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_Hi_07_00"")"	SUBTITLE	Кем ты будешь?	Ęĺě ňű áóäĺřü?
+66172	-1	58440	DIA_EX_AMON_HI_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Amon_Hi_15_01"")"	SUBTITLE	Новый ученик Фальго.	Íîâűé ó÷ĺíčę Ôŕëüăî.
+66173	-1	58440	DIA_EX_AMON_HI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_Hi_07_02"")"	SUBTITLE	Да? Неужели он нашел еще замену старому курьеру?	Tak? Íĺóćĺëč îí íŕřĺë ĺůĺ çŕěĺíó ńňŕđîěó ęóđüĺđó?
+66174	-1	58440	DIA_EX_AMON_HI_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_Hi_07_03"")"	SUBTITLE	Да, черт побери, я прав.	Äŕ, ÷ĺđň ďîáĺđč, ˙ ďđŕâ.
+66175	2845	206882	DIA_EX_AMON_DOING	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	А что ты здесь делаешь?	Co ty tu robisz?
+66176	-1	58443	DIA_EX_AMON_DOING_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Amon_doing_15_00"")"	SUBTITLE	А что ты здесь делаешь?	Co ty tu robisz?
+66177	-1	58443	DIA_EX_AMON_DOING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_doing_07_01"")"	SUBTITLE	Я наблюдал за временным складом твоего мастера, пока он ездил по делам.	ß íŕáëţäŕë çŕ âđĺěĺííűě ńęëŕäîě ňâîĺăî ěŕńňĺđŕ, ďîęŕ îí ĺçäčë ďî äĺëŕě.
+66178	-1	58443	DIA_EX_AMON_DOING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_doing_07_02"")"	SUBTITLE	В противном случае его вещи забрал бы Адам после истечения срока хранения.	Â ďđîňčâíîě ńëó÷ŕĺ ĺăî âĺůč çŕáđŕë áű Ŕäŕě ďîńëĺ čńňĺ÷ĺíč˙ ńđîęŕ őđŕíĺíč˙.
+66179	-1	58443	DIA_EX_AMON_DOING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_doing_07_03"")"	SUBTITLE	Достаточно ценного хлама здесь улетело со скоростью мухи.	Äîńňŕňî÷íî öĺííîăî őëŕěŕ çäĺńü óëĺňĺëî ńî ńęîđîńňüţ ěóőč.
+66180	-1	58443	DIA_EX_AMON_DOING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_doing_07_04"")"	SUBTITLE	Но теперь я возвращаюсь на пост в патруле и больше здесь не нужен.	Íî ňĺďĺđü ˙ âîçâđŕůŕţńü íŕ ďîńň â ďŕňđóëĺ č áîëüřĺ çäĺńü íĺ íóćĺí.
+66181	-1	58443	DIA_EX_AMON_DOING_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_doing_07_05"")"	SUBTITLE	Если бы Фальго немного недосчитался, он бы не перестал жужать над моим ухом.	Ĺńëč áű Ôŕëüăî íĺěíîăî íĺäîń÷čňŕëń˙, îí áű íĺ ďĺđĺńňŕë ćóćŕňü íŕä ěîčě óőîě.
+66182	2845	206890	DIA_EX_AMON_FALGOPAIDYA	C_INFO.DESCRIPTION	C_INFO.DESCRIPTION	Оплатил тебе Фальго то, что ты нес службу у него?	Îďëŕňčë ňĺáĺ Ôŕëüăî ňî, ÷ňî ňű íĺń ńëóćáó ó íĺăî?
+66183	-1	58446	DIA_EX_AMON_FALGOPAIDYA_INFO	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Amon_falgopaidya_15_00"")"	SUBTITLE	Оплатил тебе Фалго то, что ты нес службу у него?	Îďëŕňčë ňĺáĺ Ôŕëăî ňî, ÷ňî ňű íĺń ńëóćáó ó íĺăî?
+66184	-1	58446	DIA_EX_AMON_FALGOPAIDYA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_07_01"")"	SUBTITLE	Чушь, все деньги я получаю от Адама.	×óřü, âńĺ äĺíüăč ˙ ďîëó÷ŕţ îň Ŕäŕěŕ.
+66185	-1	58446	DIA_EX_AMON_FALGOPAIDYA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_07_02"")"	SUBTITLE	Он распеределяет обязанности между людьми и платит нам с этого.	Îí đŕńďĺđĺäĺë˙ĺň îá˙çŕííîńňč ěĺćäó ëţäüěč č ďëŕňčň íŕě ń ýňîăî.
+66186	-1	58446	DIA_EX_AMON_FALGOPAIDYA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_07_03"")"	SUBTITLE	Спроси его сам, он объяснит тебе лучше, чем я.	Ńďđîńč ĺăî ńŕě, îí îáú˙ńíčň ňĺáĺ ëó÷řĺ, ÷ĺě ˙.
+66187	-1	58446	DIA_EX_AMON_FALGOPAIDYA_INFO	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_07_04"")"	SUBTITLE	Теперь я должен глотнуть чего-нибудь покрепче.	Ňĺďĺđü ˙ äîëćĺí ăëîňíóňü ÷ĺăî-íčáóäü ďîęđĺď÷ĺ.
+66188	2845	206896	DIA_EX_AMON_FALGOPAIDYA_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	Держи мое, за компанию.	Äĺđćč ěîĺ, çŕ ęîěďŕíčţ.
+66189	2845	206897	DIA_EX_AMON_FALGOPAIDYA_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Отдать вино)	(Îňäŕňü âčíî)
+66190	2845	206898	DIA_EX_AMON_FALGOPAIDYA_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Отдать настойку можжевельника)	(Îňäŕňü íŕńňîéęó ěîććĺâĺëüíčęŕ)
+66191	2845	206899	DIA_EX_AMON_FALGOPAIDYA_INFO	INFO_ADDCHOICE.PAR1	INFO_ADDCHOICE.PAR1	(Отдать пиво)	(Îňäŕňü ďčâî)
+66192	-1	58447	DIA_EX_AMON_FALGOPAIDYA_DRINK	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Amon_falgopaidya_drink_15_00"")"	SUBTITLE	Вот, держи бутылочку.	Âîň, äĺđćč áóňűëî÷ęó.
+66193	-1	58447	DIA_EX_AMON_FALGOPAIDYA_DRINK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_drink_07_01"")"	SUBTITLE	Больше ничего нет, кроме осточертевшего пива.	Áîëüřĺ íč÷ĺăî íĺň, ęđîěĺ îńňî÷ĺđňĺâřĺăî ďčâŕ.
+66194	-1	58447	DIA_EX_AMON_FALGOPAIDYA_DRINK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_drink_07_02"")"	SUBTITLE	Отличное пойло. Как раз то, что было нужно.	Îňëč÷íîĺ ďîéëî. Ęŕę đŕç ňî, ÷ňî áűëî íóćíî.
+66195	-1	58447	DIA_EX_AMON_FALGOPAIDYA_DRINK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_drink_07_03"")"	SUBTITLE	Не плохо. Почти ткже хорошо, как вино Хайо.	Íĺ ďëîőî. Ďî÷ňč ňęćĺ őîđîřî, ęŕę âčíî Őŕéî.
+66196	-1	58447	DIA_EX_AMON_FALGOPAIDYA_DRINK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_drink_07_05"")"	SUBTITLE	Тьфу, что это за бабский напиток?	Ňüôó, ÷ňî ýňî çŕ áŕáńęčé íŕďčňîę?
+66197	-1	58447	DIA_EX_AMON_FALGOPAIDYA_DRINK	"AI_OUTPUT(SELF,OTHER,""DIA_EX_Amon_falgopaidya_drink_07_04"")"	SUBTITLE	У тебя есть что-нибудь получше, мальчик.	Ó ňĺá˙ ĺńňü ÷ňî-íčáóäü ďîëó÷řĺ, ěŕëü÷čę.
+66198	-1	58449	DIA_EX_AMON_FALGOPAIDYA_NOTHING	"AI_OUTPUT(OTHER,SELF,""DIA_EX_Amon_falgopaidya_nothing_15_00"")"	SUBTITLE	Держи мое, за компанию.	Äĺđćč ěîĺ, çŕ ęîěďŕíčţ.
